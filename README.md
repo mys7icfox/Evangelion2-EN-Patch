@@ -2,7 +2,7 @@
 Welcome to the English fan translation project for *Neon Genesis Evangelion 2* (Shinseiki Evangelion 2: Evangelions, PS2, SLPS-25299)! This project aims to bring the full, immersive Evangelion simulation and story experience to English-speaking fans.
 
 ## 📊 Current Status
-**v0.1-beta is out.** All of the game's text has now been translated, and the patch is in the testing phase. The remaining work is in-game testing, fitting text to the boxes, and the text that is drawn into images.
+**v1.0-beta is out.** All of the game's text has now been translated, and the patch is in the testing phase. The remaining work is in-game testing, fitting text to the boxes, and the text that is drawn into images.
 
 | Area | Translated | Tested in-game |
 |---|---|---|
