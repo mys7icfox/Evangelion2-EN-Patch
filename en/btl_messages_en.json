@@ -1,0 +1,7761 @@
+{
+ "notes": [
+  "Fill in \"en\". Leave \"en\" empty to keep the Japanese.",
+  "Keep \\n line breaks (the game does not wrap lines) and the page-wait marker.",
+  "Do not change key, extra, style or id."
+ ],
+ "messages": [
+  {
+   "key": "BEVENT:0:3",
+   "extra": 10,
+   "style": 0,
+   "id": 29134,
+   "ja": "エヴァ初号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-01 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:4",
+   "extra": 17,
+   "style": 0,
+   "id": 29146,
+   "ja": "エヴァ初号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-01 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:6",
+   "extra": 10,
+   "style": 0,
+   "id": 29135,
+   "ja": "使徒、残留ΑΤフィールド$g。\n初号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-01's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:7",
+   "extra": 17,
+   "style": 0,
+   "id": 29147,
+   "ja": "使徒、残留ΑΤフィールド$g。\n初号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-01's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:12",
+   "extra": 10,
+   "style": 0,
+   "id": 29136,
+   "ja": "エヴァ弐号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-02 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29148,
+   "ja": "エヴァ弐号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-02 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:15",
+   "extra": 10,
+   "style": 0,
+   "id": 29137,
+   "ja": "使徒、残留ΑΤフィールド$g。\n弐号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-02's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:16",
+   "extra": 17,
+   "style": 0,
+   "id": 29149,
+   "ja": "使徒、残留ΑΤフィールド$g。\n弐号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-02's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:21",
+   "extra": 10,
+   "style": 0,
+   "id": 29138,
+   "ja": "エヴァ零号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-00 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:22",
+   "extra": 17,
+   "style": 0,
+   "id": 29150,
+   "ja": "エヴァ零号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-00 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:24",
+   "extra": 10,
+   "style": 0,
+   "id": 29139,
+   "ja": "使徒、残留ΑΤフィールド$g。\n零号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-00's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:25",
+   "extra": 17,
+   "style": 0,
+   "id": 29151,
+   "ja": "使徒、残留ΑΤフィールド$g。\n零号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-00's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:30",
+   "extra": 10,
+   "style": 0,
+   "id": 29140,
+   "ja": "エヴァ参号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-03 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:31",
+   "extra": 17,
+   "style": 0,
+   "id": 29152,
+   "ja": "エヴァ参号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-03 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:33",
+   "extra": 10,
+   "style": 0,
+   "id": 29141,
+   "ja": "使徒、残留ΑΤフィールド$g。\n参号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-03's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:34",
+   "extra": 17,
+   "style": 0,
+   "id": 29153,
+   "ja": "使徒、残留ΑΤフィールド$g。\n参号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-03's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:39",
+   "extra": 10,
+   "style": 0,
+   "id": 29142,
+   "ja": "エヴァ四号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-04 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:40",
+   "extra": 17,
+   "style": 0,
+   "id": 29154,
+   "ja": "エヴァ四号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-04 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:0:42",
+   "extra": 10,
+   "style": 0,
+   "id": 29143,
+   "ja": "使徒、残留ΑΤフィールド$g。\n四号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-04's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:43",
+   "extra": 17,
+   "style": 0,
+   "id": 29155,
+   "ja": "使徒、残留ΑΤフィールド$g。\n四号機、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Unit-04's residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:48",
+   "extra": 10,
+   "style": 0,
+   "id": 29144,
+   "ja": "エヴァ両機、\nΑΤフィールド中和開始！\n",
+   "en": "Both Evas, begin neutralizing the A.T. Field!"
+  },
+  {
+   "key": "BEVENT:0:49",
+   "extra": 17,
+   "style": 0,
+   "id": 29156,
+   "ja": "エヴァ両機、\nΑΤフィールド中和開始！\n",
+   "en": "Both Evas, begin neutralizing the A.T. Field!"
+  },
+  {
+   "key": "BEVENT:0:51",
+   "extra": 10,
+   "style": 0,
+   "id": 29145,
+   "ja": "使徒、残留ΑΤフィールド$g。\nエヴァ、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Evas' residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:0:52",
+   "extra": 17,
+   "style": 0,
+   "id": 29157,
+   "ja": "使徒、残留ΑΤフィールド$g。\nエヴァ、残留ΑΤフィールド$h。\n",
+   "en": "Angel's residual A.T. Field, $g. Evas' residual A.T. Field, $h."
+  },
+  {
+   "key": "BEVENT:1:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29158,
+   "ja": "目標のΑΤフィールド、\n消滅しました！\n",
+   "en": "The target's A.T. Field has vanished!"
+  },
+  {
+   "key": "BEVENT:1:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29159,
+   "ja": "目標のΑΤフィールド、\n消滅しました！\n",
+   "en": "The target's A.T. Field has vanished!"
+  },
+  {
+   "key": "BEVENT:2:2",
+   "extra": 10,
+   "style": 0,
+   "id": 29160,
+   "ja": "エヴァ初号機、ΑΤフィールド\n中和距離から離脱しました。\n",
+   "en": "Eva Unit-01 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29166,
+   "ja": "エヴァ初号機、ΑΤフィールド\n中和距離から離脱。\n",
+   "en": "Eva Unit-01 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:7",
+   "extra": 10,
+   "style": 0,
+   "id": 29161,
+   "ja": "エヴァ弐号機、ΑΤフィールド\n中和距離から離脱しました。\n",
+   "en": "Eva Unit-02 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:8",
+   "extra": 17,
+   "style": 0,
+   "id": 29167,
+   "ja": "エヴァ弐号機、ΑΤフィールド\n中和距離から離脱。\n",
+   "en": "Eva Unit-02 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:12",
+   "extra": 10,
+   "style": 0,
+   "id": 29162,
+   "ja": "エヴァ零号機、ΑΤフィールド\n中和距離から離脱しました。\n",
+   "en": "Eva Unit-00 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29168,
+   "ja": "エヴァ零号機、ΑΤフィールド\n中和距離から離脱。\n",
+   "en": "Eva Unit-00 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:17",
+   "extra": 10,
+   "style": 0,
+   "id": 29163,
+   "ja": "エヴァ参号機、ΑΤフィールド\n中和距離から離脱しました。\n",
+   "en": "Eva Unit-03 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:18",
+   "extra": 17,
+   "style": 0,
+   "id": 29169,
+   "ja": "エヴァ参号機、ΑΤフィールド\n中和距離から離脱。\n",
+   "en": "Eva Unit-03 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:22",
+   "extra": 10,
+   "style": 0,
+   "id": 29164,
+   "ja": "エヴァ四号機、ΑΤフィールド\n中和距離から離脱しました。\n",
+   "en": "Eva Unit-04 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:23",
+   "extra": 17,
+   "style": 0,
+   "id": 29170,
+   "ja": "エヴァ四号機、ΑΤフィールド\n中和距離から離脱。\n",
+   "en": "Eva Unit-04 has left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:27",
+   "extra": 10,
+   "style": 0,
+   "id": 29165,
+   "ja": "エヴァ両機、ΑΤフィールド\n中和距離から離脱しました。\n",
+   "en": "Both Evas have left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:2:28",
+   "extra": 17,
+   "style": 0,
+   "id": 29171,
+   "ja": "エヴァ両機、ΑΤフィールド\n中和距離から離脱。\n",
+   "en": "Both Evas have left A.T. Field neutralization range."
+  },
+  {
+   "key": "BEVENT:3:2",
+   "extra": 4,
+   "style": 0,
+   "id": 29172,
+   "ja": "シンジ君は退避して！\n",
+   "en": "Shinji, withdraw!"
+  },
+  {
+   "key": "BEVENT:3:3",
+   "extra": 6,
+   "style": 0,
+   "id": 29178,
+   "ja": "初号機パイロットはただちに退避！\n",
+   "en": "Unit-01 pilot, evacuate immediately!"
+  },
+  {
+   "key": "BEVENT:3:4",
+   "extra": 18,
+   "style": 0,
+   "id": 29184,
+   "ja": "初号機パイロットは\n退避して下さい！\n",
+   "en": "Unit-01 pilot, please withdraw!"
+  },
+  {
+   "key": "BEVENT:3:8",
+   "extra": 4,
+   "style": 0,
+   "id": 29173,
+   "ja": "アスカは退避して！\n",
+   "en": "Asuka, withdraw!"
+  },
+  {
+   "key": "BEVENT:3:9",
+   "extra": 6,
+   "style": 0,
+   "id": 29179,
+   "ja": "弐号機パイロットは退避しろ。\n",
+   "en": "Unit-02 pilot, evacuate."
+  },
+  {
+   "key": "BEVENT:3:10",
+   "extra": 18,
+   "style": 0,
+   "id": 29185,
+   "ja": "弐号機パイロットは\n退避して下さい！\n",
+   "en": "Unit-02 pilot, please withdraw!"
+  },
+  {
+   "key": "BEVENT:3:14",
+   "extra": 4,
+   "style": 0,
+   "id": 29174,
+   "ja": "レイは退避して！\n",
+   "en": "Rei, withdraw!"
+  },
+  {
+   "key": "BEVENT:3:15",
+   "extra": 6,
+   "style": 0,
+   "id": 29180,
+   "ja": "零号機パイロットは退避しろ！\n",
+   "en": "Unit-00 pilot, evacuate!"
+  },
+  {
+   "key": "BEVENT:3:16",
+   "extra": 18,
+   "style": 0,
+   "id": 29186,
+   "ja": "零号機パイロットは\n退避して下さい！\n",
+   "en": "Unit-00 pilot, please withdraw!"
+  },
+  {
+   "key": "BEVENT:3:20",
+   "extra": 4,
+   "style": 0,
+   "id": 29175,
+   "ja": "トウジ君は退避して！\n",
+   "en": "Toji, withdraw!"
+  },
+  {
+   "key": "BEVENT:3:21",
+   "extra": 6,
+   "style": 0,
+   "id": 29181,
+   "ja": "参号機パイロットは退避だ！\n",
+   "en": "Unit-03 pilot, evacuate!"
+  },
+  {
+   "key": "BEVENT:3:22",
+   "extra": 18,
+   "style": 0,
+   "id": 29187,
+   "ja": "参号機パイロットは\n退避して下さい！\n",
+   "en": "Unit-03 pilot, please withdraw!"
+  },
+  {
+   "key": "BEVENT:3:26",
+   "extra": 4,
+   "style": 0,
+   "id": 29176,
+   "ja": "カヲル君は退避して！\n",
+   "en": "Kaworu, withdraw!"
+  },
+  {
+   "key": "BEVENT:3:27",
+   "extra": 6,
+   "style": 0,
+   "id": 29182,
+   "ja": "四号機パイロットは退避しろ！\n",
+   "en": "Unit-04 pilot, evacuate!"
+  },
+  {
+   "key": "BEVENT:3:28",
+   "extra": 18,
+   "style": 0,
+   "id": 29188,
+   "ja": "四号機パイロットは\n退避して下さい！\n",
+   "en": "Unit-04 pilot, please withdraw!"
+  },
+  {
+   "key": "BEVENT:3:32",
+   "extra": 4,
+   "style": 0,
+   "id": 29177,
+   "ja": "エヴァ両機は退避して！\n",
+   "en": "Both Evas, withdraw!"
+  },
+  {
+   "key": "BEVENT:3:33",
+   "extra": 6,
+   "style": 0,
+   "id": 29183,
+   "ja": "エヴァ両機パイロットは\nただちに退避！\n",
+   "en": "Both Eva pilots, evacuate immediately!"
+  },
+  {
+   "key": "BEVENT:3:34",
+   "extra": 18,
+   "style": 0,
+   "id": 29189,
+   "ja": "エヴァ両機パイロットは\n退避して下さい！\n",
+   "en": "Both Eva pilots, please withdraw!"
+  },
+  {
+   "key": "BEVENT:4:2",
+   "extra": 4,
+   "style": 0,
+   "id": 29190,
+   "ja": "シンジ君は接近戦に\n移ってちょうだい！\n",
+   "en": "Shinji, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:3",
+   "extra": 6,
+   "style": 0,
+   "id": 29196,
+   "ja": "初号機は接近戦に移行しろ！\n",
+   "en": "Unit-01, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:4",
+   "extra": 18,
+   "style": 0,
+   "id": 29202,
+   "ja": "初号機パイロットは\n接近戦に移行して下さい！\n",
+   "en": "Unit-01 pilot, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:8",
+   "extra": 4,
+   "style": 0,
+   "id": 29191,
+   "ja": "アスカ、あなたは\n接近戦に移ってちょうだい！！\n",
+   "en": "Asuka, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:9",
+   "extra": 6,
+   "style": 0,
+   "id": 29197,
+   "ja": "弐号機は接近戦に移行しろ！\n",
+   "en": "Unit-02, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:10",
+   "extra": 18,
+   "style": 0,
+   "id": 29203,
+   "ja": "弐号機パイロットは\n接近戦に移行して下さい！\n",
+   "en": "Unit-02 pilot, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:14",
+   "extra": 4,
+   "style": 0,
+   "id": 29192,
+   "ja": "レイ、接近戦に移ってちょうだい！\n",
+   "en": "Rei, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:15",
+   "extra": 6,
+   "style": 0,
+   "id": 29198,
+   "ja": "零号機はこれより接近戦に\n移行しろ！\n",
+   "en": "Unit-00, switch to close combat now!"
+  },
+  {
+   "key": "BEVENT:4:16",
+   "extra": 18,
+   "style": 0,
+   "id": 29204,
+   "ja": "零号機パイロットは\n接近戦に移行して下さい！\n",
+   "en": "Unit-00 pilot, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:20",
+   "extra": 4,
+   "style": 0,
+   "id": 29193,
+   "ja": "トウジ君には接近戦を頼むわ！\n",
+   "en": "Toji, I'm counting on you for close combat!"
+  },
+  {
+   "key": "BEVENT:4:21",
+   "extra": 6,
+   "style": 0,
+   "id": 29199,
+   "ja": "参号機、接近戦へ移行しろ！！\n",
+   "en": "Unit-03, switch to close combat!!"
+  },
+  {
+   "key": "BEVENT:4:22",
+   "extra": 18,
+   "style": 0,
+   "id": 29205,
+   "ja": "参号機パイロットは\n接近戦に移行して下さい！\n",
+   "en": "Unit-03 pilot, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:26",
+   "extra": 4,
+   "style": 0,
+   "id": 29194,
+   "ja": "カヲル君、これから接近戦に\n移ってちょうだい！\n",
+   "en": "Kaworu, switch to close combat now, please!"
+  },
+  {
+   "key": "BEVENT:4:27",
+   "extra": 6,
+   "style": 0,
+   "id": 29200,
+   "ja": "四号機は接近戦に移行しろ！\n",
+   "en": "Unit-04, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:28",
+   "extra": 18,
+   "style": 0,
+   "id": 29206,
+   "ja": "四号機パイロットは\n接近戦に移行して下さい！\n",
+   "en": "Unit-04 pilot, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:32",
+   "extra": 4,
+   "style": 0,
+   "id": 29195,
+   "ja": "エヴァ両機は接近戦に移って！\n",
+   "en": "Both Evas, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:33",
+   "extra": 6,
+   "style": 0,
+   "id": 29201,
+   "ja": "エヴァ両機、\n接近戦に移行しろ！\n",
+   "en": "Both Evas, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:4:34",
+   "extra": 18,
+   "style": 0,
+   "id": 29207,
+   "ja": "エヴァ両機パイロットは\n接近戦に移行して下さい！\n",
+   "en": "Both Eva pilots, switch to close combat!"
+  },
+  {
+   "key": "BEVENT:5:2",
+   "extra": 4,
+   "style": 0,
+   "id": 29208,
+   "ja": "シンジ君は距離をとって射撃して！\n",
+   "en": "Shinji, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:3",
+   "extra": 6,
+   "style": 0,
+   "id": 29214,
+   "ja": "初号機は距離をとって射撃！\n",
+   "en": "Unit-01, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:4",
+   "extra": 18,
+   "style": 0,
+   "id": 29220,
+   "ja": "初号機パイロットは\n距離をとって射撃して下さい！\n",
+   "en": "Unit-01 pilot, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:8",
+   "extra": 4,
+   "style": 0,
+   "id": 29209,
+   "ja": "アスカは距離をとって射撃して！\n",
+   "en": "Asuka, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:9",
+   "extra": 6,
+   "style": 0,
+   "id": 29215,
+   "ja": "弐号機は距離をとって射撃！\n",
+   "en": "Unit-02, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:10",
+   "extra": 18,
+   "style": 0,
+   "id": 29221,
+   "ja": "弐号機パイロットは\n距離をとって射撃して下さい！\n",
+   "en": "Unit-02 pilot, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:14",
+   "extra": 4,
+   "style": 0,
+   "id": 29210,
+   "ja": "レイは距離をとって射撃して！\n",
+   "en": "Rei, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:15",
+   "extra": 6,
+   "style": 0,
+   "id": 29216,
+   "ja": "零号機は距離をとって射撃！\n",
+   "en": "Unit-00, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:16",
+   "extra": 18,
+   "style": 0,
+   "id": 29222,
+   "ja": "零号機パイロットは\n距離をとって射撃して下さい！\n",
+   "en": "Unit-00 pilot, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:20",
+   "extra": 4,
+   "style": 0,
+   "id": 29211,
+   "ja": "トウジくんは\n距離をとって射撃して！\n",
+   "en": "Toji, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:21",
+   "extra": 6,
+   "style": 0,
+   "id": 29217,
+   "ja": "参号機は距離をとって射撃！\n",
+   "en": "Unit-03, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:22",
+   "extra": 18,
+   "style": 0,
+   "id": 29223,
+   "ja": "参号機パイロットは\n距離をとって射撃して下さい！\n",
+   "en": "Unit-03 pilot, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:26",
+   "extra": 4,
+   "style": 0,
+   "id": 29212,
+   "ja": "カヲルくんは\n距離をとって射撃して！\n",
+   "en": "Kaworu, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:27",
+   "extra": 6,
+   "style": 0,
+   "id": 29218,
+   "ja": "四号機は距離をとって射撃！\n",
+   "en": "Unit-04, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:28",
+   "extra": 18,
+   "style": 0,
+   "id": 29224,
+   "ja": "四号機パイロットは\n距離をとって射撃して下さい！\n",
+   "en": "Unit-04 pilot, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:32",
+   "extra": 4,
+   "style": 0,
+   "id": 29213,
+   "ja": "エヴァ両機は\n距離をとって射撃して！\n",
+   "en": "Both Evas, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:33",
+   "extra": 6,
+   "style": 0,
+   "id": 29219,
+   "ja": "エヴァ両機は距離をとって射撃！\n",
+   "en": "Both Evas, keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:5:34",
+   "extra": 18,
+   "style": 0,
+   "id": 29225,
+   "ja": "エヴァ両機は、\n距離をとって射撃して下さい！\n",
+   "en": "Both Evas, please keep your distance and fire!"
+  },
+  {
+   "key": "BEVENT:6:2",
+   "extra": 4,
+   "style": 0,
+   "id": 29226,
+   "ja": "シンジ君、射撃開始！\n",
+   "en": "Shinji, open fire!"
+  },
+  {
+   "key": "BEVENT:6:3",
+   "extra": 6,
+   "style": 0,
+   "id": 29232,
+   "ja": "初号機パイロット、\n射撃開始！\n",
+   "en": "Unit-01 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:4",
+   "extra": 18,
+   "style": 0,
+   "id": 29238,
+   "ja": "初号機パイロットは、\n射撃開始！\n",
+   "en": "Unit-01 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:8",
+   "extra": 4,
+   "style": 0,
+   "id": 29227,
+   "ja": "アスカ、射撃開始！\n",
+   "en": "Asuka, open fire!"
+  },
+  {
+   "key": "BEVENT:6:9",
+   "extra": 6,
+   "style": 0,
+   "id": 29233,
+   "ja": "弐号機パイロット、\n射撃開始！\n",
+   "en": "Unit-02 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:10",
+   "extra": 18,
+   "style": 0,
+   "id": 29239,
+   "ja": "弐号機パイロットは、\n射撃開始！\n",
+   "en": "Unit-02 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:14",
+   "extra": 4,
+   "style": 0,
+   "id": 29228,
+   "ja": "レイ、射撃開始！\n",
+   "en": "Rei, open fire!"
+  },
+  {
+   "key": "BEVENT:6:15",
+   "extra": 6,
+   "style": 0,
+   "id": 29234,
+   "ja": "零号機パイロット、\n射撃開始！\n",
+   "en": "Unit-00 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:16",
+   "extra": 18,
+   "style": 0,
+   "id": 29240,
+   "ja": "零号機パイロットは、\n射撃開始！\n",
+   "en": "Unit-00 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:20",
+   "extra": 4,
+   "style": 0,
+   "id": 29229,
+   "ja": "トウジ君、射撃開始！\n",
+   "en": "Toji, open fire!"
+  },
+  {
+   "key": "BEVENT:6:21",
+   "extra": 6,
+   "style": 0,
+   "id": 29235,
+   "ja": "参号機パイロット、\n射撃開始！\n",
+   "en": "Unit-03 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:22",
+   "extra": 18,
+   "style": 0,
+   "id": 29241,
+   "ja": "参号機パイロットは、\n射撃開始！\n",
+   "en": "Unit-03 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:26",
+   "extra": 4,
+   "style": 0,
+   "id": 29230,
+   "ja": "カヲル君、射撃開始！\n",
+   "en": "Kaworu, open fire!"
+  },
+  {
+   "key": "BEVENT:6:27",
+   "extra": 6,
+   "style": 0,
+   "id": 29236,
+   "ja": "四号機パイロット、\n射撃開始！\n",
+   "en": "Unit-04 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:28",
+   "extra": 18,
+   "style": 0,
+   "id": 29242,
+   "ja": "四号機パイロットは、\n射撃開始！\n",
+   "en": "Unit-04 pilot, open fire!"
+  },
+  {
+   "key": "BEVENT:6:32",
+   "extra": 4,
+   "style": 0,
+   "id": 29231,
+   "ja": "エヴァ両機、射撃開始！\n",
+   "en": "Both Evas, open fire!"
+  },
+  {
+   "key": "BEVENT:6:33",
+   "extra": 6,
+   "style": 0,
+   "id": 29237,
+   "ja": "エヴァ両機パイロット、\n射撃開始！\n",
+   "en": "Both Eva pilots, open fire!"
+  },
+  {
+   "key": "BEVENT:6:34",
+   "extra": 18,
+   "style": 0,
+   "id": 29243,
+   "ja": "エヴァ両機パイロットは\n射撃開始！\n",
+   "en": "Both Eva pilots, open fire!"
+  },
+  {
+   "key": "BEVENT:7:2",
+   "extra": 4,
+   "style": 0,
+   "id": 29244,
+   "ja": "シンジ君はその場で待機！\n",
+   "en": "Shinji, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:3",
+   "extra": 6,
+   "style": 0,
+   "id": 29250,
+   "ja": "初号機パイロットは\nその場で待機だ！\n",
+   "en": "Unit-01 pilot, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:4",
+   "extra": 18,
+   "style": 0,
+   "id": 29256,
+   "ja": "初号機パイロットは\nその場で待機して下さい！\n",
+   "en": "Unit-01 pilot, please hold your position!"
+  },
+  {
+   "key": "BEVENT:7:8",
+   "extra": 4,
+   "style": 0,
+   "id": 29245,
+   "ja": "アスカはその場で待機！\n",
+   "en": "Asuka, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:9",
+   "extra": 6,
+   "style": 0,
+   "id": 29251,
+   "ja": "弐号機パイロットは\nその場で待機だ！\n",
+   "en": "Unit-02 pilot, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:10",
+   "extra": 18,
+   "style": 0,
+   "id": 29257,
+   "ja": "弐号機パイロットは\nその場で待機して下さい！\n",
+   "en": "Unit-02 pilot, please hold your position!"
+  },
+  {
+   "key": "BEVENT:7:14",
+   "extra": 4,
+   "style": 0,
+   "id": 29246,
+   "ja": "レイはその場で待機！\n",
+   "en": "Rei, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:15",
+   "extra": 6,
+   "style": 0,
+   "id": 29252,
+   "ja": "零号機パイロットは\nその場で待機だ！\n",
+   "en": "Unit-00 pilot, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:16",
+   "extra": 18,
+   "style": 0,
+   "id": 29258,
+   "ja": "零号機パイロットは\nその場で待機して下さい！\n",
+   "en": "Unit-00 pilot, please hold your position!"
+  },
+  {
+   "key": "BEVENT:7:20",
+   "extra": 4,
+   "style": 0,
+   "id": 29247,
+   "ja": "トウジ君はその場で待機！\n",
+   "en": "Toji, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:21",
+   "extra": 6,
+   "style": 0,
+   "id": 29253,
+   "ja": "参号機パイロットは\nその場で待機だ！\n",
+   "en": "Unit-03 pilot, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:22",
+   "extra": 18,
+   "style": 0,
+   "id": 29259,
+   "ja": "参号機パイロットは\nその場で待機して下さい！\n",
+   "en": "Unit-03 pilot, please hold your position!"
+  },
+  {
+   "key": "BEVENT:7:26",
+   "extra": 4,
+   "style": 0,
+   "id": 29248,
+   "ja": "カヲル君はその場で待機！\n",
+   "en": "Kaworu, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:27",
+   "extra": 6,
+   "style": 0,
+   "id": 29254,
+   "ja": "四号機パイロットは\nその場で待機だ！\n",
+   "en": "Unit-04 pilot, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:28",
+   "extra": 18,
+   "style": 0,
+   "id": 29260,
+   "ja": "四号機パイロットは\nその場で待機して下さい！\n",
+   "en": "Unit-04 pilot, please hold your position!"
+  },
+  {
+   "key": "BEVENT:7:32",
+   "extra": 4,
+   "style": 0,
+   "id": 29249,
+   "ja": "エヴァ両機はその場で待機！\n",
+   "en": "Both Evas, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:33",
+   "extra": 6,
+   "style": 0,
+   "id": 29255,
+   "ja": "エヴァ両機パイロットは\nその場で待機だ！\n",
+   "en": "Both Eva pilots, hold your position!"
+  },
+  {
+   "key": "BEVENT:7:34",
+   "extra": 18,
+   "style": 0,
+   "id": 29261,
+   "ja": "エヴァ両機パイロットは\nその場で待機して下さい！\n",
+   "en": "Both Eva pilots, please hold your position!"
+  },
+  {
+   "key": "BEVENT:8:2",
+   "extra": 4,
+   "style": 0,
+   "id": 29262,
+   "ja": "初号機、\n$fエリアに移動して！\n",
+   "en": "Unit-01, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:3",
+   "extra": 6,
+   "style": 0,
+   "id": 29268,
+   "ja": "初号機、\n$fエリアに移動！\n",
+   "en": "Unit-01, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:4",
+   "extra": 18,
+   "style": 0,
+   "id": 29274,
+   "ja": "初号機、$fエリアに\n移動して下さい！\n",
+   "en": "Unit-01, please move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:7",
+   "extra": 4,
+   "style": 0,
+   "id": 29263,
+   "ja": "弐号機、\n$fエリアに移動して！\n",
+   "en": "Unit-02, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:8",
+   "extra": 6,
+   "style": 0,
+   "id": 29269,
+   "ja": "弐号機、\n$fエリアに移動！\n",
+   "en": "Unit-02, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:9",
+   "extra": 18,
+   "style": 0,
+   "id": 29275,
+   "ja": "弐号機、$fエリアに\n移動して下さい！\n",
+   "en": "Unit-02, please move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:12",
+   "extra": 4,
+   "style": 0,
+   "id": 29264,
+   "ja": "零号機、\n$fエリアに移動して！\n",
+   "en": "Unit-00, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:13",
+   "extra": 6,
+   "style": 0,
+   "id": 29270,
+   "ja": "零号機、\n$fエリアに移動！\n",
+   "en": "Unit-00, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:14",
+   "extra": 18,
+   "style": 0,
+   "id": 29276,
+   "ja": "零号機、$fエリアに\n移動して下さい！\n",
+   "en": "Unit-00, please move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:17",
+   "extra": 4,
+   "style": 0,
+   "id": 29265,
+   "ja": "参号機、\n$fエリアに移動して！\n",
+   "en": "Unit-03, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:18",
+   "extra": 6,
+   "style": 0,
+   "id": 29271,
+   "ja": "参号機、\n$fエリアに移動！\n",
+   "en": "Unit-03, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:19",
+   "extra": 18,
+   "style": 0,
+   "id": 29277,
+   "ja": "参号機、$fエリアに\n移動して下さい！\n",
+   "en": "Unit-03, please move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:22",
+   "extra": 4,
+   "style": 0,
+   "id": 29266,
+   "ja": "四号機、\n$fエリアに移動して！\n",
+   "en": "Unit-04, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:23",
+   "extra": 6,
+   "style": 0,
+   "id": 29272,
+   "ja": "四号機、\n$fエリアに移動！\n",
+   "en": "Unit-04, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:24",
+   "extra": 18,
+   "style": 0,
+   "id": 29278,
+   "ja": "四号機、$fエリアに\n移動して下さい！\n",
+   "en": "Unit-04, please move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:27",
+   "extra": 4,
+   "style": 0,
+   "id": 29267,
+   "ja": "エヴァ両機、\n$fエリアに移動して！\n",
+   "en": "Both Evas, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:28",
+   "extra": 6,
+   "style": 0,
+   "id": 29273,
+   "ja": "エヴァ両機、\n$fエリアに移動！\n",
+   "en": "Both Evas, move to Area $f!"
+  },
+  {
+   "key": "BEVENT:8:29",
+   "extra": 18,
+   "style": 0,
+   "id": 29279,
+   "ja": "エヴァ両機、$fエリアに\n移動して下さい！\n",
+   "en": "Both Evas, please move to Area $f!"
+  },
+  {
+   "key": "BEVENT:9:2",
+   "extra": 9,
+   "style": 0,
+   "id": 29280,
+   "ja": "エヴァ初号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-01 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29287,
+   "ja": "エヴァ初号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-01 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:6",
+   "extra": 9,
+   "style": 0,
+   "id": 29281,
+   "ja": "エヴァ弐号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-02 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:7",
+   "extra": 17,
+   "style": 0,
+   "id": 29288,
+   "ja": "エヴァ弐号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-02 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:10",
+   "extra": 9,
+   "style": 0,
+   "id": 29282,
+   "ja": "エヴァ零号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-00 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:11",
+   "extra": 17,
+   "style": 0,
+   "id": 29289,
+   "ja": "エヴァ零号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-00 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:14",
+   "extra": 9,
+   "style": 0,
+   "id": 29283,
+   "ja": "エヴァ参号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-03 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:15",
+   "extra": 17,
+   "style": 0,
+   "id": 29290,
+   "ja": "エヴァ参号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-03 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:18",
+   "extra": 9,
+   "style": 0,
+   "id": 29284,
+   "ja": "エヴァ四号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-04 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:19",
+   "extra": 17,
+   "style": 0,
+   "id": 29291,
+   "ja": "エヴァ四号機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Unit-04 attacks! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:22",
+   "extra": 9,
+   "style": 0,
+   "id": 29285,
+   "ja": "エヴァ両機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Both Evas attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:23",
+   "extra": 17,
+   "style": 0,
+   "id": 29292,
+   "ja": "エヴァ両機の攻撃、\n使徒に$jのダメージ！\n",
+   "en": "Both Evas attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:9:26",
+   "extra": 9,
+   "style": 0,
+   "id": 29286,
+   "ja": "ΑΤフィールドとシンクロ率、\n共に上昇！\n",
+   "en": "A.T. Field and sync ratio both rising!"
+  },
+  {
+   "key": "BEVENT:9:27",
+   "extra": 17,
+   "style": 0,
+   "id": 29293,
+   "ja": "ΑΤフィールドとシンクロ率、\n共に上昇！\n",
+   "en": "A.T. Field and sync ratio both rising!"
+  },
+  {
+   "key": "BEVENT:10:2",
+   "extra": 9,
+   "style": 0,
+   "id": 29294,
+   "ja": "使徒の攻撃、初号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-01!"
+  },
+  {
+   "key": "BEVENT:10:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29301,
+   "ja": "使徒の攻撃、初号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-01!"
+  },
+  {
+   "key": "BEVENT:10:6",
+   "extra": 9,
+   "style": 0,
+   "id": 29295,
+   "ja": "使徒の攻撃、弐号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-02!"
+  },
+  {
+   "key": "BEVENT:10:7",
+   "extra": 17,
+   "style": 0,
+   "id": 29302,
+   "ja": "使徒の攻撃、弐号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-02!"
+  },
+  {
+   "key": "BEVENT:10:10",
+   "extra": 9,
+   "style": 0,
+   "id": 29296,
+   "ja": "使徒の攻撃、零号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-00!"
+  },
+  {
+   "key": "BEVENT:10:11",
+   "extra": 17,
+   "style": 0,
+   "id": 29303,
+   "ja": "使徒の攻撃、零号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-00!"
+  },
+  {
+   "key": "BEVENT:10:14",
+   "extra": 9,
+   "style": 0,
+   "id": 29297,
+   "ja": "使徒の攻撃、参号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-03!"
+  },
+  {
+   "key": "BEVENT:10:15",
+   "extra": 17,
+   "style": 0,
+   "id": 29304,
+   "ja": "使徒の攻撃、参号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-03!"
+  },
+  {
+   "key": "BEVENT:10:18",
+   "extra": 9,
+   "style": 0,
+   "id": 29298,
+   "ja": "使徒の攻撃、四号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-04!"
+  },
+  {
+   "key": "BEVENT:10:19",
+   "extra": 17,
+   "style": 0,
+   "id": 29305,
+   "ja": "使徒の攻撃、四号機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to Unit-04!"
+  },
+  {
+   "key": "BEVENT:10:22",
+   "extra": 9,
+   "style": 0,
+   "id": 29299,
+   "ja": "使徒の攻撃、エヴァ両機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to both Evas!"
+  },
+  {
+   "key": "BEVENT:10:23",
+   "extra": 17,
+   "style": 0,
+   "id": 29306,
+   "ja": "使徒の攻撃、エヴァ両機に\n$jのダメージ！\n",
+   "en": "Angel attacks! $j damage to both Evas!"
+  },
+  {
+   "key": "BEVENT:10:26",
+   "extra": 9,
+   "style": 0,
+   "id": 29300,
+   "ja": "ΑΤフィールドとシンクロ率、\n共に低下！\n",
+   "en": "A.T. Field and sync ratio both dropping!"
+  },
+  {
+   "key": "BEVENT:10:27",
+   "extra": 17,
+   "style": 0,
+   "id": 29307,
+   "ja": "ΑΤフィールドとシンクロ率、\n共に低下！\n",
+   "en": "A.T. Field and sync ratio both dropping!"
+  },
+  {
+   "key": "BEVENT:11:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29308,
+   "ja": "$fエリア、兵装ビル、攻撃！\n使徒に$jのダメージ！\n",
+   "en": "Area $f, weapon tower buildings attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:11:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29309,
+   "ja": "$fエリア、兵装ビル、攻撃！\n使徒に$jのダメージ！\n",
+   "en": "Area $f, weapon tower buildings attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:12:2",
+   "extra": 10,
+   "style": 0,
+   "id": 29310,
+   "ja": "$fエリア電源ビル、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f power building took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:12:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29315,
+   "ja": "$fエリア電源ビル、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f power building took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:12:7",
+   "extra": 10,
+   "style": 0,
+   "id": 29311,
+   "ja": "$fエリア武器庫ビル、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f armory building took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:12:8",
+   "extra": 17,
+   "style": 0,
+   "id": 29316,
+   "ja": "$fエリア武器庫ビル、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f armory building took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:12:12",
+   "extra": 10,
+   "style": 0,
+   "id": 29312,
+   "ja": "$fエリア兵装ビル、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f weapon building took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:12:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29317,
+   "ja": "$fエリア兵装ビル、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f weapon building took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:12:17",
+   "extra": 10,
+   "style": 0,
+   "id": 29313,
+   "ja": "$fエリア防御施設、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f defense facility took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:12:18",
+   "extra": 17,
+   "style": 0,
+   "id": 29318,
+   "ja": "$fエリア防御施設、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f defense facility took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:13:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29319,
+   "ja": "$fエリア、国連軍、攻撃！\n使徒、$jのダメージ！\n",
+   "en": "Area $f, UN forces attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:13:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29320,
+   "ja": "$fエリア、国連軍、攻撃！\n使徒、$jのダメージ！\n",
+   "en": "Area $f, UN forces attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:14:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29321,
+   "ja": "$fエリア、国連軍、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f, UN forces took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:14:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29322,
+   "ja": "$fエリア、国連軍、\n使徒の攻撃により、\n$jのダメージ！\n",
+   "en": "Area $f, UN forces took $j damage from the Angel's attack!"
+  },
+  {
+   "key": "BEVENT:15:2",
+   "extra": 10,
+   "style": 0,
+   "id": 29323,
+   "ja": "$fエリア電源ビル、\n破壊されました！\n",
+   "en": "Area $f power building destroyed!"
+  },
+  {
+   "key": "BEVENT:15:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29327,
+   "ja": "$fエリア電源ビル、\n破壊されました！\n",
+   "en": "Area $f power building destroyed!"
+  },
+  {
+   "key": "BEVENT:15:7",
+   "extra": 10,
+   "style": 0,
+   "id": 29324,
+   "ja": "$fエリア武器庫ビル、\n破壊されました！\n",
+   "en": "Area $f armory building destroyed!"
+  },
+  {
+   "key": "BEVENT:15:8",
+   "extra": 17,
+   "style": 0,
+   "id": 29328,
+   "ja": "$fエリア武器庫ビル、\n破壊されました！\n",
+   "en": "Area $f armory building destroyed!"
+  },
+  {
+   "key": "BEVENT:15:12",
+   "extra": 10,
+   "style": 0,
+   "id": 29325,
+   "ja": "$fエリア兵装ビル、\n破壊されました！\n",
+   "en": "Area $f weapon tower building destroyed!"
+  },
+  {
+   "key": "BEVENT:15:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29329,
+   "ja": "$fエリア兵装ビル、\n破壊されました！\n",
+   "en": "Area $f weapon tower building destroyed!"
+  },
+  {
+   "key": "BEVENT:15:17",
+   "extra": 10,
+   "style": 0,
+   "id": 29326,
+   "ja": "$fエリア防御施設、\n破壊されました！\n",
+   "en": "Area $f defense facility destroyed!"
+  },
+  {
+   "key": "BEVENT:15:18",
+   "extra": 17,
+   "style": 0,
+   "id": 29330,
+   "ja": "$fエリア防御施設、\n破壊されました！\n",
+   "en": "Area $f defense facility destroyed!"
+  },
+  {
+   "key": "BEVENT:16:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29331,
+   "ja": "$fエリア、国連軍、\n掃滅しました！\n",
+   "en": "Area $f UN forces wiped out!"
+  },
+  {
+   "key": "BEVENT:16:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29332,
+   "ja": "$fエリア、国連軍、\n掃滅しました！\n",
+   "en": "Area $f UN forces wiped out!"
+  },
+  {
+   "key": "BEVENT:17:2",
+   "extra": 8,
+   "style": 0,
+   "id": 29333,
+   "ja": "エヴァ初号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-01 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:3",
+   "extra": 18,
+   "style": 0,
+   "id": 29339,
+   "ja": "エヴァ初号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-01 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:7",
+   "extra": 8,
+   "style": 0,
+   "id": 29334,
+   "ja": "エヴァ弐号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-02 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:8",
+   "extra": 18,
+   "style": 0,
+   "id": 29340,
+   "ja": "エヴァ弐号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-02 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:12",
+   "extra": 8,
+   "style": 0,
+   "id": 29335,
+   "ja": "エヴァ零号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-00 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:13",
+   "extra": 18,
+   "style": 0,
+   "id": 29341,
+   "ja": "エヴァ零号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-00 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:17",
+   "extra": 8,
+   "style": 0,
+   "id": 29336,
+   "ja": "エヴァ参号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-03 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:18",
+   "extra": 18,
+   "style": 0,
+   "id": 29342,
+   "ja": "エヴァ参号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-03 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:22",
+   "extra": 8,
+   "style": 0,
+   "id": 29337,
+   "ja": "エヴァ四号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-04 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:23",
+   "extra": 18,
+   "style": 0,
+   "id": 29343,
+   "ja": "エヴァ四号機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Unit-04 umbilical cable severed!"
+  },
+  {
+   "key": "BEVENT:17:27",
+   "extra": 8,
+   "style": 0,
+   "id": 29338,
+   "ja": "エヴァ両機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Both Evas' umbilical cables severed!"
+  },
+  {
+   "key": "BEVENT:17:28",
+   "extra": 18,
+   "style": 0,
+   "id": 29344,
+   "ja": "エヴァ両機の\nアンビリカルケーブル、\n切断しました！\n",
+   "en": "Both Evas' umbilical cables severed!"
+  },
+  {
+   "key": "BEVENT:18:2",
+   "extra": 8,
+   "style": 0,
+   "id": 29345,
+   "ja": "エヴァ初号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-01 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:3",
+   "extra": 18,
+   "style": 0,
+   "id": 29351,
+   "ja": "エヴァ初号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-01 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:7",
+   "extra": 8,
+   "style": 0,
+   "id": 29346,
+   "ja": "エヴァ弐号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-02 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:8",
+   "extra": 18,
+   "style": 0,
+   "id": 29352,
+   "ja": "エヴァ弐号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-02 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:12",
+   "extra": 8,
+   "style": 0,
+   "id": 29347,
+   "ja": "エヴァ零号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-00 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:13",
+   "extra": 18,
+   "style": 0,
+   "id": 29353,
+   "ja": "エヴァ零号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-00 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:17",
+   "extra": 8,
+   "style": 0,
+   "id": 29348,
+   "ja": "エヴァ参号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-03 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:18",
+   "extra": 18,
+   "style": 0,
+   "id": 29354,
+   "ja": "エヴァ参号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-03 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:22",
+   "extra": 8,
+   "style": 0,
+   "id": 29349,
+   "ja": "エヴァ四号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-04 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:23",
+   "extra": 18,
+   "style": 0,
+   "id": 29355,
+   "ja": "エヴァ四号機、\nアンビリカルケーブル接続。\n",
+   "en": "Unit-04 umbilical cable connected."
+  },
+  {
+   "key": "BEVENT:18:27",
+   "extra": 8,
+   "style": 0,
+   "id": 29350,
+   "ja": "エヴァ両機、\nアンビリカルケーブル接続。\n",
+   "en": "Both Evas' umbilical cables connected."
+  },
+  {
+   "key": "BEVENT:18:28",
+   "extra": 18,
+   "style": 0,
+   "id": 29356,
+   "ja": "エヴァ両機、\nアンビリカルケーブル接続。\n",
+   "en": "Both Evas' umbilical cables connected."
+  },
+  {
+   "key": "BEVENT:19:1",
+   "extra": 1,
+   "style": 4127,
+   "id": 29357,
+   "ja": "どうしたんだ、\n動かない、動かないよ…。\n",
+   "en": "What's wrong? It won't move, it won't move..."
+  },
+  {
+   "key": "BEVENT:19:3",
+   "extra": 2,
+   "style": 4127,
+   "id": 29358,
+   "ja": "動かない…。\n動かないの、動いてくれないの！\n",
+   "en": "It won't move... Move, why won't you move!"
+  },
+  {
+   "key": "BEVENT:19:5",
+   "extra": 3,
+   "style": 4127,
+   "id": 29359,
+   "ja": "駄目…、動かない…。\n私には…、動かせない。\n",
+   "en": "No good... It won't move... I can't move it."
+  },
+  {
+   "key": "BEVENT:19:7",
+   "extra": 13,
+   "style": 4127,
+   "id": 29366,
+   "ja": "動かへん…。\nああ、何でや…。\n何で動かへんのや…。\n",
+   "en": "It ain't movin'... Aw, why... Why ain't it movin'..."
+  },
+  {
+   "key": "BEVENT:19:9",
+   "extra": 15,
+   "style": 4127,
+   "id": 29367,
+   "ja": "そんな、動かない…。\n僕に動かせないなんて…。\nなぜだ…！！\n",
+   "en": "It won't move... I can't move it...? Why...!!"
+  },
+  {
+   "key": "BEVENT:19:11",
+   "extra": 8,
+   "style": 0,
+   "id": 29362,
+   "ja": "パイロットのシンクロ率が\n低すぎます！\n…これではエヴァは稼動しません！\n",
+   "en": "The pilot's sync ratio is too low! ...The Eva won't operate like this!"
+  },
+  {
+   "key": "BEVENT:19:12",
+   "extra": 18,
+   "style": 0,
+   "id": 29369,
+   "ja": "パイロットのシンクロ率が\n低すぎます！\n…これではエヴァは稼動しません！\n",
+   "en": "The pilot's sync ratio is too low! ...The Eva won't operate like this!"
+  },
+  {
+   "key": "BEVENT:19:16",
+   "extra": 8,
+   "style": 0,
+   "id": 29363,
+   "ja": "パイロットのシンクロ率が\n低すぎます！▽\n…これでは、同時荷重攻撃は\n不可能です！\n",
+   "en": "The pilot's sync ratio is too low! ▽ ...Simultaneous heavy-load attack is impossible like this!"
+  },
+  {
+   "key": "BEVENT:19:17",
+   "extra": 18,
+   "style": 0,
+   "id": 29370,
+   "ja": "パイロットのシンクロ率が\n低すぎます！▽\n…これでは、同時荷重攻撃は\n不可能です！\n",
+   "en": "The pilot's sync ratio is too low! ▽ ...Simultaneous heavy-load attack is impossible like this!"
+  },
+  {
+   "key": "BEVENT:19:19",
+   "extra": 4,
+   "style": 0,
+   "id": 29360,
+   "ja": "ここまで来て…、何てことなの！？\n",
+   "en": "After coming this far... how can this be?!"
+  },
+  {
+   "key": "BEVENT:19:20",
+   "extra": 6,
+   "style": 0,
+   "id": 29361,
+   "ja": "万事休すか…。\n",
+   "en": "All is lost..."
+  },
+  {
+   "key": "BEVENT:19:21",
+   "extra": 18,
+   "style": 0,
+   "id": 29372,
+   "ja": "そんな、作戦は失敗なの…。\n",
+   "en": "No way, the operation failed..."
+  },
+  {
+   "key": "BEVENT:19:23",
+   "extra": 9,
+   "style": 0,
+   "id": 29365,
+   "ja": "目標、移動を開始しました！\n",
+   "en": "The target has started moving!"
+  },
+  {
+   "key": "BEVENT:19:24",
+   "extra": 17,
+   "style": 0,
+   "id": 29368,
+   "ja": "目標、移動を開始しました！\n",
+   "en": "The target has started moving!"
+  },
+  {
+   "key": "BEVENT:20:2",
+   "extra": 8,
+   "style": 0,
+   "id": 29378,
+   "ja": "エヴァ初号機の予備電源終了。\n",
+   "en": "Unit-01 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:3",
+   "extra": 18,
+   "style": 0,
+   "id": 29388,
+   "ja": "エヴァ初号機の予備電源終了。\n",
+   "en": "Unit-01 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:4",
+   "extra": 1,
+   "style": 4127,
+   "id": 29373,
+   "ja": "そんな…、もう…？\n",
+   "en": "No way... Already...?"
+  },
+  {
+   "key": "BEVENT:20:8",
+   "extra": 8,
+   "style": 0,
+   "id": 29379,
+   "ja": "エヴァ弐号機の予備電源終了。\n",
+   "en": "Unit-02 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:9",
+   "extra": 18,
+   "style": 0,
+   "id": 29389,
+   "ja": "エヴァ弐号機の予備電源終了。\n",
+   "en": "Unit-02 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:10",
+   "extra": 2,
+   "style": 0,
+   "id": 29374,
+   "ja": "チッ、あと少しあれば…。\n",
+   "en": "Tch, if I just had a little more time..."
+  },
+  {
+   "key": "BEVENT:20:14",
+   "extra": 8,
+   "style": 0,
+   "id": 29380,
+   "ja": "エヴァ零号機の予備電源終了。\n",
+   "en": "Unit-00 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:15",
+   "extra": 18,
+   "style": 0,
+   "id": 29390,
+   "ja": "エヴァ零号機の予備電源終了。\n",
+   "en": "Unit-00 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:16",
+   "extra": 3,
+   "style": 0,
+   "id": 29375,
+   "ja": "ここまでなの…。\n",
+   "en": "Is this the end..."
+  },
+  {
+   "key": "BEVENT:20:20",
+   "extra": 8,
+   "style": 0,
+   "id": 29381,
+   "ja": "エヴァ参号機の予備電源終了。\n",
+   "en": "Unit-03 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:21",
+   "extra": 18,
+   "style": 0,
+   "id": 29391,
+   "ja": "エヴァ参号機の予備電源終了。\n",
+   "en": "Unit-03 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:22",
+   "extra": 13,
+   "style": 0,
+   "id": 29385,
+   "ja": "…んのォ、\nちっくしょおぉ！！\n",
+   "en": "...Damn it all! Dammit!!"
+  },
+  {
+   "key": "BEVENT:20:26",
+   "extra": 8,
+   "style": 0,
+   "id": 29382,
+   "ja": "エヴァ四号機の予備電源終了。\n",
+   "en": "Unit-04 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:27",
+   "extra": 18,
+   "style": 0,
+   "id": 29392,
+   "ja": "エヴァ四号機の予備電源終了。\n",
+   "en": "Unit-04 internal battery depleted."
+  },
+  {
+   "key": "BEVENT:20:28",
+   "extra": 15,
+   "style": 0,
+   "id": 29386,
+   "ja": "しまった…！！\n",
+   "en": "Damn...!!"
+  },
+  {
+   "key": "BEVENT:20:32",
+   "extra": 8,
+   "style": 0,
+   "id": 29383,
+   "ja": "エヴァ両機の予備電源終了。\n",
+   "en": "Both Evas' internal batteries depleted."
+  },
+  {
+   "key": "BEVENT:20:33",
+   "extra": 18,
+   "style": 0,
+   "id": 29393,
+   "ja": "エヴァ両機の予備電源終了。\n",
+   "en": "Both Evas' internal batteries depleted."
+  },
+  {
+   "key": "BEVENT:20:35",
+   "extra": 4,
+   "style": 0,
+   "id": 29376,
+   "ja": "ここまで来て…、何てことなの！？\n",
+   "en": "After coming this far... how can this be?!"
+  },
+  {
+   "key": "BEVENT:20:36",
+   "extra": 6,
+   "style": 0,
+   "id": 29377,
+   "ja": "万策尽きたか…。\n",
+   "en": "We're out of options..."
+  },
+  {
+   "key": "BEVENT:20:37",
+   "extra": 18,
+   "style": 0,
+   "id": 29394,
+   "ja": "そんな、作戦は失敗なの…。\n",
+   "en": "No way, the operation failed..."
+  },
+  {
+   "key": "BEVENT:20:39",
+   "extra": 9,
+   "style": 0,
+   "id": 29384,
+   "ja": "目標、移動を開始しました！\n",
+   "en": "The target has started moving!"
+  },
+  {
+   "key": "BEVENT:20:40",
+   "extra": 17,
+   "style": 0,
+   "id": 29387,
+   "ja": "目標、移動を開始しました！\n",
+   "en": "The target has started moving!"
+  },
+  {
+   "key": "BEVENT:21:2",
+   "extra": 10,
+   "style": 0,
+   "id": 29402,
+   "ja": "目標はエヴァ初号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-01's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29414,
+   "ja": "目標はエヴァ初号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-01's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:5",
+   "extra": 1,
+   "style": 4127,
+   "id": 29395,
+   "ja": "…来る。\n落ち着け、落ち着いてやれば…。\n",
+   "en": "...It's coming. Stay calm, if I stay calm..."
+  },
+  {
+   "key": "BEVENT:21:6",
+   "extra": 1,
+   "style": 4127,
+   "id": 29396,
+   "ja": "よし、行こう！\n",
+   "en": "Okay, let's go!"
+  },
+  {
+   "key": "BEVENT:21:7",
+   "extra": 1,
+   "style": 4127,
+   "id": 29397,
+   "ja": "大丈夫…、\nやれる、うまくやれる…。\n",
+   "en": "It's okay... I can do this, I can do it right..."
+  },
+  {
+   "key": "BEVENT:21:11",
+   "extra": 10,
+   "style": 0,
+   "id": 29403,
+   "ja": "目標はエヴァ弐号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-02's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:12",
+   "extra": 17,
+   "style": 0,
+   "id": 29415,
+   "ja": "目標はエヴァ弐号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-02's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:14",
+   "extra": 2,
+   "style": 4127,
+   "id": 29398,
+   "ja": "来たわね、私の出番よッ！！\n",
+   "en": "Here it comes, my turn!!"
+  },
+  {
+   "key": "BEVENT:21:15",
+   "extra": 2,
+   "style": 4127,
+   "id": 29399,
+   "ja": "来なさい、\n私がキメてあげるから！！\n",
+   "en": "Come on, I'll finish you off!!"
+  },
+  {
+   "key": "BEVENT:21:16",
+   "extra": 2,
+   "style": 4127,
+   "id": 29400,
+   "ja": "おあいにくさま。\nアンタは私に倒されるのよッ！\n",
+   "en": "Too bad. You're the one going down!"
+  },
+  {
+   "key": "BEVENT:21:20",
+   "extra": 10,
+   "style": 0,
+   "id": 29404,
+   "ja": "目標はエヴァ零号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-00's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:21",
+   "extra": 17,
+   "style": 0,
+   "id": 29416,
+   "ja": "目標はエヴァ零号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-00's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:23",
+   "extra": 3,
+   "style": 4127,
+   "id": 29401,
+   "ja": "了解。\n零号機、迎撃に向かいます。\n",
+   "en": "Understood. Unit-00 is moving to intercept."
+  },
+  {
+   "key": "BEVENT:21:27",
+   "extra": 10,
+   "style": 0,
+   "id": 29405,
+   "ja": "目標はエヴァ参号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-03's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:28",
+   "extra": 17,
+   "style": 0,
+   "id": 29417,
+   "ja": "目標はエヴァ参号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-03's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:30",
+   "extra": 13,
+   "style": 4127,
+   "id": 29408,
+   "ja": "よっしゃぁ、ワシの出番やな！\n",
+   "en": "All right, my turn!"
+  },
+  {
+   "key": "BEVENT:21:31",
+   "extra": 13,
+   "style": 4127,
+   "id": 29409,
+   "ja": "ほな、いっちょ\nパチキかましたらぁ！！\n",
+   "en": "Alright, time to give it a good headbutt!"
+  },
+  {
+   "key": "BEVENT:21:32",
+   "extra": 13,
+   "style": 4127,
+   "id": 29410,
+   "ja": "けっ、あんなやつ…。\nボコボコにしばいたんねん！！\n",
+   "en": "Hmph, that thing... I'll beat it to a pulp!!"
+  },
+  {
+   "key": "BEVENT:21:36",
+   "extra": 10,
+   "style": 0,
+   "id": 29406,
+   "ja": "目標はエヴァ四号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-04's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:37",
+   "extra": 17,
+   "style": 0,
+   "id": 29418,
+   "ja": "目標はエヴァ四号機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed Unit-04's intercept line!"
+  },
+  {
+   "key": "BEVENT:21:39",
+   "extra": 15,
+   "style": 4127,
+   "id": 29411,
+   "ja": "僕の出番だね。\n",
+   "en": "My turn, then."
+  },
+  {
+   "key": "BEVENT:21:40",
+   "extra": 15,
+   "style": 4127,
+   "id": 29412,
+   "ja": "君にみんなの未来は渡さない…。\n",
+   "en": "I won't let you take everyone's future..."
+  },
+  {
+   "key": "BEVENT:21:41",
+   "extra": 15,
+   "style": 4127,
+   "id": 29413,
+   "ja": "僕はリリンの生き様を見続けたい。\nだから倒す…、君を。\n",
+   "en": "I want to keep watching how the Lilin live. So I'll defeat you..."
+  },
+  {
+   "key": "BEVENT:21:45",
+   "extra": 10,
+   "style": 0,
+   "id": 29407,
+   "ja": "目標はエヴァ両機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed both Evas' intercept lines!"
+  },
+  {
+   "key": "BEVENT:21:46",
+   "extra": 17,
+   "style": 0,
+   "id": 29419,
+   "ja": "目標はエヴァ両機の\n迎撃開始ラインを通過しました！\n",
+   "en": "The target has crossed both Evas' intercept lines!"
+  },
+  {
+   "key": "BEVENT:22:2",
+   "extra": 8,
+   "style": 0,
+   "id": 29422,
+   "ja": "エヴァ初号機、\nポジトロンスナイパーライフル\n発射！\n",
+   "en": "Eva Unit-01, Positron Sniper Rifle, fire!"
+  },
+  {
+   "key": "BEVENT:22:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29427,
+   "ja": "エヴァ初号機、\nポジトロンスナイパーライフルの\n発射に成功しました！\n",
+   "en": "Eva Unit-01 has successfully fired the Positron Sniper Rifle!"
+  },
+  {
+   "key": "BEVENT:22:6",
+   "extra": 8,
+   "style": 0,
+   "id": 29423,
+   "ja": "エヴァ弐号機、\nポジトロンスナイパーライフル\n発射！\n",
+   "en": "Eva Unit-02, Positron Sniper Rifle, fire!"
+  },
+  {
+   "key": "BEVENT:22:7",
+   "extra": 17,
+   "style": 0,
+   "id": 29428,
+   "ja": "エヴァ弐号機、\nポジトロンスナイパーライフルの\n発射に成功しました！\n",
+   "en": "Eva Unit-02 has successfully fired the Positron Sniper Rifle!"
+  },
+  {
+   "key": "BEVENT:22:10",
+   "extra": 8,
+   "style": 0,
+   "id": 29424,
+   "ja": "エヴァ零号機、\nポジトロンスナイパーライフル\n発射！\n",
+   "en": "Eva Unit-00, Positron Sniper Rifle, fire!"
+  },
+  {
+   "key": "BEVENT:22:11",
+   "extra": 17,
+   "style": 0,
+   "id": 29429,
+   "ja": "エヴァ零号機、\nポジトロンスナイパーライフルの\n発射に成功しました！\n",
+   "en": "Eva Unit-00 has successfully fired the Positron Sniper Rifle!"
+  },
+  {
+   "key": "BEVENT:22:14",
+   "extra": 8,
+   "style": 0,
+   "id": 29425,
+   "ja": "エヴァ参号機、\nポジトロンスナイパーライフル\n発射！\n",
+   "en": "Eva Unit-03, Positron Sniper Rifle, fire!"
+  },
+  {
+   "key": "BEVENT:22:15",
+   "extra": 17,
+   "style": 0,
+   "id": 29430,
+   "ja": "エヴァ参号機、\nポジトロンスナイパーライフルの\n発射に成功しました！\n",
+   "en": "Eva Unit-03 has successfully fired the Positron Sniper Rifle!"
+  },
+  {
+   "key": "BEVENT:22:18",
+   "extra": 8,
+   "style": 0,
+   "id": 29426,
+   "ja": "エヴァ四号機、\nポジトロンスナイパーライフル\n発射！\n",
+   "en": "Eva Unit-04, Positron Sniper Rifle, fire!"
+  },
+  {
+   "key": "BEVENT:22:19",
+   "extra": 17,
+   "style": 0,
+   "id": 29431,
+   "ja": "エヴァ四号機、\nポジトロンスナイパーライフルの\n発射に成功しました！\n",
+   "en": "Eva Unit-04 has successfully fired the Positron Sniper Rifle!"
+  },
+  {
+   "key": "BEVENT:22:21",
+   "extra": 4,
+   "style": 0,
+   "id": 29420,
+   "ja": "次！！\n再装填、急いで！\n",
+   "en": "Next!! Reload, hurry!"
+  },
+  {
+   "key": "BEVENT:22:22",
+   "extra": 6,
+   "style": 0,
+   "id": 29421,
+   "ja": "次だ！\n再装填を急げ！\n",
+   "en": "Next! Hurry the reload!"
+  },
+  {
+   "key": "BEVENT:22:23",
+   "extra": 18,
+   "style": 0,
+   "id": 29432,
+   "ja": "技術班、再装填急いで下さい！\n",
+   "en": "Tech team, please hurry the reload!"
+  },
+  {
+   "key": "BEVENT:23:2",
+   "extra": 9,
+   "style": 0,
+   "id": 29433,
+   "ja": "エヴァ初号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-01 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:23:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29438,
+   "ja": "エヴァ初号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-01 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:23:7",
+   "extra": 9,
+   "style": 0,
+   "id": 29434,
+   "ja": "エヴァ弐号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-02 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:23:8",
+   "extra": 17,
+   "style": 0,
+   "id": 29439,
+   "ja": "エヴァ弐号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-02 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:23:12",
+   "extra": 9,
+   "style": 0,
+   "id": 29435,
+   "ja": "エヴァ零号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-00 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:23:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29440,
+   "ja": "エヴァ零号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-00 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:23:17",
+   "extra": 9,
+   "style": 0,
+   "id": 29436,
+   "ja": "エヴァ参号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-03 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:23:18",
+   "extra": 17,
+   "style": 0,
+   "id": 29441,
+   "ja": "エヴァ参号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-03 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:23:22",
+   "extra": 9,
+   "style": 0,
+   "id": 29437,
+   "ja": "エヴァ四号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-04 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:23:23",
+   "extra": 17,
+   "style": 0,
+   "id": 29442,
+   "ja": "エヴァ四号機の攻撃、\nエヴァシリーズに$jのダメージ！\n",
+   "en": "Unit-04 attacks, Eva Series takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:2",
+   "extra": 9,
+   "style": 0,
+   "id": 29443,
+   "ja": "エヴァシリーズの攻撃、\n初号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-01 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29448,
+   "ja": "エヴァシリーズの攻撃、\n初号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-01 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:7",
+   "extra": 9,
+   "style": 0,
+   "id": 29444,
+   "ja": "エヴァシリーズの攻撃、\n弐号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-02 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:8",
+   "extra": 17,
+   "style": 0,
+   "id": 29449,
+   "ja": "エヴァシリーズの攻撃、\n弐号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-02 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:12",
+   "extra": 9,
+   "style": 0,
+   "id": 29445,
+   "ja": "エヴァシリーズの攻撃、\n零号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-00 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29450,
+   "ja": "エヴァシリーズの攻撃、\n零号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-00 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:17",
+   "extra": 9,
+   "style": 0,
+   "id": 29446,
+   "ja": "エヴァシリーズの攻撃、\n参号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-03 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:18",
+   "extra": 17,
+   "style": 0,
+   "id": 29451,
+   "ja": "エヴァシリーズの攻撃、\n参号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-03 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:22",
+   "extra": 9,
+   "style": 0,
+   "id": 29447,
+   "ja": "エヴァシリーズの攻撃、\n四号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-04 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:24:23",
+   "extra": 17,
+   "style": 0,
+   "id": 29452,
+   "ja": "エヴァシリーズの攻撃、\n四号機に$jのダメージ！\n",
+   "en": "Eva Series attacks, Unit-04 takes $j damage!"
+  },
+  {
+   "key": "BEVENT:25:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29453,
+   "ja": "兵装ビル、攻撃！\n$jのダメージ！\n",
+   "en": "Weapon tower buildings attack! $j damage!"
+  },
+  {
+   "key": "BEVENT:25:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29454,
+   "ja": "兵装ビル、攻撃！\n$jのダメージ！\n",
+   "en": "Weapon tower buildings attack! $j damage!"
+  },
+  {
+   "key": "BEVENT:26:2",
+   "extra": 10,
+   "style": 0,
+   "id": 29455,
+   "ja": "電源ビル、\n$jのダメージ！\n",
+   "en": "Power building, $j damage!"
+  },
+  {
+   "key": "BEVENT:26:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29460,
+   "ja": "電源ビル、\n$jのダメージ！\n",
+   "en": "Power building, $j damage!"
+  },
+  {
+   "key": "BEVENT:26:7",
+   "extra": 10,
+   "style": 0,
+   "id": 29456,
+   "ja": "武器庫ビル、\n$jのダメージ！\n",
+   "en": "Armory building, $j damage!"
+  },
+  {
+   "key": "BEVENT:26:8",
+   "extra": 17,
+   "style": 0,
+   "id": 29461,
+   "ja": "武器庫ビル、\n$jのダメージ！\n",
+   "en": "Armory building, $j damage!"
+  },
+  {
+   "key": "BEVENT:26:12",
+   "extra": 10,
+   "style": 0,
+   "id": 29457,
+   "ja": "兵装ビル、\n$jのダメージ！\n",
+   "en": "Weapon tower building, $j damage!"
+  },
+  {
+   "key": "BEVENT:26:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29462,
+   "ja": "兵装ビル、\n$jのダメージ！\n",
+   "en": "Weapon tower building, $j damage!"
+  },
+  {
+   "key": "BEVENT:26:17",
+   "extra": 10,
+   "style": 0,
+   "id": 29458,
+   "ja": "防御施設、\n$jのダメージ！\n",
+   "en": "Defense facility, $j damage!"
+  },
+  {
+   "key": "BEVENT:26:18",
+   "extra": 17,
+   "style": 0,
+   "id": 29463,
+   "ja": "防御施設、\n$jのダメージ！\n",
+   "en": "Defense facility, $j damage!"
+  },
+  {
+   "key": "BEVENT:26:22",
+   "extra": 10,
+   "style": 0,
+   "id": 29459,
+   "ja": "ネルフ本部、\n$jのダメージ！\n",
+   "en": "NERV HQ, $j damage!"
+  },
+  {
+   "key": "BEVENT:26:23",
+   "extra": 17,
+   "style": 0,
+   "id": 29464,
+   "ja": "ネルフ本部、\n$jのダメージ！\n",
+   "en": "NERV HQ, $j damage!"
+  },
+  {
+   "key": "BEVENT:27:2",
+   "extra": 10,
+   "style": 0,
+   "id": 29465,
+   "ja": "電源ビル、\nエヴァシリーズの攻撃により、\n破壊されました！\n",
+   "en": "Power building destroyed by the Eva Series' attack!"
+  },
+  {
+   "key": "BEVENT:27:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29469,
+   "ja": "電源ビル、\nエヴァシリーズの攻撃により、\n破壊されました！\n",
+   "en": "Power building destroyed by the Eva Series' attack!"
+  },
+  {
+   "key": "BEVENT:27:7",
+   "extra": 10,
+   "style": 0,
+   "id": 29466,
+   "ja": "武器庫ビル、\nエヴァシリーズの攻撃により、\n破壊されました！\n",
+   "en": "Armory building destroyed by the Eva Series' attack!"
+  },
+  {
+   "key": "BEVENT:27:8",
+   "extra": 17,
+   "style": 0,
+   "id": 29470,
+   "ja": "武器庫ビル、\nエヴァシリーズの攻撃により、\n破壊されました！\n",
+   "en": "Armory building destroyed by the Eva Series' attack!"
+  },
+  {
+   "key": "BEVENT:27:12",
+   "extra": 10,
+   "style": 0,
+   "id": 29467,
+   "ja": "兵装ビル、\nエヴァシリーズの攻撃により、\n破壊されました！\n",
+   "en": "Weapon tower destroyed by the Eva Series' attack!"
+  },
+  {
+   "key": "BEVENT:27:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29471,
+   "ja": "兵装ビル、\nエヴァシリーズの攻撃により、\n破壊されました！\n",
+   "en": "Weapon tower destroyed by the Eva Series' attack!"
+  },
+  {
+   "key": "BEVENT:27:17",
+   "extra": 10,
+   "style": 0,
+   "id": 29468,
+   "ja": "防御施設、\nエヴァシリーズの攻撃により、\n破壊されました！\n",
+   "en": "Defense facility destroyed by the Eva Series' attack!"
+  },
+  {
+   "key": "BEVENT:27:18",
+   "extra": 17,
+   "style": 0,
+   "id": 29472,
+   "ja": "防御施設、\nエヴァシリーズの攻撃により、\n破壊されました！\n",
+   "en": "Defense facility destroyed by the Eva Series' attack!"
+  },
+  {
+   "key": "BEVENT:28:1",
+   "extra": 9,
+   "style": 0,
+   "id": 29473,
+   "ja": "ΘΑ改、攻撃！\n$jのダメージ！\n",
+   "en": "JA Kai attacks! $j damage!"
+  },
+  {
+   "key": "BEVENT:28:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29474,
+   "ja": "ΘΑ改、攻撃！\n$jのダメージ！\n",
+   "en": "JA Kai attacks! $j damage!"
+  },
+  {
+   "key": "BEVENT:29:1",
+   "extra": 9,
+   "style": 0,
+   "id": 29475,
+   "ja": "エヴァシリーズの攻撃、\nΘΑ改に\n$jのダメージ！\n",
+   "en": "Eva Series attacks! JA Kai takes $j damage!"
+  },
+  {
+   "key": "BEVENT:29:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29476,
+   "ja": "エヴァシリーズの攻撃、\nΘΑ改に\n$jのダメージ！\n",
+   "en": "Eva Series attacks! JA Kai takes $j damage!"
+  },
+  {
+   "key": "BEVENT:30:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29477,
+   "ja": "兵装ビル、攻撃！\n使徒に$jのダメージ！\n",
+   "en": "Weapon tower buildings attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:30:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29478,
+   "ja": "兵装ビル、攻撃！\n使徒に$jのダメージ！\n",
+   "en": "Weapon tower buildings attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:31:2",
+   "extra": 10,
+   "style": 0,
+   "id": 29479,
+   "ja": "電源ビル、\n$jのダメージ！\n",
+   "en": "Power building, $j damage!"
+  },
+  {
+   "key": "BEVENT:31:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29484,
+   "ja": "電源ビル、\n$jのダメージ！\n",
+   "en": "Power building, $j damage!"
+  },
+  {
+   "key": "BEVENT:31:7",
+   "extra": 10,
+   "style": 0,
+   "id": 29480,
+   "ja": "武器庫ビル、\n$jのダメージ！\n",
+   "en": "Armory building, $j damage!"
+  },
+  {
+   "key": "BEVENT:31:8",
+   "extra": 17,
+   "style": 0,
+   "id": 29485,
+   "ja": "武器庫ビル、\n$jのダメージ！\n",
+   "en": "Armory building, $j damage!"
+  },
+  {
+   "key": "BEVENT:31:12",
+   "extra": 10,
+   "style": 0,
+   "id": 29481,
+   "ja": "兵装ビル、\n$jのダメージ！\n",
+   "en": "Weapon tower building, $j damage!"
+  },
+  {
+   "key": "BEVENT:31:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29486,
+   "ja": "兵装ビル、\n$jのダメージ！\n",
+   "en": "Weapon tower building, $j damage!"
+  },
+  {
+   "key": "BEVENT:31:17",
+   "extra": 10,
+   "style": 0,
+   "id": 29482,
+   "ja": "防御施設、\n$jのダメージ！\n",
+   "en": "Defense facility, $j damage!"
+  },
+  {
+   "key": "BEVENT:31:18",
+   "extra": 17,
+   "style": 0,
+   "id": 29487,
+   "ja": "防御施設、\n$jのダメージ！\n",
+   "en": "Defense facility, $j damage!"
+  },
+  {
+   "key": "BEVENT:31:22",
+   "extra": 10,
+   "style": 0,
+   "id": 29483,
+   "ja": "ネルフ本部、\n$jのダメージ！\n",
+   "en": "NERV HQ, $j damage!"
+  },
+  {
+   "key": "BEVENT:31:23",
+   "extra": 17,
+   "style": 0,
+   "id": 29488,
+   "ja": "ネルフ本部、\n$jのダメージ！\n",
+   "en": "NERV HQ, $j damage!"
+  },
+  {
+   "key": "BEVENT:32:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29489,
+   "ja": "国連軍、攻撃！\n使徒、$jのダメージ！\n",
+   "en": "UN forces attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:32:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29490,
+   "ja": "国連軍、攻撃！\n使徒、$jのダメージ！\n",
+   "en": "UN forces attack! Angel takes $j damage!"
+  },
+  {
+   "key": "BEVENT:33:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29491,
+   "ja": "国連軍、\n$jのダメージ！\n",
+   "en": "UN forces, $j damage!"
+  },
+  {
+   "key": "BEVENT:33:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29492,
+   "ja": "国連軍、\n$jのダメージ！\n",
+   "en": "UN forces, $j damage!"
+  },
+  {
+   "key": "BEVENT:34:2",
+   "extra": 10,
+   "style": 0,
+   "id": 29493,
+   "ja": "電源ビル、破壊されました！\n",
+   "en": "Power building destroyed!"
+  },
+  {
+   "key": "BEVENT:34:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29497,
+   "ja": "電源ビル、破壊されました！\n",
+   "en": "Power building destroyed!"
+  },
+  {
+   "key": "BEVENT:34:7",
+   "extra": 10,
+   "style": 0,
+   "id": 29494,
+   "ja": "武器庫ビル、破壊されました！\n",
+   "en": "Armory building destroyed!"
+  },
+  {
+   "key": "BEVENT:34:8",
+   "extra": 17,
+   "style": 0,
+   "id": 29498,
+   "ja": "武器庫ビル、破壊されました！\n",
+   "en": "Armory building destroyed!"
+  },
+  {
+   "key": "BEVENT:34:12",
+   "extra": 10,
+   "style": 0,
+   "id": 29495,
+   "ja": "兵装ビル、破壊されました！\n",
+   "en": "Weapon tower building destroyed!"
+  },
+  {
+   "key": "BEVENT:34:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29499,
+   "ja": "兵装ビル、破壊されました！\n",
+   "en": "Weapon tower building destroyed!"
+  },
+  {
+   "key": "BEVENT:34:17",
+   "extra": 10,
+   "style": 0,
+   "id": 29496,
+   "ja": "防御施設、破壊されました！\n",
+   "en": "Defense facility destroyed!"
+  },
+  {
+   "key": "BEVENT:34:18",
+   "extra": 17,
+   "style": 0,
+   "id": 29500,
+   "ja": "防御施設、破壊されました！\n",
+   "en": "Defense facility destroyed!"
+  },
+  {
+   "key": "BEVENT:35:1",
+   "extra": 10,
+   "style": 0,
+   "id": 29501,
+   "ja": "国連軍、\n掃滅しました！\n",
+   "en": "UN forces wiped out!"
+  },
+  {
+   "key": "BEVENT:35:2",
+   "extra": 17,
+   "style": 0,
+   "id": 29502,
+   "ja": "国連軍、\n掃滅しました！\n",
+   "en": "UN forces wiped out!"
+  },
+  {
+   "key": "BEVENT:36:1",
+   "extra": 1,
+   "style": 4127,
+   "id": 29503,
+   "ja": "こちら初号機です。\n移動指定ポイントに到着しました。\n",
+   "en": "This is Unit-01. We've reached the designated position."
+  },
+  {
+   "key": "BEVENT:36:3",
+   "extra": 2,
+   "style": 4127,
+   "id": 29504,
+   "ja": "弐号機、\n移動指定ポイントに到着！\n",
+   "en": "Unit-02 has reached the designated position!"
+  },
+  {
+   "key": "BEVENT:36:5",
+   "extra": 3,
+   "style": 4127,
+   "id": 29505,
+   "ja": "こちら零号機、\n移動指定ポイントに到着しました。\n",
+   "en": "This is Unit-00. We've reached the designated position."
+  },
+  {
+   "key": "BEVENT:36:7",
+   "extra": 13,
+   "style": 4127,
+   "id": 29507,
+   "ja": "こちら参号機、\n移動指定ポイントに着きました。\n",
+   "en": "This is Unit-03. We've reached the designated position."
+  },
+  {
+   "key": "BEVENT:36:9",
+   "extra": 15,
+   "style": 4127,
+   "id": 29508,
+   "ja": "四号機です、\n移動指定ポイントに到着しました。\n",
+   "en": "Unit-04 here. We've reached the designated position."
+  },
+  {
+   "key": "BEVENT:36:12",
+   "extra": 9,
+   "style": 0,
+   "id": 29506,
+   "ja": "エヴァ両機、\n移動指定ポイントに到着しました。\n",
+   "en": "Both Evas have reached the designated position."
+  },
+  {
+   "key": "BEVENT:36:13",
+   "extra": 17,
+   "style": 0,
+   "id": 29509,
+   "ja": "エヴァ両機、\n移動指定ポイントに到着しました。\n",
+   "en": "Both Evas have reached the designated position."
+  },
+  {
+   "key": "BEVENT:37:2",
+   "extra": 1,
+   "style": 4127,
+   "id": 29510,
+   "ja": "嫌です。\n",
+   "en": "I refuse."
+  },
+  {
+   "key": "BEVENT:37:3",
+   "extra": 1,
+   "style": 4127,
+   "id": 29511,
+   "ja": "そんな事出来ません。\n",
+   "en": "I can't do that."
+  },
+  {
+   "key": "BEVENT:37:4",
+   "extra": 1,
+   "style": 0,
+   "id": 29512,
+   "ja": "僕は自分が思う通りにします。\n",
+   "en": "I'll do what I think is right."
+  },
+  {
+   "key": "BEVENT:37:5",
+   "extra": 1,
+   "style": 4127,
+   "id": 29513,
+   "ja": "その指示は聞けません。\n",
+   "en": "I can't follow that instruction."
+  },
+  {
+   "key": "BEVENT:37:7",
+   "extra": 4,
+   "style": 0,
+   "id": 29522,
+   "ja": "シンジ君！！\n",
+   "en": "Shinji!!"
+  },
+  {
+   "key": "BEVENT:37:8",
+   "extra": 6,
+   "style": 0,
+   "id": 29527,
+   "ja": "指示に従いたまえ！\n",
+   "en": "Follow the instructions!"
+  },
+  {
+   "key": "BEVENT:37:9",
+   "extra": 18,
+   "style": 0,
+   "id": 29540,
+   "ja": "独断行動は危険です！\n",
+   "en": "Acting on your own is dangerous!"
+  },
+  {
+   "key": "BEVENT:37:12",
+   "extra": 2,
+   "style": 4127,
+   "id": 29514,
+   "ja": "うるさい！\nアンタの命令なんか聞けないわ。\n",
+   "en": "Shut up! I won't take orders from you."
+  },
+  {
+   "key": "BEVENT:37:13",
+   "extra": 2,
+   "style": 4127,
+   "id": 29515,
+   "ja": "イヤ、\n絶対にイヤ！\n",
+   "en": "No. Absolutely not!"
+  },
+  {
+   "key": "BEVENT:37:14",
+   "extra": 2,
+   "style": 4127,
+   "id": 29516,
+   "ja": "バカにしないでよ。\n私の事は、私が決めるわ。\n",
+   "en": "Don't treat me like a fool. I decide for myself."
+  },
+  {
+   "key": "BEVENT:37:15",
+   "extra": 2,
+   "style": 4127,
+   "id": 29517,
+   "ja": "お断りよ。\n黙って見てりゃいいのよ！\n",
+   "en": "No thanks. Just sit there and watch!"
+  },
+  {
+   "key": "BEVENT:37:17",
+   "extra": 4,
+   "style": 0,
+   "id": 29523,
+   "ja": "アスカっ！！\n",
+   "en": "Asuka!!"
+  },
+  {
+   "key": "BEVENT:37:18",
+   "extra": 6,
+   "style": 0,
+   "id": 29528,
+   "ja": "命令を無視するつもりか！！\n",
+   "en": "You'd ignore an order?!"
+  },
+  {
+   "key": "BEVENT:37:19",
+   "extra": 18,
+   "style": 0,
+   "id": 29541,
+   "ja": "弐号機パイロット、\n命令に従って下さい！\n",
+   "en": "Unit-02 pilot, please follow orders!"
+  },
+  {
+   "key": "BEVENT:37:22",
+   "extra": 3,
+   "style": 4127,
+   "id": 29518,
+   "ja": "…命令は聞けません。\n",
+   "en": "...I can't follow that order."
+  },
+  {
+   "key": "BEVENT:37:23",
+   "extra": 3,
+   "style": 4127,
+   "id": 29519,
+   "ja": "拒否します…。\n",
+   "en": "Denied..."
+  },
+  {
+   "key": "BEVENT:37:24",
+   "extra": 3,
+   "style": 4127,
+   "id": 29520,
+   "ja": "どうするかは、私が決めます。\n",
+   "en": "I decide what I do."
+  },
+  {
+   "key": "BEVENT:37:25",
+   "extra": 3,
+   "style": 4127,
+   "id": 29521,
+   "ja": "いいえ。\n私は、独断で行動します。\n",
+   "en": "No. I will act on my own judgment."
+  },
+  {
+   "key": "BEVENT:37:27",
+   "extra": 4,
+   "style": 0,
+   "id": 29524,
+   "ja": "レイ！！\n",
+   "en": "Rei!!"
+  },
+  {
+   "key": "BEVENT:37:28",
+   "extra": 6,
+   "style": 0,
+   "id": 29529,
+   "ja": "命令違反だぞ！！\n",
+   "en": "That's insubordination!!"
+  },
+  {
+   "key": "BEVENT:37:29",
+   "extra": 18,
+   "style": 0,
+   "id": 29542,
+   "ja": "危険です、\n指示に従って下さい。\n",
+   "en": "It's dangerous, please follow instructions."
+  },
+  {
+   "key": "BEVENT:37:32",
+   "extra": 13,
+   "style": 4127,
+   "id": 29532,
+   "ja": "そんな命令、聞けまへんわ。\n",
+   "en": "I ain't takin' that order."
+  },
+  {
+   "key": "BEVENT:37:33",
+   "extra": 13,
+   "style": 4127,
+   "id": 29533,
+   "ja": "冗談でしょ？\nお断りしますわ。\n",
+   "en": "You must be joking. I decline."
+  },
+  {
+   "key": "BEVENT:37:34",
+   "extra": 13,
+   "style": 4127,
+   "id": 29534,
+   "ja": "そんなん聞けんわ！\n絶対嫌やわ。\n",
+   "en": "No way I'm doin' that! Hell no."
+  },
+  {
+   "key": "BEVENT:37:35",
+   "extra": 13,
+   "style": 4127,
+   "id": 29535,
+   "ja": "ワシかて自分で行動出来ます！\n口出さんといて下さい。\n",
+   "en": "I can act on my own too! Stay outta it."
+  },
+  {
+   "key": "BEVENT:37:37",
+   "extra": 4,
+   "style": 0,
+   "id": 29525,
+   "ja": "トウジ君っ！！\n",
+   "en": "Toji!!"
+  },
+  {
+   "key": "BEVENT:37:38",
+   "extra": 6,
+   "style": 0,
+   "id": 29530,
+   "ja": "無茶しおって！！\n",
+   "en": "Reckless boy!!"
+  },
+  {
+   "key": "BEVENT:37:39",
+   "extra": 18,
+   "style": 0,
+   "id": 29543,
+   "ja": "参号機パイロット、\n命令違反はいけません。\n",
+   "en": "Unit-03 pilot, disobeying orders is not allowed."
+  },
+  {
+   "key": "BEVENT:37:42",
+   "extra": 15,
+   "style": 4127,
+   "id": 29536,
+   "ja": "その指示には納得出来ませんね。\n",
+   "en": "I can't agree with that instruction."
+  },
+  {
+   "key": "BEVENT:37:43",
+   "extra": 15,
+   "style": 4127,
+   "id": 29537,
+   "ja": "嫌です、\nそれは僕が判断します。\n",
+   "en": "No. I'll make that decision myself."
+  },
+  {
+   "key": "BEVENT:37:44",
+   "extra": 15,
+   "style": 4127,
+   "id": 29538,
+   "ja": "知りませんよ、そんな事。\n",
+   "en": "I don't know anything about that."
+  },
+  {
+   "key": "BEVENT:37:45",
+   "extra": 15,
+   "style": 4127,
+   "id": 29539,
+   "ja": "その必要はないと思いますけど。\n",
+   "en": "I don't think that's necessary."
+  },
+  {
+   "key": "BEVENT:37:47",
+   "extra": 4,
+   "style": 0,
+   "id": 29526,
+   "ja": "カヲル君！！\n",
+   "en": "Kaworu!!"
+  },
+  {
+   "key": "BEVENT:37:48",
+   "extra": 6,
+   "style": 0,
+   "id": 29531,
+   "ja": "何を言うか！！\n指示通りに行動するんだ！\n",
+   "en": "What are you saying?! Act as instructed!"
+  },
+  {
+   "key": "BEVENT:37:49",
+   "extra": 18,
+   "style": 0,
+   "id": 29544,
+   "ja": "四号機、命令に従って下さい。\n",
+   "en": "Unit-04, please follow orders."
+  },
+  {
+   "key": "BEVENT:38:2",
+   "extra": 8,
+   "style": 0,
+   "id": 29545,
+   "ja": "エヴァ初号機、神経再接続完了！\n",
+   "en": "Unit-01 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:3",
+   "extra": 18,
+   "style": 0,
+   "id": 29551,
+   "ja": "エヴァ初号機、神経再接続完了！\n",
+   "en": "Unit-01 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:7",
+   "extra": 8,
+   "style": 0,
+   "id": 29546,
+   "ja": "エヴァ弐号機、神経再接続完了！\n",
+   "en": "Unit-02 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:8",
+   "extra": 18,
+   "style": 0,
+   "id": 29552,
+   "ja": "エヴァ弐号機、神経再接続完了！\n",
+   "en": "Unit-02 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:12",
+   "extra": 8,
+   "style": 0,
+   "id": 29547,
+   "ja": "エヴァ零号機、神経再接続完了！\n",
+   "en": "Unit-00 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:13",
+   "extra": 18,
+   "style": 0,
+   "id": 29553,
+   "ja": "エヴァ零号機、神経再接続完了！\n",
+   "en": "Unit-00 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:17",
+   "extra": 8,
+   "style": 0,
+   "id": 29548,
+   "ja": "エヴァ参号機、神経再接続完了！\n",
+   "en": "Unit-03 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:18",
+   "extra": 18,
+   "style": 0,
+   "id": 29554,
+   "ja": "エヴァ参号機、神経再接続完了！\n",
+   "en": "Unit-03 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:22",
+   "extra": 8,
+   "style": 0,
+   "id": 29549,
+   "ja": "エヴァ四号機、神経再接続完了！\n",
+   "en": "Unit-04 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:23",
+   "extra": 18,
+   "style": 0,
+   "id": 29555,
+   "ja": "エヴァ四号機、神経再接続完了！\n",
+   "en": "Unit-04 nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:27",
+   "extra": 8,
+   "style": 0,
+   "id": 29550,
+   "ja": "エヴァ両機、神経再接続完了！\n",
+   "en": "Both Evas' nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:38:28",
+   "extra": 18,
+   "style": 0,
+   "id": 29556,
+   "ja": "エヴァ両機、神経再接続完了！\n",
+   "en": "Both Evas' nerve reconnection complete!"
+  },
+  {
+   "key": "BEVENT:39:2",
+   "extra": 10,
+   "style": 0,
+   "id": 29557,
+   "ja": "エヴァ初号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-01 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:3",
+   "extra": 17,
+   "style": 0,
+   "id": 29567,
+   "ja": "エヴァ初号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-01 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:5",
+   "extra": 10,
+   "style": 0,
+   "id": 29558,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n初号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-01, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:39:6",
+   "extra": 17,
+   "style": 0,
+   "id": 29568,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n初号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-01, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:39:10",
+   "extra": 10,
+   "style": 0,
+   "id": 29559,
+   "ja": "エヴァ弐号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-02 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:11",
+   "extra": 17,
+   "style": 0,
+   "id": 29569,
+   "ja": "エヴァ弐号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-02 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:13",
+   "extra": 10,
+   "style": 0,
+   "id": 29560,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n弐号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-02, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:39:14",
+   "extra": 17,
+   "style": 0,
+   "id": 29570,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n弐号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-02, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:39:18",
+   "extra": 10,
+   "style": 0,
+   "id": 29561,
+   "ja": "エヴァ零号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-00 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:19",
+   "extra": 17,
+   "style": 0,
+   "id": 29571,
+   "ja": "エヴァ零号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-00 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:21",
+   "extra": 10,
+   "style": 0,
+   "id": 29562,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n零号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-00, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:39:22",
+   "extra": 17,
+   "style": 0,
+   "id": 29572,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n零号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-00, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:39:26",
+   "extra": 10,
+   "style": 0,
+   "id": 29563,
+   "ja": "エヴァ参号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-03 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:27",
+   "extra": 17,
+   "style": 0,
+   "id": 29573,
+   "ja": "エヴァ参号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-03 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:29",
+   "extra": 10,
+   "style": 0,
+   "id": 29564,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n参号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-03, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:39:30",
+   "extra": 17,
+   "style": 0,
+   "id": 29574,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n参号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-03, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:39:34",
+   "extra": 10,
+   "style": 0,
+   "id": 29565,
+   "ja": "エヴァ四号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-04 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:35",
+   "extra": 17,
+   "style": 0,
+   "id": 29575,
+   "ja": "エヴァ四号機、\nΑΤフィールド中和開始！\n",
+   "en": "Unit-04 starting A.T. Field neutralization!"
+  },
+  {
+   "key": "BEVENT:39:37",
+   "extra": 10,
+   "style": 0,
+   "id": 29566,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n四号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-04, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:39:38",
+   "extra": 17,
+   "style": 0,
+   "id": 29576,
+   "ja": "エヴァシリーズ、\n残留ΑΤフィールド$g。\n四号機、残留ΑΤフィールド$h。\n",
+   "en": "Eva Series, remaining A.T. Field $g. Unit-04, remaining A.T. Field $h."
+  },
+  {
+   "key": "BEVENT:40:2",
+   "extra": 8,
+   "style": 0,
+   "id": 27913,
+   "ja": "初号機のシールドが\n破壊されました！\n",
+   "en": "Unit-01's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:40:3",
+   "extra": 18,
+   "style": 0,
+   "id": 27942,
+   "ja": "初号機のシールドが\n破壊されました！\n",
+   "en": "Unit-01's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:40:7",
+   "extra": 8,
+   "style": 0,
+   "id": 27914,
+   "ja": "弐号機のシールドが\n破壊されました！\n",
+   "en": "Unit-02's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:40:8",
+   "extra": 18,
+   "style": 0,
+   "id": 27943,
+   "ja": "弐号機のシールドが\n破壊されました！\n",
+   "en": "Unit-02's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:40:12",
+   "extra": 8,
+   "style": 0,
+   "id": 27915,
+   "ja": "零号機のシールドが\n破壊されました！\n",
+   "en": "Unit-00's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:40:13",
+   "extra": 18,
+   "style": 0,
+   "id": 27944,
+   "ja": "零号機のシールドが\n破壊されました！\n",
+   "en": "Unit-00's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:40:17",
+   "extra": 8,
+   "style": 0,
+   "id": 27916,
+   "ja": "参号機のシールドが\n破壊されました！\n",
+   "en": "Unit-03's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:40:18",
+   "extra": 18,
+   "style": 0,
+   "id": 27945,
+   "ja": "参号機のシールドが\n破壊されました！\n",
+   "en": "Unit-03's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:40:22",
+   "extra": 8,
+   "style": 0,
+   "id": 27917,
+   "ja": "四号機のシールドが\n破壊されました！\n",
+   "en": "Unit-04's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:40:23",
+   "extra": 18,
+   "style": 0,
+   "id": 27946,
+   "ja": "四号機のシールドが\n破壊されました！\n",
+   "en": "Unit-04's shield has been destroyed!"
+  },
+  {
+   "key": "BEVENT:41:2",
+   "extra": 4,
+   "style": 0,
+   "id": 29262,
+   "ja": "初号機、移動して！\n",
+   "en": "Unit-01, move!"
+  },
+  {
+   "key": "BEVENT:41:3",
+   "extra": 6,
+   "style": 0,
+   "id": 29268,
+   "ja": "初号機、移動！\n",
+   "en": "Unit-01, move!"
+  },
+  {
+   "key": "BEVENT:41:4",
+   "extra": 18,
+   "style": 0,
+   "id": 29274,
+   "ja": "初号機、移動して下さい！\n",
+   "en": "Unit-01, please move!"
+  },
+  {
+   "key": "BEVENT:41:7",
+   "extra": 4,
+   "style": 0,
+   "id": 29263,
+   "ja": "弐号機、移動して！\n",
+   "en": "Unit-02, move!"
+  },
+  {
+   "key": "BEVENT:41:8",
+   "extra": 6,
+   "style": 0,
+   "id": 29269,
+   "ja": "弐号機、移動！\n",
+   "en": "Unit-02, move!"
+  },
+  {
+   "key": "BEVENT:41:9",
+   "extra": 18,
+   "style": 0,
+   "id": 29275,
+   "ja": "弐号機、移動して下さい！\n",
+   "en": "Unit-02, please move!"
+  },
+  {
+   "key": "BEVENT:41:12",
+   "extra": 4,
+   "style": 0,
+   "id": 29264,
+   "ja": "零号機、移動して！\n",
+   "en": "Unit-00, move!"
+  },
+  {
+   "key": "BEVENT:41:13",
+   "extra": 6,
+   "style": 0,
+   "id": 29270,
+   "ja": "零号機、移動！\n",
+   "en": "Unit-00, move!"
+  },
+  {
+   "key": "BEVENT:41:14",
+   "extra": 18,
+   "style": 0,
+   "id": 29276,
+   "ja": "零号機、移動して下さい！\n",
+   "en": "Unit-00, please move!"
+  },
+  {
+   "key": "BEVENT:41:17",
+   "extra": 4,
+   "style": 0,
+   "id": 29265,
+   "ja": "参号機、移動して！\n",
+   "en": "Unit-03, move!"
+  },
+  {
+   "key": "BEVENT:41:18",
+   "extra": 6,
+   "style": 0,
+   "id": 29271,
+   "ja": "参号機、移動！\n",
+   "en": "Unit-03, move!"
+  },
+  {
+   "key": "BEVENT:41:19",
+   "extra": 18,
+   "style": 0,
+   "id": 29277,
+   "ja": "参号機、移動して下さい！\n",
+   "en": "Unit-03, please move!"
+  },
+  {
+   "key": "BEVENT:41:22",
+   "extra": 4,
+   "style": 0,
+   "id": 29266,
+   "ja": "四号機、移動して！\n",
+   "en": "Unit-04, move!"
+  },
+  {
+   "key": "BEVENT:41:23",
+   "extra": 6,
+   "style": 0,
+   "id": 29272,
+   "ja": "四号機、移動！\n",
+   "en": "Unit-04, move!"
+  },
+  {
+   "key": "BEVENT:41:24",
+   "extra": 18,
+   "style": 0,
+   "id": 29278,
+   "ja": "四号機、移動して下さい！\n",
+   "en": "Unit-04, please move!"
+  },
+  {
+   "key": "BEVENT:41:27",
+   "extra": 4,
+   "style": 0,
+   "id": 29267,
+   "ja": "エヴァ両機、移動して！\n",
+   "en": "Both Evas, move!"
+  },
+  {
+   "key": "BEVENT:41:28",
+   "extra": 6,
+   "style": 0,
+   "id": 29273,
+   "ja": "エヴァ両機、移動！\n",
+   "en": "Both Evas, move!"
+  },
+  {
+   "key": "BEVENT:41:29",
+   "extra": 18,
+   "style": 0,
+   "id": 29279,
+   "ja": "エヴァ両機、移動して下さい！\n",
+   "en": "Both Evas, please move!"
+  },
+  {
+   "key": "BEVENT:42:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 30733,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:42:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 30734,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:42:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 30735,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:42:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 30736,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:42:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 30737,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:42:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 30738,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:42:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 30740,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:42:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 30740,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:42:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 30741,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:42:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 30742,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:42:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 30743,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:42:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 30744,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:42:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 30745,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:42:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 30746,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:42:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 30747,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:43:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 30748,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:43:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 30749,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:43:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 30750,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:43:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 30751,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:43:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 30752,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:43:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 30753,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:43:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 30755,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:43:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 30755,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:43:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 30756,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:43:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 30757,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:43:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 30758,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:43:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 30759,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:43:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 30760,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:43:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 30761,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:43:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 30762,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:44:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 30763,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:44:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 30764,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:44:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 30765,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:44:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 30766,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:44:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 30767,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:44:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 30768,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:44:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 30770,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:44:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 30770,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:44:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 30771,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:44:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 30772,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:44:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 30773,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:44:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 30774,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:44:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 30775,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:44:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 30776,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:44:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 30777,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:45:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 30778,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:45:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 30779,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:45:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 30780,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:45:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 30781,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:45:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 30782,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:45:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 30783,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:45:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 30785,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:45:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 30785,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:45:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 30786,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:45:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 30787,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:45:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 30788,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:45:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 30789,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:45:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 30790,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:45:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 30791,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:45:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 30792,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:46:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 30793,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:46:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 30794,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:46:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 30795,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:46:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 30796,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:46:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 30797,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:46:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 30798,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:46:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 30800,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:46:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 30800,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:46:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 30801,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:46:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 30802,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:46:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 30803,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:46:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 30804,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:46:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 30805,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:46:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 30806,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:46:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 30807,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:47:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 30808,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:47:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 30809,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:47:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 30810,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:47:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 30811,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:47:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 30812,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:47:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 30813,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:47:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 30814,
+   "ja": "零号機、行きます…。\n",
+   "en": "Unit-00, moving out..."
+  },
+  {
+   "key": "BEVENT:47:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 30815,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:47:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 30816,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:47:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 30817,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:47:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 30818,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:47:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 30819,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:47:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 30820,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:47:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 30821,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:47:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 30822,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:48:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 30823,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:48:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 30824,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:48:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 30825,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:48:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 30826,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:48:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 30827,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:48:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 30828,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:48:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 30831,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:48:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 30830,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:48:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 30831,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:48:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 30832,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:48:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 30833,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:48:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 30834,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:48:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 30835,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:48:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 30836,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:48:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 30837,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:49:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 30838,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:49:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 30838,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:49:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 30838,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:49:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 30841,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:49:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 30841,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:49:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 30841,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:49:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 30844,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:49:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 30845,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:49:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 30846,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:49:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 30847,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:49:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 30847,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:49:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 30847,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:49:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 30850,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:49:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 30850,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:49:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 30850,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:50:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 30853,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:50:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 30854,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:50:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 30855,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:50:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 30856,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:50:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 30857,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:50:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 30858,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:50:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 30859,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:50:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 30860,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:50:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 30861,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:50:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 30862,
+   "ja": "ぎゃあ！！\n",
+   "en": "Gyaah!!"
+  },
+  {
+   "key": "BEVENT:50:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 30863,
+   "ja": "ぎゃあ！！\n",
+   "en": "Gyaah!!"
+  },
+  {
+   "key": "BEVENT:50:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 30864,
+   "ja": "ぎゃあ！！\n",
+   "en": "Gyaah!!"
+  },
+  {
+   "key": "BEVENT:50:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 30865,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:50:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 30866,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:50:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 30867,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:51:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 30898,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:51:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 30899,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:51:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 30900,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:51:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 30901,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:51:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 30902,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:51:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 30903,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:51:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 30904,
+   "ja": "零号機、行きます…。\n",
+   "en": "Unit-00, moving out..."
+  },
+  {
+   "key": "BEVENT:51:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 30905,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:51:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 30906,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:51:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 30907,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:51:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 30908,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:51:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 30909,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:51:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 30910,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:51:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 30911,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:51:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 30912,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:52:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 30913,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:52:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 30914,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:52:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 30913,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:52:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 30916,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:52:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 30917,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:52:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 30918,
+   "ja": "あああああッ…！！\n",
+   "en": "Aaaaaah...!!"
+  },
+  {
+   "key": "BEVENT:52:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 30919,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:52:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 30920,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:52:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 30921,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:52:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 30922,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:52:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 30924,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:52:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 30924,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:52:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 30925,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:52:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 30925,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:52:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 30926,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:53:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 30928,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:53:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 30929,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:53:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 30928,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:53:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 30931,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:53:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 30932,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:53:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 30933,
+   "ja": "あああああッ…！！\n",
+   "en": "Aaaaaah...!!"
+  },
+  {
+   "key": "BEVENT:53:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 30934,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:53:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 30935,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:53:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 30936,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:53:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 30937,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:53:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 30939,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:53:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 30939,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:53:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 30940,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:53:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 30940,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:53:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 30941,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:54:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 30943,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:54:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 30943,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:54:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 30943,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:54:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 30946,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:54:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 30946,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:54:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 30946,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:54:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 30949,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:54:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 30949,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:54:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 30949,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:54:18",
+   "extra": 15,
+   "style": 262177,
+   "id": 30952,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:54:19",
+   "extra": 15,
+   "style": 262177,
+   "id": 30952,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:54:20",
+   "extra": 15,
+   "style": 262177,
+   "id": 30952,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:55:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 30955,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:55:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 30956,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:55:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 30957,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:55:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 30958,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:55:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 30959,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:55:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 30960,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:55:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 30961,
+   "ja": "零号機、行きます…。\n",
+   "en": "Unit-00, moving out..."
+  },
+  {
+   "key": "BEVENT:55:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 30962,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:55:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 30963,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:55:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 30964,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:55:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 30965,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:55:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 30966,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:55:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 30967,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:55:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 30968,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:55:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 30969,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:56:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 30970,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:56:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 30971,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:56:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 30970,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:56:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 30973,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:56:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 30974,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:56:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 30973,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:56:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 30976,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:56:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 30977,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:56:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 30978,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:56:18",
+   "extra": 15,
+   "style": 262177,
+   "id": 30979,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:56:19",
+   "extra": 15,
+   "style": 262177,
+   "id": 30979,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:56:20",
+   "extra": 15,
+   "style": 262177,
+   "id": 30980,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:57:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 30982,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:57:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 30983,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:57:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 30982,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:57:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 30985,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:57:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 30986,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:57:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 30985,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:57:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 30988,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:57:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 30989,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:57:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 30990,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:57:18",
+   "extra": 15,
+   "style": 262177,
+   "id": 30991,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:57:19",
+   "extra": 15,
+   "style": 262177,
+   "id": 30991,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:57:20",
+   "extra": 15,
+   "style": 262177,
+   "id": 30992,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:58:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 30994,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:58:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 30995,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:58:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 30994,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:58:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 30997,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:58:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 30998,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:58:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 30997,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:58:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 31000,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:58:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 31001,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:58:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 31002,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:58:18",
+   "extra": 15,
+   "style": 262177,
+   "id": 31003,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:58:19",
+   "extra": 15,
+   "style": 262177,
+   "id": 31003,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:58:20",
+   "extra": 15,
+   "style": 262177,
+   "id": 31004,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:59:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31006,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:59:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31006,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:59:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31006,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:59:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 31009,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:59:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 31009,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:59:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 31009,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:59:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 31012,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:59:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 31013,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:59:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 31014,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:59:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 31015,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:59:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 31017,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:59:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 31017,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:59:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 31018,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:59:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 31018,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:59:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 31019,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:60:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31021,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:60:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31022,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:60:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31021,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:60:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 31024,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:60:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 31025,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:60:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 31026,
+   "ja": "あああああッ…！！\n",
+   "en": "Aaaaaah...!!"
+  },
+  {
+   "key": "BEVENT:60:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 31027,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:60:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 31028,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:60:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 31029,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:60:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 31030,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:60:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 31032,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:60:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 31032,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:60:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 31033,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:60:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 31033,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:60:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 31034,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:61:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31036,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:61:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31037,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:61:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31038,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:61:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 31039,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:61:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 31040,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:61:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 31041,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:61:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 31044,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:61:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 31043,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:61:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 31044,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:61:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 31045,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:61:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 31046,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:61:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 31047,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:61:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 31048,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:61:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 31049,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:61:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 31050,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:62:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31051,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:62:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31052,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:62:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31051,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:63:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31054,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:63:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31055,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:63:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31055,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:64:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31057,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:64:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31058,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:64:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31057,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:64:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 31060,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:64:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 31061,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:64:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 31062,
+   "ja": "あああああッ…！！\n",
+   "en": "Aaaaaah...!!"
+  },
+  {
+   "key": "BEVENT:64:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 31063,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:64:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 31064,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:64:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 31065,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:64:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 31066,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:64:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 31068,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:64:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 31068,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:64:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 31069,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:64:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 31069,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:64:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 31070,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:65:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31072,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:65:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31073,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:65:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31073,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:65:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 31075,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:65:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 31076,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:65:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 31077,
+   "ja": "あああああッ…！！\n",
+   "en": "Aaaaaah...!!"
+  },
+  {
+   "key": "BEVENT:65:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 31078,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:65:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 31079,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:65:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 31080,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:65:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 31081,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:65:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 31083,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:65:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 31083,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:65:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 31084,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:65:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 31084,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:65:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 31085,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:66:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31102,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:66:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31103,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:66:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31103,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:66:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 31105,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:66:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 31106,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:66:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 31105,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:66:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 31108,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:66:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 31109,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:66:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 31110,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:66:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 31111,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:66:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 31113,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:66:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 31113,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:66:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 31114,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:66:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 31114,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:66:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 31115,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:67:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31117,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:67:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31118,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:67:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31118,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:67:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 31120,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:67:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 31121,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:67:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 31122,
+   "ja": "あああああッ…！！\n",
+   "en": "Aaaaaah...!!"
+  },
+  {
+   "key": "BEVENT:67:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 31123,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:67:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 31124,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:67:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 31125,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:67:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 31126,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:67:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 31128,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:67:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 31128,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:67:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 31129,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:67:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 31129,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:67:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 31130,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:68:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31132,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:68:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31133,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:68:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31134,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:69:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31135,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:69:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31136,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:69:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31137,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:70:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31138,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:70:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31139,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:70:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31140,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:71:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31141,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:71:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31142,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:71:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31143,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:72:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31144,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:72:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31145,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:72:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31146,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:72:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 31147,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:72:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 31148,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:72:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 31149,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:72:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 31151,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:72:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 31151,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:72:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 31152,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:72:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 31153,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:72:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 31154,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:72:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 31155,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:72:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 31156,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:72:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 31157,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:72:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 31158,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:73:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31159,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:73:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31160,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:73:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31161,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:73:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 31162,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:73:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 31163,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:73:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 31164,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:73:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 31165,
+   "ja": "零号機、行きます…。\n",
+   "en": "Unit-00, moving out..."
+  },
+  {
+   "key": "BEVENT:73:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 31166,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:73:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 31167,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:73:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 31168,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:73:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 31169,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:73:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 31170,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:73:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 31171,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:73:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 31172,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:73:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 31173,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:74:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31174,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:74:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31175,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:74:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31176,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:74:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 31177,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:74:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 31178,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:74:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 31179,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:74:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 31180,
+   "ja": "零号機、行きます…。\n",
+   "en": "Unit-00, moving out..."
+  },
+  {
+   "key": "BEVENT:74:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 31181,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:74:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 31182,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:74:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 31183,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:74:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 31184,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:74:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 31185,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:74:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 31186,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:74:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 31187,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:74:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 31188,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:75:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31189,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:75:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31190,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:75:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31191,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:75:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 31192,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:75:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 31193,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:75:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 31194,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:75:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 31195,
+   "ja": "零号機、行きます…。\n",
+   "en": "Unit-00, moving out..."
+  },
+  {
+   "key": "BEVENT:75:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 31196,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:75:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 31197,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:75:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 31198,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:75:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 31199,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:75:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 31200,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:75:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 31201,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:75:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 31202,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:75:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 31203,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:76:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31204,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:76:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31205,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:76:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31206,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:76:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 31207,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:76:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 31208,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:76:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 31209,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:76:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 31211,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:76:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 31211,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:76:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 31212,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:76:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 31213,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:76:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 31214,
+   "ja": "見とれよ、ワレェ！！\n",
+   "en": "Watch this, punk!!"
+  },
+  {
+   "key": "BEVENT:76:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 31215,
+   "ja": "いっちょ、いわしたろか！！\n",
+   "en": "Come on, let's rumble!!"
+  },
+  {
+   "key": "BEVENT:76:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 31216,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:76:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 31217,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:76:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 31218,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:77:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31219,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:77:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31220,
+   "ja": "くぁぁっ！！\n",
+   "en": "Aaagh!!"
+  },
+  {
+   "key": "BEVENT:77:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31219,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:77:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 31222,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:77:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 31223,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:77:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 31224,
+   "ja": "あああああッ…！！\n",
+   "en": "Aaaaaah...!!"
+  },
+  {
+   "key": "BEVENT:77:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 31225,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:77:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 31226,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:77:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 31227,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:77:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 31228,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:77:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 31230,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:77:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 31230,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:77:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 31231,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:77:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 31231,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:77:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 31232,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:78:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31234,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:78:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31235,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:78:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31236,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:78:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 31237,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:78:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 31238,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:78:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 31239,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:78:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 31240,
+   "ja": "零号機、行きます…。\n",
+   "en": "Unit-00, moving out..."
+  },
+  {
+   "key": "BEVENT:78:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 31241,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:78:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 31242,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:78:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 31243,
+   "ja": "容赦せえへんでぇ！！\n",
+   "en": "I ain't holding back!!"
+  },
+  {
+   "key": "BEVENT:78:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 31244,
+   "ja": "おんどりゃああ！！\n",
+   "en": "Raaaaah!!"
+  },
+  {
+   "key": "BEVENT:78:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 31245,
+   "ja": "なめんなァ！！\n",
+   "en": "Don't mess with me!!"
+  },
+  {
+   "key": "BEVENT:78:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 31246,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:78:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 31247,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:78:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 31248,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  },
+  {
+   "key": "BEVENT:79:3",
+   "extra": 1,
+   "style": 262177,
+   "id": 31249,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:79:4",
+   "extra": 1,
+   "style": 262177,
+   "id": 31249,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:79:5",
+   "extra": 1,
+   "style": 262177,
+   "id": 31249,
+   "ja": "わぁぁっ！\n",
+   "en": "Waaah!"
+  },
+  {
+   "key": "BEVENT:79:8",
+   "extra": 2,
+   "style": 262177,
+   "id": 31252,
+   "ja": "キャー！\n",
+   "en": "Aaah!"
+  },
+  {
+   "key": "BEVENT:79:9",
+   "extra": 2,
+   "style": 262177,
+   "id": 31253,
+   "ja": "きゃうッ！！\n",
+   "en": "Kyaah!!"
+  },
+  {
+   "key": "BEVENT:79:10",
+   "extra": 2,
+   "style": 262177,
+   "id": 31254,
+   "ja": "あああああッ…！！\n",
+   "en": "Aaaaaah...!!"
+  },
+  {
+   "key": "BEVENT:79:13",
+   "extra": 3,
+   "style": 262177,
+   "id": 31255,
+   "ja": "……っ！\n",
+   "en": "...!"
+  },
+  {
+   "key": "BEVENT:79:14",
+   "extra": 3,
+   "style": 262177,
+   "id": 31256,
+   "ja": "きゃぁぁぁ…！！\n",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "BEVENT:79:15",
+   "extra": 3,
+   "style": 262177,
+   "id": 31257,
+   "ja": "くっ…！！\n",
+   "en": "Ugh...!!"
+  },
+  {
+   "key": "BEVENT:79:18",
+   "extra": 13,
+   "style": 262177,
+   "id": 31258,
+   "ja": "…んがっ！？\n",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "BEVENT:79:19",
+   "extra": 13,
+   "style": 262177,
+   "id": 31260,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:79:20",
+   "extra": 13,
+   "style": 262177,
+   "id": 31260,
+   "ja": "うあっ…！？\n",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "BEVENT:79:23",
+   "extra": 15,
+   "style": 262177,
+   "id": 31261,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:79:24",
+   "extra": 15,
+   "style": 262177,
+   "id": 31261,
+   "ja": "………うっ！\n",
+   "en": "......Ugh!"
+  },
+  {
+   "key": "BEVENT:79:25",
+   "extra": 15,
+   "style": 262177,
+   "id": 31262,
+   "ja": "ぐあっ！！\n",
+   "en": "Gah!!"
+  },
+  {
+   "key": "BEVENT:80:3",
+   "extra": 1,
+   "style": 131107,
+   "id": 31264,
+   "ja": "このぉ！\n",
+   "en": "Take this!"
+  },
+  {
+   "key": "BEVENT:80:4",
+   "extra": 1,
+   "style": 131107,
+   "id": 31265,
+   "ja": "行けぇ！！\n",
+   "en": "Go!!"
+  },
+  {
+   "key": "BEVENT:80:5",
+   "extra": 1,
+   "style": 131107,
+   "id": 31266,
+   "ja": "よぉし！！\n",
+   "en": "All right!!"
+  },
+  {
+   "key": "BEVENT:80:8",
+   "extra": 2,
+   "style": 131107,
+   "id": 31267,
+   "ja": "見てらっしゃい！！\n",
+   "en": "Just watch me!!"
+  },
+  {
+   "key": "BEVENT:80:9",
+   "extra": 2,
+   "style": 131107,
+   "id": 31268,
+   "ja": "覚悟なさい！！\n",
+   "en": "Prepare yourself!!"
+  },
+  {
+   "key": "BEVENT:80:10",
+   "extra": 2,
+   "style": 131107,
+   "id": 31269,
+   "ja": "これでも食らえ！！\n",
+   "en": "Eat this!!"
+  },
+  {
+   "key": "BEVENT:80:13",
+   "extra": 3,
+   "style": 131107,
+   "id": 31272,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:80:14",
+   "extra": 3,
+   "style": 131107,
+   "id": 31271,
+   "ja": "今だわ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:80:15",
+   "extra": 3,
+   "style": 131107,
+   "id": 31272,
+   "ja": "捉えた…。\n",
+   "en": "Got it..."
+  },
+  {
+   "key": "BEVENT:80:18",
+   "extra": 13,
+   "style": 131107,
+   "id": 31273,
+   "ja": "おんどりゃああ！！\n",
+   "en": "Raaaaah!!"
+  },
+  {
+   "key": "BEVENT:80:19",
+   "extra": 13,
+   "style": 131107,
+   "id": 31274,
+   "ja": "しばいたるわ！！\n",
+   "en": "I'll knock you flat!!"
+  },
+  {
+   "key": "BEVENT:80:20",
+   "extra": 13,
+   "style": 131107,
+   "id": 31275,
+   "ja": "なめんなァ！！\n",
+   "en": "Don't mess with me!!"
+  },
+  {
+   "key": "BEVENT:80:23",
+   "extra": 15,
+   "style": 131107,
+   "id": 31276,
+   "ja": "今だ…。\n",
+   "en": "Now..."
+  },
+  {
+   "key": "BEVENT:80:24",
+   "extra": 15,
+   "style": 131107,
+   "id": 31277,
+   "ja": "手加減なしだよ…。\n",
+   "en": "I won't hold back..."
+  },
+  {
+   "key": "BEVENT:80:25",
+   "extra": 15,
+   "style": 131107,
+   "id": 31278,
+   "ja": "チャンス！！\n",
+   "en": "An opening!!"
+  }
+ ]
+}
