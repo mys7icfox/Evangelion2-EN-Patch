@@ -1,0 +1,13 @@
+Neon Genesis Evangelion 2 (PS2, SLPS-25299) - English patch, BETA
+
+You need your own clean dump of the Japanese game (Shinseiki Evangelion 2: Evangelions) as an .iso, and Python 3 (https://www.python.org/downloads/, tick "Add python.exe to PATH").
+
+Windows: drag your .iso onto Apply_Patch.bat (or double-click it and paste the path).
+Other:   python apply_patch.py your_game.iso EVA2_EN_beta.patch
+
+A new file ending in _EN.iso is created next to your ISO; your original is untouched.
+Play it in PCSX2 (or on a modded console). The patch checks that your ISO is the right one and verifies the result.
+
+This is a BETA: some text may overflow, be cut off, or still be Japanese (image text such as the HUD is not translated yet). Please report problems with a screenshot and where in the game it happened.
+
+Not affiliated with Gainax, Khara, Bandai or any rights holder. Fan project, not for sale.
