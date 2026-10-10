@@ -99,7 +99,8 @@ def cmd_read(iso, isopath, out):
 
 
 def cmd_patch(src, dst, folder, isodir, allow_resize, relocate=False):
-    prefix = '/' + isodir.strip('/').upper() + '/'
+    d = isodir.strip('/').strip('.').upper()
+    prefix = '/' + (d + '/' if d else '')           # '.' means the root of the disc
     newfiles = sorted(p for p in pathlib.Path(folder).iterdir() if p.is_file())
     with open(src, 'rb') as f:
         files = scan(f)
