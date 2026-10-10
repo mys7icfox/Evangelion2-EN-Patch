@@ -1,0 +1,2707 @@
+{
+ "notes": [
+  "Fill in \"en\". \"$n\" and other $ codes must be kept. Leave \"en\" empty to keep Japanese."
+ ],
+ "messages": [
+  {
+   "key": "3:1368",
+   "voice": 27658,
+   "style": 0,
+   "ids": [
+    "0x101"
+   ],
+   "ja": "ねえ、身体の調子はどう？",
+   "en": "Hey, how are you feeling?"
+  },
+  {
+   "key": "3:1404",
+   "voice": 27687,
+   "style": 0,
+   "ids": [
+    "0x201"
+   ],
+   "ja": "アンタさ、その身体。\n調子、どうなの？",
+   "en": "Hey, how's your body holding up?"
+  },
+  {
+   "key": "3:1452",
+   "voice": 27716,
+   "style": 0,
+   "ids": [
+    "0x301"
+   ],
+   "ja": "あなた、身体の調子は？",
+   "en": "How are you feeling?"
+  },
+  {
+   "key": "3:1484",
+   "voice": 27777,
+   "style": 0,
+   "ids": [
+    "0xd01"
+   ],
+   "ja": "なぁ、お前の身体。\n調子どないなん？",
+   "en": "Hey, how're you holding up?"
+  },
+  {
+   "key": "3:1528",
+   "voice": 27806,
+   "style": 0,
+   "ids": [
+    "0xf01"
+   ],
+   "ja": "君はどう？\n体の調子は？",
+   "en": "How about you? How are you feeling?"
+  },
+  {
+   "key": "3:1560",
+   "voice": 27746,
+   "style": 0,
+   "ids": [
+    "0x401"
+   ],
+   "ja": "身体の方は大丈夫？\n調子はどうかしら？",
+   "en": "Are you okay? How do you feel?"
+  },
+  {
+   "key": "3:1608",
+   "voice": 27659,
+   "style": 0,
+   "ids": [
+    "0x102"
+   ],
+   "ja": "怪我って言っても、\n気にならないくらいだし。\n大丈夫だよ。",
+   "en": "It's just a scratch. I barely notice it. I'm fine."
+  },
+  {
+   "key": "3:1676",
+   "voice": 27688,
+   "style": 0,
+   "ids": [
+    "0x202"
+   ],
+   "ja": "ヘーキ、ヘーキ。\nこんな程度で休んでらんないわよ。",
+   "en": "I'm fine, I'm fine. This is nothing, I'm not resting for this."
+  },
+  {
+   "key": "3:1736",
+   "voice": 27717,
+   "style": 0,
+   "ids": [
+    "0x302"
+   ],
+   "ja": "私は大丈夫。",
+   "en": "I'm fine."
+  },
+  {
+   "key": "3:1760",
+   "voice": 27778,
+   "style": 0,
+   "ids": [
+    "0xd02"
+   ],
+   "ja": "ああン？\nこんなん怪我のうちに入らへんわ。",
+   "en": "Huh? This ain't even an injury."
+  },
+  {
+   "key": "3:1812",
+   "voice": 27807,
+   "style": 0,
+   "ids": [
+    "0xf02"
+   ],
+   "ja": "ちょっと傷があるだけさ。\n別に何ともないよ。",
+   "en": "It's only a scratch. It's nothing."
+  },
+  {
+   "key": "3:1864",
+   "voice": 27660,
+   "style": 0,
+   "ids": [
+    "0x103"
+   ],
+   "ja": "ちょっと痛むかな…。\nでも、そうも言ってられないしね。",
+   "en": "It hurts a little... But I can't let that stop me."
+  },
+  {
+   "key": "3:1928",
+   "voice": 27689,
+   "style": 0,
+   "ids": [
+    "0x203"
+   ],
+   "ja": "この傷さえ治ってれば\nパーフェクトなんだけどね。\nま、やるっきゃないでしょ！",
+   "en": "If this wound were healed, I'd be perfect. Well, no choice but to fight!"
+  },
+  {
+   "key": "3:2012",
+   "voice": 27718,
+   "style": 0,
+   "ids": [
+    "0x303"
+   ],
+   "ja": "痛みは少しだけ…。\nこれが済んだら、\n診てもらうから大丈夫…。",
+   "en": "It hurts a little... I'll get checked after this, so I'm fine."
+  },
+  {
+   "key": "3:2084",
+   "voice": 27779,
+   "style": 0,
+   "ids": [
+    "0xd03"
+   ],
+   "ja": "ちょっとキツイなぁ…。\nま、今がガマン時や。\nしゃーないやんか。",
+   "en": "It's kinda rough... But now's the time to tough it out. Can't be helped."
+  },
+  {
+   "key": "3:2156",
+   "voice": 27808,
+   "style": 0,
+   "ids": [
+    "0xf03"
+   ],
+   "ja": "うん、ちょっと痛いかな…。\nでも、我慢出来ないほどでもない。",
+   "en": "Yeah, it hurts a little. But not too much to bear."
+  },
+  {
+   "key": "3:2224",
+   "voice": 27661,
+   "style": 0,
+   "ids": [
+    "0x104"
+   ],
+   "ja": "…えっ…、\nゴメン…、うまく、\n聞き取れないよ…。",
+   "en": "Huh... Sorry, I can't hear you very well..."
+  },
+  {
+   "key": "3:2284",
+   "voice": 27690,
+   "style": 0,
+   "ids": [
+    "0x204"
+   ],
+   "ja": "うっさいわねぇ…。\nこっちは…怪我人なのよ…。\n…いい気なものね…。",
+   "en": "Shut up... I'm the one who's hurt here... Easy for you to say..."
+  },
+  {
+   "key": "3:2360",
+   "voice": 27719,
+   "style": 0,
+   "ids": [
+    "0x304"
+   ],
+   "ja": "…大…丈夫。\n何…とか、行けるわ…。",
+   "en": "...I'm... fine. I can... still manage."
+  },
+  {
+   "key": "3:2404",
+   "voice": 27780,
+   "style": 0,
+   "ids": [
+    "0xd04"
+   ],
+   "ja": "痛い…っちゅーねん、\nあんま大きい声…出しなや。",
+   "en": "It hurts, dammit... Quit shouting so loud."
+  },
+  {
+   "key": "3:2460",
+   "voice": 27809,
+   "style": 0,
+   "ids": [
+    "0xf04"
+   ],
+   "ja": "ごめん…、\n…僕、あんまり…余裕じゃ\n…なさそうだ。",
+   "en": "Sorry... I don't think... I can handle much more..."
+  },
+  {
+   "key": "3:2520",
+   "voice": 27662,
+   "style": 0,
+   "ids": [
+    "0x105"
+   ],
+   "ja": "そっちのエヴァはどう？",
+   "en": "How's your Eva doing?"
+  },
+  {
+   "key": "3:2552",
+   "voice": 27691,
+   "style": 0,
+   "ids": [
+    "0x205"
+   ],
+   "ja": "機体の調子はどうなの？",
+   "en": "How's your Eva holding up?"
+  },
+  {
+   "key": "3:2584",
+   "voice": 27720,
+   "style": 0,
+   "ids": [
+    "0x305"
+   ],
+   "ja": "機体は大丈夫なの？",
+   "en": "Is your Eva okay?"
+  },
+  {
+   "key": "3:2612",
+   "voice": 27781,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "お前のエヴァ、どない？\n大丈夫なんか？",
+   "en": "How's your Eva? You okay?"
+  },
+  {
+   "key": "3:2660",
+   "voice": 27810,
+   "style": 0,
+   "ids": [
+    "0xf05"
+   ],
+   "ja": "君のエヴァはどう？",
+   "en": "How is your Eva?"
+  },
+  {
+   "key": "3:2688",
+   "voice": 27747,
+   "style": 0,
+   "ids": [
+    "0x405"
+   ],
+   "ja": "機体の具合はどう？\n気になるかしら？",
+   "en": "How's your Eva? Anything bothering you?"
+  },
+  {
+   "key": "3:2732",
+   "voice": 27663,
+   "style": 0,
+   "ids": [
+    "0x106"
+   ],
+   "ja": "初号機？\nうん、調子いいよ。",
+   "en": "Unit-01? Yeah, it's running well."
+  },
+  {
+   "key": "3:2768",
+   "voice": 27692,
+   "style": 0,
+   "ids": [
+    "0x206"
+   ],
+   "ja": "調子いいわよ。\n弐号機をナメてもらっちゃあ\n困るわよ。",
+   "en": "It's running great. Don't underestimate Unit-02."
+  },
+  {
+   "key": "3:2832",
+   "voice": 27721,
+   "style": 0,
+   "ids": [
+    "0x306"
+   ],
+   "ja": "こっち、零号機は順調よ。",
+   "en": "Unit-00 is running fine."
+  },
+  {
+   "key": "3:2868",
+   "voice": 27782,
+   "style": 0,
+   "ids": [
+    "0xd06"
+   ],
+   "ja": "おう、すこぶるええで。",
+   "en": "Yeah, running real smooth."
+  },
+  {
+   "key": "3:2900",
+   "voice": 27811,
+   "style": 0,
+   "ids": [
+    "0xf06"
+   ],
+   "ja": "平気さ。\nこの通りね。",
+   "en": "No problem. See for yourself."
+  },
+  {
+   "key": "3:2932",
+   "voice": 27664,
+   "style": 0,
+   "ids": [
+    "0x107"
+   ],
+   "ja": "何とかなるよ、大丈夫。",
+   "en": "I can manage. It's fine."
+  },
+  {
+   "key": "3:2964",
+   "voice": 27693,
+   "style": 0,
+   "ids": [
+    "0x207"
+   ],
+   "ja": "まだまだ、平気よ。\nこんなに動くんだから\n何とかなるわ。",
+   "en": "I'm still good. It moves fine, so I can manage."
+  },
+  {
+   "key": "3:3028",
+   "voice": 27722,
+   "style": 0,
+   "ids": [
+    "0x307"
+   ],
+   "ja": "ダメージはあるけど、\n戦えないわけじゃないわ。",
+   "en": "It's damaged, but I can still fight."
+  },
+  {
+   "key": "3:3084",
+   "voice": 27783,
+   "style": 0,
+   "ids": [
+    "0xd07"
+   ],
+   "ja": "ちょっと難ありやな。\nま、大丈夫やろ。",
+   "en": "Kinda rough. Well, should be fine."
+  },
+  {
+   "key": "3:3132",
+   "voice": 27812,
+   "style": 0,
+   "ids": [
+    "0xf07"
+   ],
+   "ja": "この程度なら、無理しない限り\n大丈夫と思う。\nまだ、いけるさ。",
+   "en": "If I don't push it, I think it's fine. I can still go on."
+  },
+  {
+   "key": "3:3204",
+   "voice": 27665,
+   "style": 0,
+   "ids": [
+    "0x108"
+   ],
+   "ja": "実は僕も気にしてるんだ。\n大丈夫なのかなって…。",
+   "en": "Actually, I'm worried about it too. Is it going to be okay...?"
+  },
+  {
+   "key": "3:3260",
+   "voice": 27694,
+   "style": 0,
+   "ids": [
+    "0x208"
+   ],
+   "ja": "いよいよヤバイかも…。\nあ～ん、どうにかしてェ。",
+   "en": "This is getting bad... Ahh, somebody do something!"
+  },
+  {
+   "key": "3:3316",
+   "voice": 27723,
+   "style": 0,
+   "ids": [
+    "0x308"
+   ],
+   "ja": "そろそろ活動限界かもしれない。",
+   "en": "I may be reaching my limit soon."
+  },
+  {
+   "key": "3:3356",
+   "voice": 27784,
+   "style": 0,
+   "ids": [
+    "0xd08"
+   ],
+   "ja": "もう、ヤバイんと違うか…？\nはよ、カタつけたいところやわ。",
+   "en": "This is bad, ain't it...? I wanna finish this quick."
+  },
+  {
+   "key": "3:3424",
+   "voice": 27813,
+   "style": 0,
+   "ids": [
+    "0xf08"
+   ],
+   "ja": "思ったより、ひどい状態だよ。\n仕方ない、僕がそうして\nしまったんだし…。",
+   "en": "It's worse than I thought. Can't be helped, I'm the one who did it..."
+  },
+  {
+   "key": "3:3504",
+   "voice": 27666,
+   "style": 0,
+   "ids": [
+    "0x109"
+   ],
+   "ja": "そっちのΑΤはどう？",
+   "en": "How's your A.T.?"
+  },
+  {
+   "key": "3:3536",
+   "voice": 27695,
+   "style": 0,
+   "ids": [
+    "0x209"
+   ],
+   "ja": "アンタのΑΤ大丈夫？",
+   "en": "Is your A.T. okay?"
+  },
+  {
+   "key": "3:3568",
+   "voice": 27724,
+   "style": 0,
+   "ids": [
+    "0x309"
+   ],
+   "ja": "ΑΤの調子、どうかしら？",
+   "en": "How is your A.T.?"
+  },
+  {
+   "key": "3:3604",
+   "voice": 27785,
+   "style": 0,
+   "ids": [
+    "0xd09"
+   ],
+   "ja": "自分のΑΤ調子はどうなん？",
+   "en": "How's your A.T. doing?"
+  },
+  {
+   "key": "3:3640",
+   "voice": 27814,
+   "style": 0,
+   "ids": [
+    "0xf09"
+   ],
+   "ja": "君のΑΤどう？\n大丈夫そう？",
+   "en": "How's your A.T.? Looking okay?"
+  },
+  {
+   "key": "3:3676",
+   "voice": 27748,
+   "style": 0,
+   "ids": [
+    "0x409"
+   ],
+   "ja": "あなたのΑΤどうかしら？\nちょっと気になるわ。",
+   "en": "How is your A.T.? I'm a little worried."
+  },
+  {
+   "key": "3:3732",
+   "voice": 27667,
+   "style": 0,
+   "ids": [
+    "0x10a"
+   ],
+   "ja": "うん、この時のために\n頑張ったんだから！！",
+   "en": "Yeah, I worked hard for this moment!"
+  },
+  {
+   "key": "3:3784",
+   "voice": 27668,
+   "style": 0,
+   "ids": [
+    "0x10a"
+   ],
+   "ja": "バッチリ、ＯＫ！！\n爽快な気分だよ。",
+   "en": "All good, perfect! I feel great!"
+  },
+  {
+   "key": "3:3828",
+   "voice": 27669,
+   "style": 0,
+   "ids": [
+    "0x10a"
+   ],
+   "ja": "今なら何でも出来る気がするんだ。\n自信が沸いてくる感じ！",
+   "en": "I feel like I can do anything now. I'm getting confident!"
+  },
+  {
+   "key": "3:3892",
+   "voice": 27696,
+   "style": 0,
+   "ids": [
+    "0x20a"
+   ],
+   "ja": "絶好調！！\n向かうところ敵ナシよ！！",
+   "en": "Top form! Nothing can stop me!"
+  },
+  {
+   "key": "3:3936",
+   "voice": 27697,
+   "style": 0,
+   "ids": [
+    "0x20a"
+   ],
+   "ja": "私に任せなさいって！\n今の私、サイッコ～に\nノリノリなんだから！！",
+   "en": "Leave it to me! I'm in an awesome mood right now!"
+  },
+  {
+   "key": "3:4012",
+   "voice": 27698,
+   "style": 0,
+   "ids": [
+    "0x20a"
+   ],
+   "ja": "フゥ～ウ、最高！！\nもう口笛吹いたりなんか\nしちゃったりして～。",
+   "en": "Woo, the best! I could even whistle right now!"
+  },
+  {
+   "key": "3:4084",
+   "voice": 27725,
+   "style": 0,
+   "ids": [
+    "0x30a"
+   ],
+   "ja": "ええ、好調よ。",
+   "en": "Yes, I'm in good shape."
+  },
+  {
+   "key": "3:4108",
+   "voice": 27726,
+   "style": 0,
+   "ids": [
+    "0x30a"
+   ],
+   "ja": "とてもいいわ。\nいい気分よ。",
+   "en": "Very good. I feel good."
+  },
+  {
+   "key": "3:4144",
+   "voice": 27727,
+   "style": 0,
+   "ids": [
+    "0x30a"
+   ],
+   "ja": "自分自身から、\n力が沸いてくるのがわかる。\n何か、熱い気持ちが。",
+   "en": "I can feel strength welling up inside me. Something hot."
+  },
+  {
+   "key": "3:4216",
+   "voice": 27786,
+   "style": 0,
+   "ids": [
+    "0xd0a"
+   ],
+   "ja": "キてるで、バッチリや！！",
+   "en": "I'm on fire, all set!"
+  },
+  {
+   "key": "3:4252",
+   "voice": 27787,
+   "style": 0,
+   "ids": [
+    "0xd0a"
+   ],
+   "ja": "へへへっ、\n今のワイに怖いモンはあらへんで～。",
+   "en": "Heh heh, nothing scares me now!"
+  },
+  {
+   "key": "3:4308",
+   "voice": 27788,
+   "style": 0,
+   "ids": [
+    "0xd0a"
+   ],
+   "ja": "ごっつ、エエ感じ！！\nこのままつっ走ったらぁ！！",
+   "en": "Feeling great! I'm gonna charge straight through!"
+  },
+  {
+   "key": "3:4364",
+   "voice": 27815,
+   "style": 0,
+   "ids": [
+    "0xf0a"
+   ],
+   "ja": "いい気分だよ。\n何もかもがうまく行きそうさ。",
+   "en": "I feel good. Everything seems like it'll go well."
+  },
+  {
+   "key": "3:4416",
+   "voice": 27816,
+   "style": 0,
+   "ids": [
+    "0xf0a"
+   ],
+   "ja": "とても高揚してるんだ。\n僕の活躍を見せてあげるよ。",
+   "en": "I'm really pumped up. I'll show you what I can do."
+  },
+  {
+   "key": "3:4476",
+   "voice": 27817,
+   "style": 0,
+   "ids": [
+    "0xf0a"
+   ],
+   "ja": "とてもいい、\n力が有り余る感じだよ。",
+   "en": "I feel great, like I've got strength to spare."
+  },
+  {
+   "key": "3:4520",
+   "voice": 27670,
+   "style": 0,
+   "ids": [
+    "0x10b"
+   ],
+   "ja": "んー、まぁまぁかな。",
+   "en": "Hmm, so-so, I guess."
+  },
+  {
+   "key": "3:4552",
+   "voice": 27671,
+   "style": 0,
+   "ids": [
+    "0x10b"
+   ],
+   "ja": "高くはないけど、低くもないよ。",
+   "en": "Not high, but not low either."
+  },
+  {
+   "key": "3:4592",
+   "voice": 27672,
+   "style": 0,
+   "ids": [
+    "0x10b"
+   ],
+   "ja": "普通って感じかな。\nもっと上げとけばよかった。",
+   "en": "Kinda average. I should've raised it more."
+  },
+  {
+   "key": "3:4648",
+   "voice": 27699,
+   "style": 0,
+   "ids": [
+    "0x20b"
+   ],
+   "ja": "なんかイマイチ\n乗りきれないというか。\nま、普通よね。",
+   "en": "I just can't get into it. Well, it's normal."
+  },
+  {
+   "key": "3:4712",
+   "voice": 27700,
+   "style": 0,
+   "ids": [
+    "0x20b"
+   ],
+   "ja": "いつも通りね。\nこれから上げるわよ。",
+   "en": "Same as always. I'll raise it from here."
+  },
+  {
+   "key": "3:4756",
+   "voice": 27701,
+   "style": 0,
+   "ids": [
+    "0x20b"
+   ],
+   "ja": "そんなに高くはないけどね。\n別に問題あるってワケじゃないわ。",
+   "en": "It's not that high, but it's not a problem either."
+  },
+  {
+   "key": "3:4824",
+   "voice": 27728,
+   "style": 0,
+   "ids": [
+    "0x30b"
+   ],
+   "ja": "問題ないわ。",
+   "en": "No problem."
+  },
+  {
+   "key": "3:4848",
+   "voice": 27729,
+   "style": 0,
+   "ids": [
+    "0x30b"
+   ],
+   "ja": "操縦は出来るわ。\n大丈夫。",
+   "en": "I can pilot. I'm fine."
+  },
+  {
+   "key": "3:4884",
+   "voice": 27730,
+   "style": 0,
+   "ids": [
+    "0x30b"
+   ],
+   "ja": "ΑΤの調子はいたって普通よ。",
+   "en": "My A.T. is perfectly normal."
+  },
+  {
+   "key": "3:4924",
+   "voice": 27789,
+   "style": 0,
+   "ids": [
+    "0xd0b"
+   ],
+   "ja": "そやね、ほどほどにある感じやな。",
+   "en": "Yeah, I got a decent amount."
+  },
+  {
+   "key": "3:4968",
+   "voice": 27790,
+   "style": 0,
+   "ids": [
+    "0xd0b"
+   ],
+   "ja": "まあ、普通に落ちついとるな。",
+   "en": "Well, it's holding steady."
+  },
+  {
+   "key": "3:5008",
+   "voice": 27791,
+   "style": 0,
+   "ids": [
+    "0xd0b"
+   ],
+   "ja": "ようけΑΤが\nあるわけやないけどな…。\nまあ、操縦できるし大丈夫や。",
+   "en": "I ain't got a lot of A.T.... But I can pilot, so it's fine."
+  },
+  {
+   "key": "3:5084",
+   "voice": 27818,
+   "style": 0,
+   "ids": [
+    "0xf0b"
+   ],
+   "ja": "高くはないね。\nでも、戦うには充分さ。",
+   "en": "It's not high. But it's enough to fight."
+  },
+  {
+   "key": "3:5132",
+   "voice": 27819,
+   "style": 0,
+   "ids": [
+    "0xf0b"
+   ],
+   "ja": "そこそこあるよ。\nでも、上げておけばよかったな。",
+   "en": "I've got a fair amount. I should've raised it, though."
+  },
+  {
+   "key": "3:5188",
+   "voice": 27820,
+   "style": 0,
+   "ids": [
+    "0xf0b"
+   ],
+   "ja": "普通かな。\nでも、戦ってΑΤを上げたいよ。\nもっと、僕にはΑΤが必要だ。",
+   "en": "Average, I guess. But I want to raise my A.T. by fighting. I need more of it."
+  },
+  {
+   "key": "3:5268",
+   "voice": 27673,
+   "style": 0,
+   "ids": [
+    "0x10c"
+   ],
+   "ja": "どうでもいいんだ、もう。\n僕に出来る事なんて、\nあるわけないんだし…。",
+   "en": "I don't care anymore. There's nothing I can do anyway..."
+  },
+  {
+   "key": "3:5348",
+   "voice": 27674,
+   "style": 0,
+   "ids": [
+    "0x10c"
+   ],
+   "ja": "戦う気力なんて、\n本当はないんだ…。",
+   "en": "I really have no will to fight..."
+  },
+  {
+   "key": "3:5392",
+   "voice": 27675,
+   "style": 0,
+   "ids": [
+    "0x10c"
+   ],
+   "ja": "本当はもう、\n戦うつもりなんてないんだ…。\n駄目なんだよ、出来ないよ…。",
+   "en": "I really don't want to fight anymore... I can't do it, I can't..."
+  },
+  {
+   "key": "3:5472",
+   "voice": 27702,
+   "style": 0,
+   "ids": [
+    "0x20c"
+   ],
+   "ja": "何もやる気が起こらない…。\n何で私ここにいるんだろう。",
+   "en": "I don't feel like doing anything... Why am I even here?"
+  },
+  {
+   "key": "3:5536",
+   "voice": 27703,
+   "style": 0,
+   "ids": [
+    "0x20c"
+   ],
+   "ja": "もう、逃げ出したい、ここから。\n…静かに、一人でいたい。",
+   "en": "I want to run away from here. I want to be alone, in quiet."
+  },
+  {
+   "key": "3:5600",
+   "voice": 27704,
+   "style": 0,
+   "ids": [
+    "0x20c"
+   ],
+   "ja": "どうでもいいの。\nここで死んだ方が、楽かもしれない。",
+   "en": "I don't care. Maybe it'd be easier to die here."
+  },
+  {
+   "key": "3:5660",
+   "voice": 27731,
+   "style": 0,
+   "ids": [
+    "0x30c"
+   ],
+   "ja": "わからない。\n闇に埋もれてしまいそう。\n何も考えられない。",
+   "en": "I don't know. I feel like I'm sinking into darkness. I can't think."
+  },
+  {
+   "key": "3:5728",
+   "voice": 27732,
+   "style": 0,
+   "ids": [
+    "0x30c"
+   ],
+   "ja": "自分が消えていきそうな感じ…。\n今の私…、自分でもわからないの。",
+   "en": "I feel like I'm disappearing... I don't even know who I am now."
+  },
+  {
+   "key": "3:5800",
+   "voice": 27733,
+   "style": 0,
+   "ids": [
+    "0x30c"
+   ],
+   "ja": "………。$n\n私、とても戦えそうにない。",
+   "en": "...$n I don't think I can fight."
+  },
+  {
+   "key": "3:5848",
+   "voice": 27792,
+   "style": 0,
+   "ids": [
+    "0xd0c"
+   ],
+   "ja": "自分でも、どないかせんと\nいかんって思ってる…。\nせやけど、気分がついていかへん。",
+   "en": "I know I gotta do something... But my heart ain't following."
+  },
+  {
+   "key": "3:5940",
+   "voice": 27793,
+   "style": 0,
+   "ids": [
+    "0xd0c"
+   ],
+   "ja": "ワイ、駄目かもしれへん。\n何も、…何もやる気が\n起きてけえへんのや。",
+   "en": "I might be done for. I got no drive for anything at all."
+  },
+  {
+   "key": "3:6016",
+   "voice": 27794,
+   "style": 0,
+   "ids": [
+    "0xd0c"
+   ],
+   "ja": "焦りの気持ちばっかりで、\n落ちつかへん…。\nあかんわ…。",
+   "en": "I'm all worked up and can't calm down... This is bad..."
+  },
+  {
+   "key": "3:6080",
+   "voice": 27821,
+   "style": 0,
+   "ids": [
+    "0xf0c"
+   ],
+   "ja": "今の僕なんて、\n誰も必要としてないんだ…。\nそうなんだ、きっと…。",
+   "en": "Nobody needs me right now... That's it, I'm sure of it..."
+  },
+  {
+   "key": "3:6156",
+   "voice": 27822,
+   "style": 0,
+   "ids": [
+    "0xf0c"
+   ],
+   "ja": "僕は、心が沈んで、重くて…。\n這い上がろうにも這い上がれない、\nそんな気持ちなんだ…。",
+   "en": "My heart is heavy and sinking. I can't climb out, no matter how I try..."
+  },
+  {
+   "key": "3:6252",
+   "voice": 27823,
+   "style": 0,
+   "ids": [
+    "0xf0c"
+   ],
+   "ja": "僕、孤独で、怖くて…、\n心をどこかに置いてきたような、\nそんな気分なんだ…。",
+   "en": "I'm lonely and scared... It's like I left my heart somewhere."
+  },
+  {
+   "key": "3:6336",
+   "voice": 27676,
+   "style": 0,
+   "ids": [
+    "0x10d"
+   ],
+   "ja": "どうしよう…。\nどう攻めていけばいいんですか？",
+   "en": "What do I do...? How should I attack?"
+  },
+  {
+   "key": "3:6392",
+   "voice": 27705,
+   "style": 0,
+   "ids": [
+    "0x20d"
+   ],
+   "ja": "目標について、\n何か情報が欲しーんだけど…。",
+   "en": "I want some info on the target..."
+  },
+  {
+   "key": "3:6444",
+   "voice": 27735,
+   "style": 0,
+   "ids": [
+    "0x30d"
+   ],
+   "ja": "敵のデータは何かありますか？",
+   "en": "Do we have any data on the enemy?"
+  },
+  {
+   "key": "3:6484",
+   "voice": 27795,
+   "style": 0,
+   "ids": [
+    "0xd0d"
+   ],
+   "ja": "さて、ヤッコさんは\nどう始末つけたらええですかね？",
+   "en": "So, how should we deal with this guy?"
+  },
+  {
+   "key": "3:6544",
+   "voice": 27824,
+   "style": 0,
+   "ids": [
+    "0xf0d"
+   ],
+   "ja": "これからどうすればいいですか？",
+   "en": "What should I do now?"
+  },
+  {
+   "key": "3:6584",
+   "voice": 27749,
+   "style": 0,
+   "ids": [
+    "0x6040e"
+   ],
+   "ja": "相手の破壊光線に気をつけて。\n様子を見て接近戦に出ても\nかまわないわ。",
+   "en": "Watch out for its destruction beam. If you see an opening, you can close in."
+  },
+  {
+   "key": "3:6664",
+   "voice": 27750,
+   "style": 0,
+   "ids": [
+    "0x7040e"
+   ],
+   "ja": "武器の状態をマメに確認して。\nあと、武器庫ビルの位置もね。\n施設を有効に使いなさい。",
+   "en": "Check your weapon status often. And the armory building locations. Use the facilities well."
+  },
+  {
+   "key": "3:6756",
+   "voice": 27751,
+   "style": 0,
+   "ids": [
+    "0x8040e"
+   ],
+   "ja": "加粒子砲に当たらないように。\n接近したら、撃って来るわよ。$n\nいい？\n遠距離、遠距離射撃だからね！",
+   "en": "Don't get hit by the particle cannon. It'll fire when you get close.$n Got it? Long range, long range fire only!"
+  },
+  {
+   "key": "3:6860",
+   "voice": 27753,
+   "style": 0,
+   "ids": [
+    "0x9040e"
+   ],
+   "ja": "今回は、アンタ達を信じるわ。\n大丈夫、二人の息はピッタリだもの。",
+   "en": "This time, I'm trusting you two. It's fine, you two are in perfect sync."
+  },
+  {
+   "key": "3:6932",
+   "voice": 27754,
+   "style": 0,
+   "ids": [
+    "0xa040e"
+   ],
+   "ja": "目標の射出する溶解液に気をつけて。\n防御ビルをうまく活用するのよ。",
+   "en": "Watch out for the acid the target shoots. Use the defense buildings well."
+  },
+  {
+   "key": "3:7008",
+   "voice": 27755,
+   "style": 0,
+   "ids": [
+    "0xc040e"
+   ],
+   "ja": "攻撃を食らわないように。\n無責任なようだけど、\n目標の攻撃力はケタ違いよ。$n\n相手のレンジに入らないように\n常に動き続けなさい。",
+   "en": "Don't take its attacks. It sounds irresponsible, but its power is off the charts.$n Keep moving so you stay out of its range."
+  },
+  {
+   "key": "3:7144",
+   "voice": 27757,
+   "style": 0,
+   "ids": [
+    "0xc040e"
+   ],
+   "ja": "接近戦は相手の後ろをとってから。\nあとはあなたのΑΤで判断なさい。",
+   "en": "Close combat only after getting behind it. After that, use your own judgment with your A.T."
+  },
+  {
+   "key": "3:7220",
+   "voice": 27758,
+   "style": 0,
+   "ids": [
+    "0xd040e"
+   ],
+   "ja": "とにかく、データ不足で\n何とも言えないの。$n\nだから、接近戦を避ける、\n目標の死角に回って射撃を繰り返す。$n\nこれが一番安全なのよ。",
+   "en": "We lack data, so I can't say much.$n So avoid close combat, get into its blind spot, and keep firing.$n That's the safest way."
+  },
+  {
+   "key": "3:7360",
+   "voice": 27761,
+   "style": 0,
+   "ids": [
+    "0xd040e"
+   ],
+   "ja": "射撃武器は残弾に気をつけて。\n次の武器交換をどこにするか、\n考えときなさい。",
+   "en": "Watch your ammo. Think about where to swap weapons next."
+  },
+  {
+   "key": "3:7444",
+   "voice": 27762,
+   "style": 0,
+   "ids": [
+    "0xb040e"
+   ],
+   "ja": "参号機の内部に潜む、あの\n使徒の正体ともいえる粘菌\nみたいなのが気になるわね。$n\nなるべくアレに接触したくないわね。$n\n粘菌はね、他の栄養を発見したら\nそれに向かって移動を始める生物\nなのよ。",
+   "en": "That slime-mold thing inside Unit-03, the Angel's true form, worries me.$n I don't want us touching it.$n Slime mold moves toward any nutrient it finds."
+  },
+  {
+   "key": "3:7640",
+   "voice": 27765,
+   "style": 0,
+   "ids": [
+    "0xb040e"
+   ],
+   "ja": "姿はエヴァでも正体は使徒よ。\nどんな攻撃を出してくるか\nわからないわ。$n\n遠距離射撃が安全ね。\n武器庫ビルを確認しておきなさい。",
+   "en": "It looks like an Eva, but it's an Angel. No telling what attacks it has.$n Long range is safest. Check the armory buildings."
+  },
+  {
+   "key": "3:7776",
+   "voice": 27677,
+   "style": 0,
+   "ids": [
+    "0x10f"
+   ],
+   "ja": "%sの事って、\nどうなの？",
+   "en": "What about %s?"
+  },
+  {
+   "key": "3:7808",
+   "voice": 27706,
+   "style": 0,
+   "ids": [
+    "0x20f"
+   ],
+   "ja": "ねえ、%sの事\nどう思う？",
+   "en": "Hey, what do you think of %s?"
+  },
+  {
+   "key": "3:7840",
+   "voice": 27736,
+   "style": 0,
+   "ids": [
+    "0x30f"
+   ],
+   "ja": "あなたは、%sを\nどう思っているの…？",
+   "en": "What do you think of %s...?"
+  },
+  {
+   "key": "3:7884",
+   "voice": 27796,
+   "style": 0,
+   "ids": [
+    "0xd0f"
+   ],
+   "ja": "あのー、なんちゅうか、\n%sの事、どない思う？",
+   "en": "Uh, well, what do you think of %s?"
+  },
+  {
+   "key": "3:7936",
+   "voice": 27825,
+   "style": 0,
+   "ids": [
+    "0xf0f"
+   ],
+   "ja": "そういえばさ、%sの事、\nどんな風に思ってる？",
+   "en": "By the way, what do you think of %s?"
+  },
+  {
+   "key": "3:7988",
+   "voice": 27767,
+   "style": 0,
+   "ids": [
+    "0x40f"
+   ],
+   "ja": "ね、ね。\nホントのところさ、%sの事\nどー思ってんの？",
+   "en": "Hey, hey. Honestly, what do you think of %s?"
+  },
+  {
+   "key": "3:8048",
+   "voice": 27678,
+   "style": 0,
+   "ids": [
+    "0x110"
+   ],
+   "ja": "な、何を言うんだよ！！\nそりゃさ、ちょっとは\n気になるけど…。",
+   "en": "W-What are you saying?! Well, I guess I'm a little curious..."
+  },
+  {
+   "key": "3:8120",
+   "voice": 27707,
+   "style": 0,
+   "ids": [
+    "0x210"
+   ],
+   "ja": "バカ、何言ってンのよ！\nこんな時に…。\nま、気にはなってるけどサ。",
+   "en": "Idiot, what are you saying?! At a time like this... Well, I do wonder about them."
+  },
+  {
+   "key": "3:8196",
+   "voice": 27737,
+   "style": 0,
+   "ids": [
+    "0x310"
+   ],
+   "ja": "…私、あの人の事、\n少し気になってる…みたい。",
+   "en": "...I think I'm a little curious about that person."
+  },
+  {
+   "key": "3:8252",
+   "voice": 27797,
+   "style": 0,
+   "ids": [
+    "0xd10"
+   ],
+   "ja": "そ、そ、そーやなぁ…。\n気になるっちゅうか…。\nもう、勘弁したって…。",
+   "en": "W-Well, I mean... Curious, sort of... Aw, give me a break..."
+  },
+  {
+   "key": "3:8332",
+   "voice": 27826,
+   "style": 0,
+   "ids": [
+    "0xf10"
+   ],
+   "ja": "気になる存在だよ。\n興味があるね。",
+   "en": "They interest me. I'm curious."
+  },
+  {
+   "key": "3:8376",
+   "voice": 27768,
+   "style": 0,
+   "ids": [
+    "0x410"
+   ],
+   "ja": "まっ、そのォー…。\nチョッチ気になるケド…。\nって、何聞いてるのよ…。",
+   "en": "Well, um... I am a little curious... Wait, why am I asking that?"
+  },
+  {
+   "key": "3:8456",
+   "voice": 27679,
+   "style": 0,
+   "ids": [
+    "0x111"
+   ],
+   "ja": "え？\nどう思うって、別に普通…。",
+   "en": "Huh? What do I think? Nothing special..."
+  },
+  {
+   "key": "3:8496",
+   "voice": 27708,
+   "style": 0,
+   "ids": [
+    "0x211"
+   ],
+   "ja": "べっつに、何とも…。\n何でそんな事聞くのよ。",
+   "en": "Nothing in particular... Why ask me that?"
+  },
+  {
+   "key": "3:8548",
+   "voice": 27738,
+   "style": 0,
+   "ids": [
+    "0x311"
+   ],
+   "ja": "あの人が何か…？\n私は別に…。",
+   "en": "What about that person...? Nothing to me..."
+  },
+  {
+   "key": "3:8588",
+   "voice": 27798,
+   "style": 0,
+   "ids": [
+    "0xd11"
+   ],
+   "ja": "へっ？\nどう思うって、\nワシは別に何とも。",
+   "en": "Huh? What do I think? Nothing much."
+  },
+  {
+   "key": "3:8640",
+   "voice": 27827,
+   "style": 0,
+   "ids": [
+    "0xf11"
+   ],
+   "ja": "どうって、\nどうも思わないな…。",
+   "en": "Not much. I don't think anything..."
+  },
+  {
+   "key": "3:8680",
+   "voice": 27769,
+   "style": 0,
+   "ids": [
+    "0x411"
+   ],
+   "ja": "えー…、\n特別な感情はないわ。",
+   "en": "Um... I have no special feelings."
+  },
+  {
+   "key": "3:8720",
+   "voice": 27680,
+   "style": 0,
+   "ids": [
+    "0x112"
+   ],
+   "ja": "正直、苦手だな…。\n何となく。",
+   "en": "Honestly, I'm not good with them... Just somehow."
+  },
+  {
+   "key": "3:8760",
+   "voice": 27709,
+   "style": 0,
+   "ids": [
+    "0x212"
+   ],
+   "ja": "うーん。\nどっちかっていうと、\nキライかな。",
+   "en": "Hmm. If anything, I don't like them."
+  },
+  {
+   "key": "3:8812",
+   "voice": 27739,
+   "style": 0,
+   "ids": [
+    "0x312"
+   ],
+   "ja": "私、あの人とはあまり\n関わりたくない。",
+   "en": "I don't want to get involved with that person."
+  },
+  {
+   "key": "3:8860",
+   "voice": 27799,
+   "style": 0,
+   "ids": [
+    "0xd12"
+   ],
+   "ja": "ここだけの話、\nあんまり好きやないな…。",
+   "en": "Just between us, I don't really like them..."
+  },
+  {
+   "key": "3:8908",
+   "voice": 27828,
+   "style": 0,
+   "ids": [
+    "0xf12"
+   ],
+   "ja": "僕は、好きにはなれないな…。",
+   "en": "I can't like them..."
+  },
+  {
+   "key": "3:8948",
+   "voice": 27770,
+   "style": 0,
+   "ids": [
+    "0x412"
+   ],
+   "ja": "うーん、出来れば会いたくないわね。\nチョッチ、苦手だしさ。",
+   "en": "Hmm, I'd rather not meet them. They're kind of hard for me."
+  },
+  {
+   "key": "3:9016",
+   "voice": 27681,
+   "style": 0,
+   "ids": [
+    "0x113"
+   ],
+   "ja": "僕、何て言うか、\n尊敬…するよ。\nあんな風になりたい。",
+   "en": "I respect them, kind of. I want to be like that."
+  },
+  {
+   "key": "3:9080",
+   "voice": 27710,
+   "style": 0,
+   "ids": [
+    "0x213"
+   ],
+   "ja": "そうね、家族にするなら\nあんな人、かな？",
+   "en": "Yeah, if I had to pick family, someone like that, maybe?"
+  },
+  {
+   "key": "3:9128",
+   "voice": 27740,
+   "style": 0,
+   "ids": [
+    "0x313"
+   ],
+   "ja": "あの人は、\n一緒にいて、落ち着ける人。",
+   "en": "That person is someone I can relax around."
+  },
+  {
+   "key": "3:9176",
+   "voice": 27800,
+   "style": 0,
+   "ids": [
+    "0xd13"
+   ],
+   "ja": "ワシの中の目標、\nみたいなモンかな。",
+   "en": "Kinda like a goal for me, I guess."
+  },
+  {
+   "key": "3:9220",
+   "voice": 27829,
+   "style": 0,
+   "ids": [
+    "0xf13"
+   ],
+   "ja": "そうだな、あの人には\n敬意を表するよ。",
+   "en": "I respect them. I really do."
+  },
+  {
+   "key": "3:9268",
+   "voice": 27771,
+   "style": 0,
+   "ids": [
+    "0x413"
+   ],
+   "ja": "ああ、あの人からは\n学ぶ事が多いわね。\n好感持てるわ。",
+   "en": "Yeah, I learn a lot from them. I like them."
+  },
+  {
+   "key": "3:9332",
+   "voice": 27682,
+   "style": 0,
+   "ids": [
+    "0x114"
+   ],
+   "ja": "いや、特には…。\n何だろう、何とも思わない…。",
+   "en": "No, nothing really... What is it... I don't think anything."
+  },
+  {
+   "key": "3:9388",
+   "voice": 27711,
+   "style": 0,
+   "ids": [
+    "0x214"
+   ],
+   "ja": "さあ、気にかけた事もないわ。",
+   "en": "Who knows, I've never thought about it."
+  },
+  {
+   "key": "3:9428",
+   "voice": 27741,
+   "style": 0,
+   "ids": [
+    "0x314"
+   ],
+   "ja": "何も思う事はないわ…。",
+   "en": "I don't think anything."
+  },
+  {
+   "key": "3:9460",
+   "voice": 27801,
+   "style": 0,
+   "ids": [
+    "0xd14"
+   ],
+   "ja": "えーとな、何やろ。\n何もないなァ…。",
+   "en": "Um, what is it. Nothing, really..."
+  },
+  {
+   "key": "3:9504",
+   "voice": 27830,
+   "style": 0,
+   "ids": [
+    "0xf14"
+   ],
+   "ja": "言葉に困るな…。\n実際、何とも思わないし…。",
+   "en": "I'm at a loss for words... Honestly, I don't feel anything."
+  },
+  {
+   "key": "3:9556",
+   "voice": 27772,
+   "style": 0,
+   "ids": [
+    "0x414"
+   ],
+   "ja": "会えば挨拶する程度ね。\n特に何とも思わないわ。",
+   "en": "We just say hello when we meet. Nothing special."
+  },
+  {
+   "key": "3:9612",
+   "voice": 27683,
+   "style": 0,
+   "ids": [
+    "0x115"
+   ],
+   "ja": "僕とは合わない人だと思う。\nどうにもダメなんだ…。",
+   "en": "I think we just don't get along. I can't stand them..."
+  },
+  {
+   "key": "3:9672",
+   "voice": 27712,
+   "style": 0,
+   "ids": [
+    "0x215"
+   ],
+   "ja": "あんまりあの人の事考えたくないわ。\nイライラするし。",
+   "en": "I don't want to think about them. They get on my nerves."
+  },
+  {
+   "key": "3:9732",
+   "voice": 27742,
+   "style": 0,
+   "ids": [
+    "0x315"
+   ],
+   "ja": "話したくない。\n出来れば、近寄りたくないわ。",
+   "en": "I don't want to talk about them. I'd rather stay away."
+  },
+  {
+   "key": "3:9784",
+   "voice": 27802,
+   "style": 0,
+   "ids": [
+    "0xd15"
+   ],
+   "ja": "アカン、あいつだけはアカン。\nワシとはうまくやっていけへん\nタイプやわ。",
+   "en": "No way, not that guy. He's the type I can't get along with."
+  },
+  {
+   "key": "3:9864",
+   "voice": 27831,
+   "style": 0,
+   "ids": [
+    "0xf15"
+   ],
+   "ja": "僕は嫌いだな。\n軽蔑するよ。",
+   "en": "I hate them. I despise them."
+  },
+  {
+   "key": "3:9900",
+   "voice": 27773,
+   "style": 0,
+   "ids": [
+    "0x415"
+   ],
+   "ja": "やーだ、最悪。",
+   "en": "Ugh, the worst."
+  },
+  {
+   "key": "3:9924",
+   "voice": 27684,
+   "style": 0,
+   "ids": [
+    "0x116"
+   ],
+   "ja": "心のどこかで、繋がってるみたいな。\n大事な人だよ。",
+   "en": "It's like we're connected somewhere in our hearts. They're important to me."
+  },
+  {
+   "key": "3:9984",
+   "voice": 27713,
+   "style": 0,
+   "ids": [
+    "0x216"
+   ],
+   "ja": "あの人なら、\n何でも打ち明けられる。\nそのくらいの人。",
+   "en": "I could tell them anything. That kind of person."
+  },
+  {
+   "key": "3:10048",
+   "voice": 27743,
+   "style": 0,
+   "ids": [
+    "0x316"
+   ],
+   "ja": "大事な人。\nもっと、私を知ってもらいたい。",
+   "en": "An important person. I want them to know me better."
+  },
+  {
+   "key": "3:10100",
+   "voice": 27803,
+   "style": 0,
+   "ids": [
+    "0xd16"
+   ],
+   "ja": "心の友、やな。\nそれに尽きるわ。",
+   "en": "A true friend, that's what. That's all there is to it."
+  },
+  {
+   "key": "3:10140",
+   "voice": 27832,
+   "style": 0,
+   "ids": [
+    "0xf16"
+   ],
+   "ja": "親友と思ってる。\n僕はそうであって欲しい。",
+   "en": "I think of them as a best friend. I hope they feel the same."
+  },
+  {
+   "key": "3:10192",
+   "voice": 27774,
+   "style": 0,
+   "ids": [
+    "0x416"
+   ],
+   "ja": "気兼ねなく付き合える人。\nめったにいないわ、あんな人。",
+   "en": "Someone I can be myself with. People like that are rare."
+  },
+  {
+   "key": "3:10256",
+   "voice": 27685,
+   "style": 0,
+   "ids": [
+    "0x117"
+   ],
+   "ja": "特に…。\nまあ、普通かな。",
+   "en": "Nothing in particular. Just normal, I guess."
+  },
+  {
+   "key": "3:10292",
+   "voice": 27714,
+   "style": 0,
+   "ids": [
+    "0x217"
+   ],
+   "ja": "キライじゃないけど、\n好きでもないわ。",
+   "en": "I don't hate them, but I don't like them either."
+  },
+  {
+   "key": "3:10340",
+   "voice": 27744,
+   "style": 0,
+   "ids": [
+    "0x317"
+   ],
+   "ja": "気にした事ないわ。\nあの人がどうかしたの？",
+   "en": "I've never thought about it. What about that person?"
+  },
+  {
+   "key": "3:10392",
+   "voice": 27804,
+   "style": 0,
+   "ids": [
+    "0xd17"
+   ],
+   "ja": "さあ、何やろな。\nワシかて、わからへんし。",
+   "en": "Who knows. Even I don't know."
+  },
+  {
+   "key": "3:10444",
+   "voice": 27833,
+   "style": 0,
+   "ids": [
+    "0xf17"
+   ],
+   "ja": "考えた事もない。\n向こうも同じなんじゃないかな。",
+   "en": "I've never thought about it. They probably feel the same."
+  },
+  {
+   "key": "3:10500",
+   "voice": 27775,
+   "style": 0,
+   "ids": [
+    "0x417"
+   ],
+   "ja": "悪い人じゃないわよね。\nでも、よく知らないから。\n何とも言えないわ。",
+   "en": "They're not a bad person. But I don't know them well, so I can't say."
+  },
+  {
+   "key": "3:10576",
+   "voice": 27686,
+   "style": 0,
+   "ids": [
+    "0x118"
+   ],
+   "ja": "何かさ、\nその名前も聞きたくないんだ。",
+   "en": "Somehow, I don't even want to hear that name."
+  },
+  {
+   "key": "3:10624",
+   "voice": 27715,
+   "style": 0,
+   "ids": [
+    "0x218"
+   ],
+   "ja": "はっきり言って、キ・ラ・イ！",
+   "en": "Frankly, I ha-te them!"
+  },
+  {
+   "key": "3:10664",
+   "voice": 27745,
+   "style": 0,
+   "ids": [
+    "0x318"
+   ],
+   "ja": "好きじゃない。\n会いたくないし、話もしたくないの。",
+   "en": "I don't like them. I don't want to see them or talk to them."
+  },
+  {
+   "key": "3:10724",
+   "voice": 27805,
+   "style": 0,
+   "ids": [
+    "0xd18"
+   ],
+   "ja": "ああ、ワイなぁ、\nあいつ見ると、イヤ～ンな\n気分になるわ。",
+   "en": "Ah, honestly, I get a bad feeling every time I see that guy."
+  },
+  {
+   "key": "3:10792",
+   "voice": 27834,
+   "style": 0,
+   "ids": [
+    "0xf18"
+   ],
+   "ja": "こんな時にそんな名前出して…。\n僕は、あいつが嫌いなんだ。",
+   "en": "Bringing up that name now... I hate that guy."
+  },
+  {
+   "key": "3:10860",
+   "voice": 27776,
+   "style": 0,
+   "ids": [
+    "0x418"
+   ],
+   "ja": "私さぁ、アイツのグチ言ったら\nキリないわよ。\n平たく言えば、嫌いだわ。",
+   "en": "If I started complaining about them, I'd never stop. To put it simply, I hate them."
+  },
+  {
+   "key": "17:168",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x20001"
+   ],
+   "ja": "初号機のアンビリカルケーブルの\n残りが無くなりました。",
+   "en": "Unit-01's umbilical cable has run out."
+  },
+  {
+   "key": "17:232",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x30001"
+   ],
+   "ja": "弐号機のアンビリカルケーブルの\n残りが無くなりました。",
+   "en": "Unit-02's umbilical cable has run out."
+  },
+  {
+   "key": "17:296",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x10001"
+   ],
+   "ja": "零号機のアンビリカルケーブルの\n残りが無くなりました。",
+   "en": "Unit-00's umbilical cable has run out."
+  },
+  {
+   "key": "17:360",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x40001"
+   ],
+   "ja": "参号機のアンビリカルケーブルの\n残りが無くなりました。",
+   "en": "Unit-03's umbilical cable has run out."
+  },
+  {
+   "key": "17:424",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x50001"
+   ],
+   "ja": "四号機のアンビリカルケーブルの\n残りが無くなりました。",
+   "en": "Unit-04's umbilical cable has run out."
+  },
+  {
+   "key": "17:488",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x220001"
+   ],
+   "ja": "エヴァ両機のアンビリカル\nケーブルの残りが無くなりました。",
+   "en": "Both Evas' umbilical cables have run out."
+  },
+  {
+   "key": "17:556",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x3"
+   ],
+   "ja": "ケーブルを切断しますか？\n切断後は内部電源が減少します。\n０になると活動停止です。",
+   "en": "Cut the cable? Once it's cut, the internal battery will drain. At 0, the Eva shuts down."
+  },
+  {
+   "key": "17:648",
+   "voice": 27835,
+   "style": 0,
+   "ids": [
+    "0x20802"
+   ],
+   "ja": "エヴァ初号機のアンビリカル\nケーブル、切断しました。",
+   "en": "Eva Unit-01's umbilical cable has been cut."
+  },
+  {
+   "key": "17:708",
+   "voice": 27841,
+   "style": 0,
+   "ids": [
+    "0x21202"
+   ],
+   "ja": "エヴァ初号機のアンビリカル\nケーブルを切断しました。",
+   "en": "Eva Unit-01's umbilical cable was cut."
+  },
+  {
+   "key": "17:768",
+   "voice": 27836,
+   "style": 0,
+   "ids": [
+    "0x30802"
+   ],
+   "ja": "エヴァ弐号機のアンビリカル\nケーブル、切断しました。",
+   "en": "Eva Unit-02's umbilical cable has been cut."
+  },
+  {
+   "key": "17:828",
+   "voice": 27842,
+   "style": 0,
+   "ids": [
+    "0x31202"
+   ],
+   "ja": "弐号機のアンビリカルケーブルを\n切断しました。",
+   "en": "Unit-02's umbilical cable was cut."
+  },
+  {
+   "key": "17:884",
+   "voice": 27837,
+   "style": 0,
+   "ids": [
+    "0x10802"
+   ],
+   "ja": "エヴァ零号機のアンビリカル\nケーブル、切断しました。",
+   "en": "Eva Unit-00's umbilical cable has been cut."
+  },
+  {
+   "key": "17:944",
+   "voice": 27843,
+   "style": 0,
+   "ids": [
+    "0x11202"
+   ],
+   "ja": "零号機のアンビリカルケーブルを\n切断しました。",
+   "en": "Unit-00's umbilical cable was cut."
+  },
+  {
+   "key": "17:1000",
+   "voice": 27838,
+   "style": 0,
+   "ids": [
+    "0x40802"
+   ],
+   "ja": "エヴァ参号機のアンビリカル\nケーブル、切断しました。",
+   "en": "Eva Unit-03's umbilical cable has been cut."
+  },
+  {
+   "key": "17:1060",
+   "voice": 27844,
+   "style": 0,
+   "ids": [
+    "0x41202"
+   ],
+   "ja": "参号機のアンビリカルケーブルを\n切断しました。",
+   "en": "Unit-03's umbilical cable was cut."
+  },
+  {
+   "key": "17:1116",
+   "voice": 27839,
+   "style": 0,
+   "ids": [
+    "0x50802"
+   ],
+   "ja": "エヴァ四号機のアンビリカル\nケーブル、切断しました。",
+   "en": "Eva Unit-04's umbilical cable has been cut."
+  },
+  {
+   "key": "17:1176",
+   "voice": 27845,
+   "style": 0,
+   "ids": [
+    "0x51202"
+   ],
+   "ja": "四号機のアンビリカルケーブルを\n切断しました。",
+   "en": "Unit-04's umbilical cable was cut."
+  },
+  {
+   "key": "17:1232",
+   "voice": 27840,
+   "style": 0,
+   "ids": [
+    "0x220802"
+   ],
+   "ja": "エヴァ両機のアンビリカル\nケーブル、切断しました。",
+   "en": "Both Evas' umbilical cables have been cut."
+  },
+  {
+   "key": "17:1292",
+   "voice": 27846,
+   "style": 0,
+   "ids": [
+    "0x221202"
+   ],
+   "ja": "エヴァ両機のアンビリカル\nケーブルを切断しました。",
+   "en": "Both Evas' umbilical cables were cut."
+  },
+  {
+   "key": "18:208",
+   "voice": 27847,
+   "style": 0,
+   "ids": [
+    "0x20801"
+   ],
+   "ja": "初号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-01 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:284",
+   "voice": 27859,
+   "style": 0,
+   "ids": [
+    "0x21101"
+   ],
+   "ja": "初号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-01 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:360",
+   "voice": 27848,
+   "style": 0,
+   "ids": [
+    "0x30801"
+   ],
+   "ja": "弐号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-02 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:436",
+   "voice": 27860,
+   "style": 0,
+   "ids": [
+    "0x31101"
+   ],
+   "ja": "弐号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-02 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:512",
+   "voice": 27849,
+   "style": 0,
+   "ids": [
+    "0x10801"
+   ],
+   "ja": "零号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-00 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:588",
+   "voice": 27861,
+   "style": 0,
+   "ids": [
+    "0x11101"
+   ],
+   "ja": "零号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-00 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:664",
+   "voice": 27850,
+   "style": 0,
+   "ids": [
+    "0x40801"
+   ],
+   "ja": "参号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-03 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:740",
+   "voice": 27862,
+   "style": 0,
+   "ids": [
+    "0x41101"
+   ],
+   "ja": "参号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-03 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:816",
+   "voice": 27851,
+   "style": 0,
+   "ids": [
+    "0x50801"
+   ],
+   "ja": "四号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-04 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:892",
+   "voice": 27863,
+   "style": 0,
+   "ids": [
+    "0x51101"
+   ],
+   "ja": "四号機、アンビリカルケーブルを\n接続しました。\n内部電源、減少停止。",
+   "en": "Unit-04 umbilical cable connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:968",
+   "voice": 27852,
+   "style": 0,
+   "ids": [
+    "0x220801"
+   ],
+   "ja": "エヴァ両機、アンビリカル\nケーブルを接続しました。\n内部電源、減少停止。",
+   "en": "Both Evas' umbilical cables connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:1048",
+   "voice": 27864,
+   "style": 0,
+   "ids": [
+    "0x221101"
+   ],
+   "ja": "エヴァ両機、アンビリカル\nケーブルを接続しました。\n内部電源、減少停止。",
+   "en": "Both Evas' umbilical cables connected. Battery drain has stopped."
+  },
+  {
+   "key": "18:1128",
+   "voice": 27853,
+   "style": 0,
+   "ids": [
+    "0x20802"
+   ],
+   "ja": "初号機、アンビリカルケーブル、\n交換しました。",
+   "en": "Unit-01 umbilical cable replaced."
+  },
+  {
+   "key": "18:1184",
+   "voice": 27865,
+   "style": 0,
+   "ids": [
+    "0x21102"
+   ],
+   "ja": "初号機、アンビリカルケーブルを\n交換しました。",
+   "en": "Unit-01's umbilical cable has been replaced."
+  },
+  {
+   "key": "18:1240",
+   "voice": 27854,
+   "style": 0,
+   "ids": [
+    "0x30802"
+   ],
+   "ja": "弐号機、アンビリカルケーブル、\n交換しました。",
+   "en": "Unit-02 umbilical cable replaced."
+  },
+  {
+   "key": "18:1296",
+   "voice": 27866,
+   "style": 0,
+   "ids": [
+    "0x31102"
+   ],
+   "ja": "弐号機、アンビリカルケーブルを\n交換しました。",
+   "en": "Unit-02's umbilical cable has been replaced."
+  },
+  {
+   "key": "18:1352",
+   "voice": 27855,
+   "style": 0,
+   "ids": [
+    "0x10802"
+   ],
+   "ja": "零号機、アンビリカルケーブル、\n交換しました。",
+   "en": "Unit-00 umbilical cable replaced."
+  },
+  {
+   "key": "18:1408",
+   "voice": 27867,
+   "style": 0,
+   "ids": [
+    "0x11102"
+   ],
+   "ja": "零号機、アンビリカルケーブルを\n交換しました。",
+   "en": "Unit-00's umbilical cable has been replaced."
+  },
+  {
+   "key": "18:1464",
+   "voice": 27856,
+   "style": 0,
+   "ids": [
+    "0x40802"
+   ],
+   "ja": "参号機、アンビリカルケーブル、\n交換しました。",
+   "en": "Unit-03 umbilical cable replaced."
+  },
+  {
+   "key": "18:1520",
+   "voice": 27868,
+   "style": 0,
+   "ids": [
+    "0x41102"
+   ],
+   "ja": "参号機、アンビリカルケーブルを\n交換しました。",
+   "en": "Unit-03's umbilical cable has been replaced."
+  },
+  {
+   "key": "18:1576",
+   "voice": 27857,
+   "style": 0,
+   "ids": [
+    "0x50802"
+   ],
+   "ja": "四号機、アンビリカルケーブル、\n交換しました。",
+   "en": "Unit-04 umbilical cable replaced."
+  },
+  {
+   "key": "18:1632",
+   "voice": 27869,
+   "style": 0,
+   "ids": [
+    "0x51102"
+   ],
+   "ja": "四号機、アンビリカルケーブルを\n交換しました。",
+   "en": "Unit-04's umbilical cable has been replaced."
+  },
+  {
+   "key": "18:1688",
+   "voice": 27858,
+   "style": 0,
+   "ids": [
+    "0x220802"
+   ],
+   "ja": "エヴァ両機、\nアンビリカルケーブル、\n交換しました。",
+   "en": "Both Evas, umbilical cables replaced."
+  },
+  {
+   "key": "18:1748",
+   "voice": 27870,
+   "style": 0,
+   "ids": [
+    "0x221102"
+   ],
+   "ja": "エヴァ両機、\nアンビリカルケーブルを\n交換しました。",
+   "en": "Both Evas' umbilical cables have been replaced."
+  },
+  {
+   "key": "19:48",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x1"
+   ],
+   "ja": "武器庫ビルの武器に取りかえます。\n現在:%s\nビル:%s",
+   "en": "Swapping for the armory building's weapon.|Current: %s|Building: %s"
+  },
+  {
+   "key": "19:108",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x2"
+   ],
+   "ja": "%sを破棄し、\n%sを装備しました。",
+   "en": "Discarded %s and equipped %s."
+  },
+  {
+   "key": "19:148",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x3"
+   ],
+   "ja": "%sを装備しました。",
+   "en": "Equipped %s."
+  },
+  {
+   "key": "19:176",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x4"
+   ],
+   "ja": "隣接した武器庫ビルには、武器が\n入っていません。",
+   "en": "The adjacent armory building has no weapon inside."
+  },
+  {
+   "key": "23:40",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x1"
+   ],
+   "ja": "エヴァシリーズの剣を拾いますか？\n現在:%s",
+   "en": "Pick up the Eva series sword? Current: %s"
+  },
+  {
+   "key": "23:92",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x2"
+   ],
+   "ja": "%sを破棄し、\n%sを装備しました。",
+   "en": "Discarded %s and equipped %s."
+  },
+  {
+   "key": "23:132",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x3"
+   ],
+   "ja": "%sを装備しました。",
+   "en": "Equipped %s."
+  },
+  {
+   "key": "85:424",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x1"
+   ],
+   "ja": "%sを破棄しますか？",
+   "en": "Discard %s?"
+  },
+  {
+   "key": "85:452",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x2"
+   ],
+   "ja": "%sを破棄しました。",
+   "en": "Discarded %s."
+  },
+  {
+   "key": "85:480",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x4"
+   ],
+   "ja": "%sは、\n残弾０なので使えません。",
+   "en": "%s has no ammo left, so it can't be used."
+  },
+  {
+   "key": "85:520",
+   "voice": 27889,
+   "style": 0,
+   "ids": [
+    "0x105"
+   ],
+   "ja": "わぁぁっ！",
+   "en": "Waaah!"
+  },
+  {
+   "key": "85:540",
+   "voice": 27890,
+   "style": 0,
+   "ids": [
+    "0x105"
+   ],
+   "ja": "くぁぁっ！！",
+   "en": "Gaah!"
+  },
+  {
+   "key": "85:564",
+   "voice": 27891,
+   "style": 0,
+   "ids": [
+    "0x105"
+   ],
+   "ja": "うぁぁぁぁっ！！",
+   "en": "Aaaaagh!"
+  },
+  {
+   "key": "85:592",
+   "voice": 27892,
+   "style": 0,
+   "ids": [
+    "0x105"
+   ],
+   "ja": "い…、痛いぃっ！！",
+   "en": "I-It hurts!"
+  },
+  {
+   "key": "85:620",
+   "voice": 27897,
+   "style": 0,
+   "ids": [
+    "0x205"
+   ],
+   "ja": "キャー！",
+   "en": "Eek!"
+  },
+  {
+   "key": "85:640",
+   "voice": 27898,
+   "style": 0,
+   "ids": [
+    "0x205"
+   ],
+   "ja": "イッタイわねッ！！",
+   "en": "That hurt!"
+  },
+  {
+   "key": "85:668",
+   "voice": 27899,
+   "style": 0,
+   "ids": [
+    "0x205"
+   ],
+   "ja": "きゃうッ！！",
+   "en": "Yeowch!"
+  },
+  {
+   "key": "85:692",
+   "voice": 27900,
+   "style": 0,
+   "ids": [
+    "0x205"
+   ],
+   "ja": "あああああッ…！！",
+   "en": "Aaaaah...!"
+  },
+  {
+   "key": "85:720",
+   "voice": 27905,
+   "style": 0,
+   "ids": [
+    "0x305"
+   ],
+   "ja": "……っ！",
+   "en": "...Ngh!"
+  },
+  {
+   "key": "85:740",
+   "voice": 27906,
+   "style": 0,
+   "ids": [
+    "0x305"
+   ],
+   "ja": "きゃぁぁぁ…！！",
+   "en": "Aaaaah...!!"
+  },
+  {
+   "key": "85:768",
+   "voice": 27907,
+   "style": 0,
+   "ids": [
+    "0x305"
+   ],
+   "ja": "あぁぁぁぁぁぁぁぁぁ…！",
+   "en": "Aaaaaaaaaaah...!"
+  },
+  {
+   "key": "85:804",
+   "voice": 27908,
+   "style": 0,
+   "ids": [
+    "0x305"
+   ],
+   "ja": "くっ…！！",
+   "en": "Ugh...!"
+  },
+  {
+   "key": "85:824",
+   "voice": 27918,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "痛いやんけ！！",
+   "en": "That hurts, damn it!"
+  },
+  {
+   "key": "85:848",
+   "voice": 27919,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "ぎゃあ！！",
+   "en": "Gyaah!"
+  },
+  {
+   "key": "85:868",
+   "voice": 27920,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "くそ、やりおったな…！！",
+   "en": "Dammit, you did it now...!"
+  },
+  {
+   "key": "85:904",
+   "voice": 27921,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "上等やんけ！！",
+   "en": "Bring it on!"
+  },
+  {
+   "key": "85:928",
+   "voice": 27922,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "痛ェ！！",
+   "en": "Ow!"
+  },
+  {
+   "key": "85:948",
+   "voice": 27923,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "まだまだァ！！",
+   "en": "I ain't done yet!"
+  },
+  {
+   "key": "85:972",
+   "voice": 27924,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "効っくゥー…。",
+   "en": "Gah... That one stung."
+  },
+  {
+   "key": "85:996",
+   "voice": 27925,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "…んがっ！？",
+   "en": "...Ngh!?"
+  },
+  {
+   "key": "85:1020",
+   "voice": 27926,
+   "style": 0,
+   "ids": [
+    "0xd05"
+   ],
+   "ja": "うあッ…！？",
+   "en": "Uwah...!?"
+  },
+  {
+   "key": "85:1044",
+   "voice": 27934,
+   "style": 0,
+   "ids": [
+    "0xf05"
+   ],
+   "ja": "………うっ！",
+   "en": "...Ugh!"
+  },
+  {
+   "key": "85:1068",
+   "voice": 27935,
+   "style": 0,
+   "ids": [
+    "0xf05"
+   ],
+   "ja": "痛い！！",
+   "en": "It hurts!"
+  },
+  {
+   "key": "85:1088",
+   "voice": 27936,
+   "style": 0,
+   "ids": [
+    "0xf05"
+   ],
+   "ja": "ぐあっ！！",
+   "en": "Guah!"
+  },
+  {
+   "key": "85:1108",
+   "voice": 27937,
+   "style": 0,
+   "ids": [
+    "0xf05"
+   ],
+   "ja": "うわぁぁっ！！",
+   "en": "Uwaaah!"
+  },
+  {
+   "key": "85:1132",
+   "voice": 27893,
+   "style": 0,
+   "ids": [
+    "0x106"
+   ],
+   "ja": "このぉ！",
+   "en": "Take this!"
+  },
+  {
+   "key": "85:1152",
+   "voice": 27894,
+   "style": 0,
+   "ids": [
+    "0x106"
+   ],
+   "ja": "行けぇ！！",
+   "en": "Go!"
+  },
+  {
+   "key": "85:1172",
+   "voice": 27895,
+   "style": 0,
+   "ids": [
+    "0x106"
+   ],
+   "ja": "よぉし！！",
+   "en": "All right!"
+  },
+  {
+   "key": "85:1192",
+   "voice": 27896,
+   "style": 0,
+   "ids": [
+    "0x106"
+   ],
+   "ja": "行かせない、\n行かせはしない！！",
+   "en": "I won't let you through! I won't!"
+  },
+  {
+   "key": "85:1232",
+   "voice": 27901,
+   "style": 0,
+   "ids": [
+    "0x206"
+   ],
+   "ja": "見てらっしゃい！！",
+   "en": "Just you watch!"
+  },
+  {
+   "key": "85:1260",
+   "voice": 27902,
+   "style": 0,
+   "ids": [
+    "0x206"
+   ],
+   "ja": "覚悟なさい！！",
+   "en": "Prepare yourself!"
+  },
+  {
+   "key": "85:1284",
+   "voice": 27903,
+   "style": 0,
+   "ids": [
+    "0x206"
+   ],
+   "ja": "これでも食らえ！！",
+   "en": "Eat this!"
+  },
+  {
+   "key": "85:1312",
+   "voice": 27904,
+   "style": 0,
+   "ids": [
+    "0x206"
+   ],
+   "ja": "さぁ、行かせてもらうわよ！",
+   "en": "Here I come!"
+  },
+  {
+   "key": "85:1348",
+   "voice": 27909,
+   "style": 0,
+   "ids": [
+    "0x306"
+   ],
+   "ja": "零号機、行きます…。",
+   "en": "Unit-00, launching..."
+  },
+  {
+   "key": "85:1380",
+   "voice": 27910,
+   "style": 0,
+   "ids": [
+    "0x306"
+   ],
+   "ja": "今だわ…。",
+   "en": "Now..."
+  },
+  {
+   "key": "85:1400",
+   "voice": 27911,
+   "style": 0,
+   "ids": [
+    "0x306"
+   ],
+   "ja": "あそこね…。",
+   "en": "There..."
+  },
+  {
+   "key": "85:1424",
+   "voice": 27912,
+   "style": 0,
+   "ids": [
+    "0x306"
+   ],
+   "ja": "捉えた…。",
+   "en": "Got you..."
+  },
+  {
+   "key": "85:1444",
+   "voice": 27927,
+   "style": 0,
+   "ids": [
+    "0xd06"
+   ],
+   "ja": "容赦せえへんでぇ！！",
+   "en": "No mercy!"
+  },
+  {
+   "key": "85:1476",
+   "voice": 27928,
+   "style": 0,
+   "ids": [
+    "0xd06"
+   ],
+   "ja": "見とれよ、ワレェ！！",
+   "en": "Watch it, punk!"
+  },
+  {
+   "key": "85:1508",
+   "voice": 27929,
+   "style": 0,
+   "ids": [
+    "0xd06"
+   ],
+   "ja": "へへっ、\nコレ食らったら目ェ回す\nでぇ～！！",
+   "en": "Heh, one hit of this'll make your head spin!"
+  },
+  {
+   "key": "85:1560",
+   "voice": 27930,
+   "style": 0,
+   "ids": [
+    "0xd06"
+   ],
+   "ja": "いっちょ、いわしたろか！！",
+   "en": "Time to knock you around!"
+  },
+  {
+   "key": "85:1596",
+   "voice": 27931,
+   "style": 0,
+   "ids": [
+    "0xd06"
+   ],
+   "ja": "おんどりゃああ！！",
+   "en": "Rrraaah!"
+  },
+  {
+   "key": "85:1624",
+   "voice": 27932,
+   "style": 0,
+   "ids": [
+    "0xd06"
+   ],
+   "ja": "しばいたるわ！！",
+   "en": "I'll beat you down!"
+  },
+  {
+   "key": "85:1652",
+   "voice": 27933,
+   "style": 0,
+   "ids": [
+    "0xd06"
+   ],
+   "ja": "なめんなァ！！",
+   "en": "Don't mess with me!"
+  },
+  {
+   "key": "85:1676",
+   "voice": 27938,
+   "style": 0,
+   "ids": [
+    "0xf06"
+   ],
+   "ja": "今だ…。",
+   "en": "Now..."
+  },
+  {
+   "key": "85:1696",
+   "voice": 27939,
+   "style": 0,
+   "ids": [
+    "0xf06"
+   ],
+   "ja": "手加減なしだよ…。",
+   "en": "No holding back..."
+  },
+  {
+   "key": "85:1724",
+   "voice": 27940,
+   "style": 0,
+   "ids": [
+    "0xf06"
+   ],
+   "ja": "フフッ、もらった…。",
+   "en": "Heh, got you..."
+  },
+  {
+   "key": "85:1756",
+   "voice": 27941,
+   "style": 0,
+   "ids": [
+    "0xf06"
+   ],
+   "ja": "チャンス！！",
+   "en": "My chance!"
+  }
+ ]
+}
