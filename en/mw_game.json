@@ -1,0 +1,8845 @@
+{
+"notes": [
+"en = English for this exact Japanese string, same for every place it occurs."
+],
+"strings": [
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "そういえば、",
+"en": "By the way,"
+},
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "あの…",
+"en": "Um..."
+},
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "えーと、",
+"en": "Well,"
+},
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "だから、",
+"en": "So,"
+},
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "えーっと、",
+"en": "Er,"
+},
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "あの、",
+"en": "Um,"
+},
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "…実は、",
+"en": "...Actually,"
+},
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "みんなには内緒ですけど…",
+"en": "Keep this secret, but..."
+},
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "…そういえば、",
+"en": "...By the way,"
+},
+{
+"file": "MW001.DAT",
+"sec": 1,
+"ja": "－－－－－－－－－－",
+"en": "----------"
+},
+{
+"file": "MW001.DAT",
+"sec": 2,
+"ja": "全然関係ないけど、",
+"en": "Unrelated, but,"
+},
+{
+"file": "MW001.DAT",
+"sec": 2,
+"ja": "あ、えーとね、",
+"en": "Oh, um,"
+},
+{
+"file": "MW001.DAT",
+"sec": 2,
+"ja": "えーとね、",
+"en": "Well,"
+},
+{
+"file": "MW001.DAT",
+"sec": 2,
+"ja": "だからね、",
+"en": "So,"
+},
+{
+"file": "MW001.DAT",
+"sec": 2,
+"ja": "あのね、",
+"en": "Listen,"
+},
+{
+"file": "MW001.DAT",
+"sec": 2,
+"ja": "黙っててもらえるかな？",
+"en": "Can you keep this quiet?"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "たった今、",
+"en": "just now,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "ついさっき、",
+"en": "a moment ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "１時間くらい前、",
+"en": "about an hour ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "２時間くらい前、",
+"en": "about two hours ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "今夜、",
+"en": "tonight,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "今日の夕方に、",
+"en": "this evening,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "今日のお昼に、",
+"en": "at noon today,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "今日の朝、",
+"en": "this morning,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "今朝早くに、",
+"en": "early this morning,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "今日の夜中、",
+"en": "late tonight,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "今日、",
+"en": "today,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "ゆうべ、",
+"en": "last night,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "昨日の夕方、",
+"en": "yesterday evening,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "昨日のお昼に、",
+"en": "yesterday at noon,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "昨日の朝、",
+"en": "yesterday morning,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "昨日の夜中、",
+"en": "late last night,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "昨日、",
+"en": "yesterday,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "おとといの夜、",
+"en": "two nights ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "おととい、",
+"en": "two days ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "おとといの朝、",
+"en": "two mornings ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "３日くらい前にね、",
+"en": "about three days ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "１週間くらい前、",
+"en": "about a week ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "２週間程前、",
+"en": "about two weeks ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "ひと月くらい前、",
+"en": "about a month ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "ふた月くらい前だけど、",
+"en": "about two months ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "半年くらい前にね、",
+"en": "about half a year ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "１年くらい前かな、",
+"en": "maybe a year ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "２年くらい前、",
+"en": "about two years ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "まだ小学生だった頃、",
+"en": "when I was in grade school,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "小さい頃、",
+"en": "when I was little,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "僕がまだ幼かった頃、",
+"en": "when I was very young,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "セカンド･インパクトの頃、",
+"en": "around Second Impact,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "セカンド･インパクトの前、",
+"en": "before Second Impact,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "僕が生まれる前に、",
+"en": "before I was born,"
+},
+{
+"file": "MW001.DAT",
+"sec": 3,
+"ja": "２０年以上前、",
+"en": "over 20 years ago,"
+},
+{
+"file": "MW001.DAT",
+"sec": 17,
+"ja": "セカンド･インパクトの時、",
+"en": "during Second Impact,"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "家のリビング",
+"en": "in the living room at home"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "家のキッチン",
+"en": "in the kitchen at home"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "僕の部屋",
+"en": "in my room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "アスカの部屋",
+"en": "in Asuka's room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ミサトさんの部屋",
+"en": "in Misato's room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "家の洗面所",
+"en": "in the washroom at home"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "司令室",
+"en": "in the command room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "発令所",
+"en": "in the command center"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ミサトさんの仕事部屋",
+"en": "in Misato's office"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ネルフの食堂",
+"en": "in the NERV cafeteria"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "リツコさんの部屋",
+"en": "in Ritsuko's room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "加持さんの部屋",
+"en": "in Kaji's room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "自販機コーナー",
+"en": "at the vending machines"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "カヲル君の部屋",
+"en": "in Kaworu's room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ネルフのお風呂",
+"en": "in the NERV bath"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ネルフの地下迷路",
+"en": "in the NERV underground maze"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "綾波のアパート",
+"en": "at Rei's apartment"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "教室",
+"en": "in the classroom"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "学校",
+"en": "at school"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "コンビニ",
+"en": "at the convenience store"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "海岸",
+"en": "on the shore"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "予備（２）",
+"en": "in reserve 2"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "予備（３）",
+"en": "in reserve 3"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "予備（４）",
+"en": "in reserve 4"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "予備（５）",
+"en": "in reserve 5"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "全体マップ",
+"en": "on the whole map"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ネルフ施設マップ",
+"en": "on the NERV facility map"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "自宅",
+"en": "at home"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "自室",
+"en": "in my room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ベランダ（リビング視点）",
+"en": "on the balcony, living room side"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ベランダ（ミサト部屋視点）",
+"en": "on the balcony, Misato's room side"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ベランダ（アスカ部屋視点）",
+"en": "on the balcony, Asuka's room side"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "マンション外部",
+"en": "outside the apartment"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "待機場所",
+"en": "in the waiting area"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "作戦室",
+"en": "in the operations room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "第７実験場管制室",
+"en": "in Test Site 7 control room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "総合分析所",
+"en": "at the analysis center"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "第一発令所破壊",
+"en": "in the wrecked main command center"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "病室",
+"en": "in the hospital room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "通風孔",
+"en": "in the air duct"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "通路",
+"en": "in the corridor"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ＥＶＡケージ",
+"en": "in the Eva cage"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "通学路",
+"en": "on the way to school"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "中学校講堂",
+"en": "in the middle school hall"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "スイカ畑",
+"en": "in the watermelon field"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "オーバー・ザ・レインボゥ",
+"en": "at Over the Rainbow"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（５）",
+"en": "in game reserve 5"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（１）",
+"en": "in game reserve 1"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（２）",
+"en": "in game reserve 2"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（３）",
+"en": "in game reserve 3"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（４）",
+"en": "in game reserve 4"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "居酒屋",
+"en": "in the pub"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "京都大学研究室",
+"en": "in the Kyoto Univ. lab"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "京都府警察署",
+"en": "at Kyoto police HQ"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "京都山道",
+"en": "on a Kyoto mountain road"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "南極",
+"en": "in Antarctica"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "東京",
+"en": "in Tokyo"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "愛知県豊橋市跡",
+"en": "at old Toyohashi, Aichi"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "軍の食糧庫",
+"en": "in the army food depot"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "アジト",
+"en": "at the hideout"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ゲヒルン",
+"en": "at Gehirn"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "第２東京大学学食",
+"en": "in the Tokyo-2 Univ. cafeteria"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "第２東京大学",
+"en": "at Tokyo-2 University"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "合コン",
+"en": "at a mixer"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "加持の家",
+"en": "at Kaji's house"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ドイツ第３支部",
+"en": "at German Branch 3"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "NERV",
+"en": "at NERV"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ドイツ",
+"en": "in Germany"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "第３新東京市",
+"en": "in Tokyo-3"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "中央作戦指令室",
+"en": "in Central Command"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ネルフ本部",
+"en": "at NERV HQ"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "エレベータ",
+"en": "in the elevator"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ケイジ",
+"en": "in the Cage"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ケイジ管制塔",
+"en": "in the Cage control tower"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "エントリープラグ",
+"en": "in the Entry Plug"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ミサト宅・風呂",
+"en": "in the bath at Misato's"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ミサト宅",
+"en": "at Misato's place"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ミサト宅・風呂場",
+"en": "in the bathroom at Misato's"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "病院・病室",
+"en": "in the hospital room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "病院・廊下",
+"en": "in the hospital hallway"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "病院・待合ロビー",
+"en": "in the hospital lobby"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "病院・エレベータ",
+"en": "in the hospital elevator"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "病院",
+"en": "at the hospital"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "天井ビル",
+"en": "on the ceiling building"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ミサトの家",
+"en": "at Misato's house"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "風呂場",
+"en": "in the bathroom"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ネルフ本部・第２実験場",
+"en": "in NERV HQ Test Site 2"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "シンジの部屋",
+"en": "in Shinji's room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "映画館",
+"en": "at the movie theater"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "山",
+"en": "in the mountains"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ワシの家",
+"en": "at my house"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "トウジの家",
+"en": "at Toji's house"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "艦内食堂",
+"en": "in the ship's mess hall"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "プール",
+"en": "at the pool"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "近江屋",
+"en": "at Omiya"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "病室で",
+"en": "in the hospital room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "京都",
+"en": "in Kyoto"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "墓地",
+"en": "at the cemetery"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "遊園地",
+"en": "at the amusement park"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "お風呂場",
+"en": "in the bathroom"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ヒカリの部屋",
+"en": "in Hikari's room"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "カカカッ",
+"en": "Kakaka!"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "山道",
+"en": "on a mountain road"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ネルフ",
+"en": "at NERV"
+},
+{
+"file": "MW001.DAT",
+"sec": 4,
+"ja": "ワシんち",
+"en": "at my place"
+},
+{
+"file": "MW001.DAT",
+"sec": 5,
+"ja": "リビング",
+"en": "living room"
+},
+{
+"file": "MW001.DAT",
+"sec": 5,
+"ja": "キッチン",
+"en": "kitchen"
+},
+{
+"file": "MW001.DAT",
+"sec": 5,
+"ja": "洗面所",
+"en": "washroom"
+},
+{
+"file": "MW001.DAT",
+"sec": 5,
+"ja": "この部屋",
+"en": "this room"
+},
+{
+"file": "MW001.DAT",
+"sec": 5,
+"ja": "ここ",
+"en": "here"
+},
+{
+"file": "MW001.DAT",
+"sec": 5,
+"ja": "この食堂",
+"en": "this cafeteria"
+},
+{
+"file": "MW001.DAT",
+"sec": 5,
+"ja": "この浴場",
+"en": "this bathhouse"
+},
+{
+"file": "MW001.DAT",
+"sec": 5,
+"ja": "ここの洗面所",
+"en": "the washroom here"
+},
+{
+"file": "MW001.DAT",
+"sec": 15,
+"ja": "で",
+"en": "and"
+},
+{
+"file": "MW001.DAT",
+"sec": 15,
+"ja": "でね、",
+"en": "so,"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "－",
+"en": "-"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を食べた",
+"en": ": ate it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を飲んだ",
+"en": ": drank it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を読んだ",
+"en": ": read it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を手に取った",
+"en": ": picked it up"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "をかけた",
+"en": ": put it on"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を身に付けた",
+"en": ": wore it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "で鼻をかんだ",
+"en": ": blew nose on it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を使った",
+"en": ": used it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を見つめた",
+"en": ": stared at it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を顔に押し当てた",
+"en": ": pressed it to my face"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "をつまんで見た",
+"en": ": pinched it and looked"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "をめくった",
+"en": ": flipped it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を確認した",
+"en": ": checked it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を飲み干した",
+"en": ": drained it"
+},
+{
+"file": "MW001.DAT",
+"sec": 7,
+"ja": "を飲み込んだ",
+"en": ": swallowed it"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "-",
+"en": "-"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と会話をした",
+"en": ": talked with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に尋ねた",
+"en": ": asked them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を無視した",
+"en": ": I ignored them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に近づいた",
+"en": ": approached them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に本題を尋ねた",
+"en": ": asked them the point"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の話にそっけない返事をした",
+"en": ": I answered them coldly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をしかった",
+"en": ": I scolded them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と会話した",
+"en": ": chatted with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の質問に答えた",
+"en": ": answered their question"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の話をはぐらかした",
+"en": ": I dodged their story"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の事をバカと決め付けた",
+"en": ": I decided they were an idiot"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "につれないと言った",
+"en": ": I called them cold"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に一方的に話した",
+"en": ": I talked at them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に反感を持った",
+"en": ": I resented them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の態度にヘコんだ",
+"en": ": got down over their attitude"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の胸元をノゾキ込んだ",
+"en": ": I peeked down their top"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の手先を見た",
+"en": ": looked at their hands"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を見た",
+"en": ": looked at them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に見られたのに気付かなかった",
+"en": ": I did not notice them looking"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に見られたのを無視した",
+"en": ": I ignored them looking at me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に見られたのを見返した",
+"en": ": I stared back at them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に照れた",
+"en": ": got shy around them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を辛そうに見た",
+"en": ": looked at them sadly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をはがゆく思った",
+"en": ": felt frustrated by them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を見るのをやめた",
+"en": ": stopped looking at them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "について考えた",
+"en": ": I thought about them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から視線をそらした",
+"en": ": I looked away from them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に笑いかけた",
+"en": ": I smiled at them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に礼を言った",
+"en": ": I thanked them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "自問自答して自分を見つめ直した",
+"en": "I reflected on myself"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に否定的な反応をとった",
+"en": ": I reacted negatively to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を不思議がった",
+"en": ": I found them strange"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に微笑んだ",
+"en": ": smiled at them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に返礼をした",
+"en": ": returned the favor"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に軽口を叩いた",
+"en": ": I teased them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にムッとした",
+"en": ": got annoyed with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に同じ事をもう一度説明した",
+"en": ": I explained it again"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にあやまった",
+"en": ": I apologized"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に情報を聞きだそうとした",
+"en": ": I tried to pump them for info"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に頼み事をもち掛けた",
+"en": ": I asked them for a favor"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に相談を持ち掛けた",
+"en": ": I asked them for advice"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "司令公務室から出た",
+"en": "I left the Commander office"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に分からないと言った",
+"en": ": I said I did not know"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に警告した",
+"en": ": I warned them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の頼み事にＯＫした",
+"en": ": I said OK to their favor"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の頼み事を断った",
+"en": ": turned down their favor"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をじらした",
+"en": ": I teased them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にアドバイスした",
+"en": ": I gave them advice"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の反応に驚いた",
+"en": ": was shocked by their reaction"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、気に触る事を言った",
+"en": ": I said something irritating"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "との話を切り上げた",
+"en": ": I cut the talk short"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に対し、急に怒った",
+"en": ": I suddenly got angry"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の感想に反論した",
+"en": ": argued with their opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の態度に黙っていた",
+"en": ": kept quiet at their attitude"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の感想に同意した",
+"en": ": agreed with their opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の怒りをなだめた",
+"en": ": I calmed their anger"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に乾いた笑いをした",
+"en": ": I laughed dryly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をなじった",
+"en": ": I blamed them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に世界の謎に関する情報を答えた",
+"en": ": I told them about the world's secrets"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の反応を笑った",
+"en": ": laughed at their reaction"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に言い訳をした",
+"en": ": I made excuses"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と気まずくなった",
+"en": ": it got awkward between us"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にバカと決め付けられたのに言い返した",
+"en": ": I snapped back at being called an idiot"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にバカと決め付けられたのを否定した",
+"en": ": I denied being an idiot"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を説教した",
+"en": ": lectured them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に対し、完全に無視した",
+"en": ": I flat out ignored them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の行動に怒ってみせた",
+"en": ": I pretended to be angry"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の行動に、肩をすくめた",
+"en": ": I shrugged at their actions"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をいきなり抱きしめた",
+"en": ": I suddenly hugged them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の言いたい事を聞いてあげた",
+"en": ": I heard out what they wanted to say"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にウザイと言った",
+"en": ": told them they were annoying"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に目をつぶって受け入れた",
+"en": ": I closed my eyes and accepted"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にいきなり抱きしめられて泣いた",
+"en": ": I cried when they hugged me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に抱かれていたのを引き離した",
+"en": ": I pulled away from their hug"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に胸元を見られて怒った",
+"en": ": I got angry at them peeking"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の態度をいまいち理解できなかった",
+"en": ": I could not quite get their attitude"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に胸を見られて隠した",
+"en": ": I covered up when they looked"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の反応をからかった",
+"en": ": teased them over their reaction"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "への視線を、胸元から上げた",
+"en": ": I raised my eyes from their chest"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に何でもないと言った",
+"en": ": I told them it was nothing"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の下半身をチラチラ見た",
+"en": ": I kept sneaking looks lower down"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にキスをした",
+"en": ": I kissed them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と間近で話をした",
+"en": ": talked with them up close"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を抱きしめた",
+"en": ": I hugged them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の手を握った",
+"en": ": I held their hand"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にアイテムを渡した",
+"en": ": I handed them an item"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にささやいてみせた",
+"en": ": I whispered to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を強く抱きしめた",
+"en": ": I hugged them tightly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に身を委ねた",
+"en": ": gave myself to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と指を絡めた",
+"en": ": linked fingers with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "が手を握ってきたのを拒絶した",
+"en": ": I refused their hand"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に手先を見られたので、どうしたのか尋ねた",
+"en": ": I asked why they looked at my hands"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に手先を見られたのを気付かなかった",
+"en": ": I did not notice them looking"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に手に持っていたアイテムを見せた",
+"en": ": I showed them what I held"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に何？と聞かれて、何でもないと照れた",
+"en": ": I asked what they wanted, got shy"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の持っていたアイテムに感心した",
+"en": ": I was impressed by their item"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の持っていたアイテムが何であるか理解した",
+"en": ": I figured out what their item was"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の反応に考え込んだ",
+"en": ": I pondered their reaction"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、僕の事を好きか尋ねた",
+"en": ": I asked if they liked me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の身を離した理由を問いただした",
+"en": ": I demanded why they pulled away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の問いに黙ってしまった",
+"en": ": I fell silent at their question"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を受け入れられない理由を話した",
+"en": ": I explained why I can't accept them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を好きであることを伝えた",
+"en": ": I told them I like them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を好きかどうか、はぐらかした",
+"en": ": I dodged whether I like them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を嫌いであると伝えた",
+"en": ": I told them I dislike them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に好かれていると知って嬉しかった",
+"en": ": I was glad to learn they like me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の気持ちを信じられなかった",
+"en": ": I could not believe their feelings"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "とお互いの気持ちで同意した",
+"en": ": we agreed on how we feel"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に抱き着いた",
+"en": ": I clung to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に抱き着かれ、喜んでみせた",
+"en": ": I looked happy being clung to"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に抱き着かれ、たしなめた",
+"en": ": I scolded them for clinging"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に抱き着かれながら無視した",
+"en": ": I ignored them clinging to me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の反応に興ざめした",
+"en": ": lost interest at their reaction"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の反応にいい気になった",
+"en": ": I got cocky at their reaction"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の大人の対応に舌をまいた",
+"en": ": I was awed by their maturity"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にいい気分で話し掛けた",
+"en": ": I talked to them cheerfully"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、ちょっと前に見たことを話した",
+"en": ": I told them what I saw earlier"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に自慢話をした",
+"en": ": I bragged to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にいい気分で笑いかけた",
+"en": ": I smiled at them cheerfully"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に親密な態度をとった",
+"en": ": I acted close with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の話に驚いてみせた",
+"en": ": acted shocked by their story"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の行動に、冷たい返事をした",
+"en": ": I replied coldly to their actions"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の不可解な笑いに不安を抱いた",
+"en": ": I got uneasy at their odd laugh"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の不可解な笑みに、疑問を感じた",
+"en": ": I wondered about their odd smile"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、沈んだ気分で話し掛けた",
+"en": ": I talked to them feeling down"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の気落ちした様子の理由を尋ねた",
+"en": ": I asked why they seemed down"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の気落ちした様子を、疑問に思って観察した",
+"en": ": I watched them, wondering why they were down"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の気落ちした様子に、一緒に黙り込んだ",
+"en": ": we both fell silent, them being down"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と普通に話した",
+"en": ": talked with them normally"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、自分の不甲斐なさをあやまった",
+"en": ": I apologized for being useless"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "との会話で、ぼーっとしたままだった",
+"en": ": I stayed spaced out talking to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "との会話で、泣きそうな顔になった",
+"en": ": I nearly cried talking to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の気遣いに、なんでもないと答えた",
+"en": ": I told them it was nothing"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "のおせっかいに、ため息をついた",
+"en": ": I sighed at their meddling"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に力無くあやまった",
+"en": ": I apologized weakly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、無理に話題を振ろうとした",
+"en": ": I forced a topic on them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の冷たい反応を非難した",
+"en": ": I criticized their cold reaction"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の話を、気分が優れないので中断した",
+"en": ": I cut off their story, feeling unwell"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と、事務的に会話した",
+"en": ": I talked with them stiffly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の適当な態度に不満をもった",
+"en": ": was unhappy with their half-hearted attitude"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に同意を求めた",
+"en": ": asked them to agree"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、感想を述べた",
+"en": ": I gave them my opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と会話して、いい気分になった",
+"en": ": I felt good talking with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の不満に、とぼけて誤魔化した",
+"en": ": I played dumb at their complaint"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の不満を、馬鹿にするようにからかった",
+"en": ": I mocked their complaint"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と一緒に笑った",
+"en": ": laughed along with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の言葉に、間をあけてうなずいた",
+"en": ": I nodded after a pause at them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の言葉に、適当にうなずいた",
+"en": ": I nodded absently at them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の言葉を否定した",
+"en": ": I denied what they said"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の言葉に疑いを持った",
+"en": ": I doubted what they said"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にもったいぶった",
+"en": ": I played coy with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に意味深な笑みを向けた",
+"en": ": I gave them a meaningful smile"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の行動が不可解で気になった",
+"en": ": I wondered about their odd behavior"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の反応に呆れた",
+"en": ": was exasperated by their reaction"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に気を遣って知らないフリをした",
+"en": ": I pretended not to know, out of care"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をなぐさめた",
+"en": ": I comforted them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に明るい話題をふった",
+"en": ": I brought up a cheerful topic"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の前で涙を拭いた",
+"en": ": wiped my tears in front of them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の気遣いに感謝した",
+"en": ": was grateful for their concern"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の明るい話題に、泣き笑いした",
+"en": ": I laughed and cried at their cheer"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に気を遣った",
+"en": ": was considerate of them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、皮肉を言った",
+"en": ": made a sarcastic remark"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の力無い訴えに、黙っていた",
+"en": ": I stayed silent at their weak plea"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、悩みを打ち明けた",
+"en": ": I confided my worries"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の様子が変なのを心配した",
+"en": ": I worried about their odd behavior"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の様子が変で、おかしな奴と思った",
+"en": ": I thought they were acting weird"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の様子が変なのを注意した",
+"en": ": I warned them about acting odd"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の不甲斐なさにため息をついた",
+"en": ": I sighed at their uselessness"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を突き放した",
+"en": ": pushed them away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の注意に逆ギレした",
+"en": ": snapped back at their warning"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の心配に、煮えきれない態度を取った",
+"en": ": I was evasive about their concern"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の助けにはなれなかった",
+"en": ": I could not help them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の肩を叩いて、励ましてあげた",
+"en": ": I patted their shoulder to encourage"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、能動者の言葉を疑ったので、断定した",
+"en": ": I doubted what the Active one said, so I was firm"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、能動者の言葉を否定された",
+"en": ": my words were denied by them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に抱きついて、大泣きしてしまった",
+"en": ": I hugged them and sobbed hard"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に声をかけられた",
+"en": ": they called out to me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、話題の感想を言った",
+"en": ": I shared my thoughts on the topic"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から、それとなく離れた",
+"en": ": I quietly moved away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "入浴した",
+"en": "I took a bath"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の考え込んでいるところに話し掛けた",
+"en": ": I spoke while they were lost in thought"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に考え込んでいたのを邪魔された",
+"en": ": they disturbed my thinking"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に何でもないといわれた",
+"en": ": they told me it was nothing"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をからかった",
+"en": ": I teased them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の悩みを聞いて上げようと思った",
+"en": ": I thought of hearing out their worries"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の相談の申し出を断った",
+"en": ": I turned down their offer to talk"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の勉強に割り込んだ",
+"en": ": butted into their studying"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に勉強の邪魔をされたから文句を言った",
+"en": ": I complained about them disturbing my study"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に勉強の邪魔をされたけど、勉強を続けた",
+"en": ": I kept studying despite their disturbance"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に勉強を邪魔して文句をいわれ、なだめた",
+"en": ": I calmed them after disturbing their study"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にしぶしぶ相手した",
+"en": ": I reluctantly humored them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を追い払った",
+"en": ": shooed them away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の勉強を中断させた",
+"en": ": interrupted their studying"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に追い払われた",
+"en": ": they shooed me away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "釣りに誘った",
+"en": "I invited them fishing"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "授業を受けた",
+"en": "I attended class"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ぼーっと過ごした",
+"en": "I spent the time spaced out"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と一緒にテレビを見た",
+"en": ": I watched TV together"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の見ていたチャンネルを変えた",
+"en": ": I changed the channel they watched"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の見ていた番組の感想を言った",
+"en": ": I commented on the show they watched"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、チャンネルを勝手に変えた文句を言った",
+"en": ": I complained about the channel change"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "とテレビを見ながら話をした",
+"en": ": I talked while watching TV"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にテーブルごしに話し掛けた",
+"en": ": I talked to them across the table"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に呼ばれて生返事をした",
+"en": ": I answered absently when called"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "とテーブルに座りながら話をした",
+"en": ": I talked at the table"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をテーブルに座っているときに呼び止めた",
+"en": ": I called out to them at the table"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に生返事をされた",
+"en": ": they answered me absently"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に話し掛けられて、適当に相手した",
+"en": ": I humored them when they talked"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に呼び止められた",
+"en": ": they stopped me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に呼ばれたけど、適当に誤魔化した",
+"en": ": I brushed them off when called"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に小物を取ってもらおうと頼んだ",
+"en": ": I asked them to fetch a small item"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に頼まれた小物を取ってあげた",
+"en": ": I fetched the small item they asked for"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に小物を取ってくれと頼まれたけど、拒否した",
+"en": ": I refused when asked to fetch an item"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を呼び止めたのに、相手にしてくれなかった",
+"en": ": I called out, but they ignored me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "寝言を言った",
+"en": "I talked in my sleep"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の寝言に苦笑した",
+"en": ": smiled wryly at their sleep talk"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の寝ている横で、普段なら言えないことを言った",
+"en": ": I said what I never could, beside them asleep"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に寝ているところを覗き込まれた",
+"en": ": they peeked at me sleeping"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に現状について話した",
+"en": ": I told them how things stand"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、お小遣いをもらった",
+"en": ": I got allowance from them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、お小遣いをねだった",
+"en": ": I begged them for allowance"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、お小遣いを催促された",
+"en": ": they pestered me for allowance"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、お小遣いをあげられなかった",
+"en": ": I could not give them allowance"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から、お小遣いをもらえなかった",
+"en": ": I could not get allowance from them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の言ったことを肯定した",
+"en": ": I agreed with what they said"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に話し掛けられて、明るい話題を探した",
+"en": ": I looked for a cheerful topic"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に話し掛けられて、何も言えないで気まずくなった",
+"en": ": they spoke to me and I froze, awkward"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に情報収集を依頼した",
+"en": ": I asked them to gather info"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、情報収集を頼まれて、了解した",
+"en": ": they asked me to gather info and I agreed"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、情報収集を了解してもらえた",
+"en": ": they agreed to gather info for me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に情報収集を頼まれて、了解した",
+"en": ": they asked me to gather info and I agreed"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "照明をつけた",
+"en": "I turned on the lights"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に情報収集を頼まれたけど断った",
+"en": ": they asked me to gather info but I refused"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "照明を消した",
+"en": "I turned off the lights"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に耳打ちをした",
+"en": ": I whispered to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に耳打ちをされて同感した",
+"en": ": they whispered to me and I agreed"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に耳打ちをされたけど、気にしなかった",
+"en": ": they whispered to me but I ignored it"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "達に、作戦に疑問はないか尋ねた",
+"en": ": I asked them if they had doubts about the plan"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、作戦に関する意見を述べた",
+"en": ": I gave them my opinion on the plan"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の作戦を無言で受け入れた",
+"en": ": I silently accepted their plan"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、作戦の妥当性を耳打ちした",
+"en": ": I whispered that the plan made sense"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "達に、作戦の決定を伝えた",
+"en": ": I told them the plan was decided"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、作戦の問題点を言い返した",
+"en": ": I pointed out the plan's flaws in return"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の作戦を実行する気になった",
+"en": ": I felt like carrying out their plan"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "達に立案した作戦を変更することにした",
+"en": ": I decided to change the plan I made"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、シンクロ率を調整するよう頼んだ",
+"en": ": I asked them to adjust the sync ratio"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、シンクロ率を調整するよう頼まれた",
+"en": ": they asked me to adjust the sync ratio"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、シンクロ率を調整してもらった",
+"en": ": they adjusted the sync ratio for me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "食事をした",
+"en": "I had a meal"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、隣で食事してもいいか尋ねた",
+"en": ": I asked if I could eat next to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、隣で食事してもいいと答えた",
+"en": ": I said they could eat next to me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の隣で食事をした",
+"en": ": I ate next to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、隣で食事をするのを拒否した",
+"en": ": I refused to let them eat beside me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に隣で食事をさせてもらえずヘコんだ",
+"en": ": they wouldn't let me eat beside them and I sulked"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "食事を続けた",
+"en": "I kept eating"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、パイロットをやめると言った",
+"en": ": I said I would quit being a Pilot"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から、パイロットの辞退を受けた",
+"en": ": I heard they are quitting as Pilot"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から、パイロットを辞めると言われた",
+"en": ": they told me they are quitting as Pilot"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、パイロットを辞めるのは本気だと言った",
+"en": ": I said I was serious about quitting as Pilot"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、パイロットを辞めると嘘をついた",
+"en": ": I lied that I would quit as Pilot"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から、パイロットを辞めると嘘をつかれた",
+"en": ": they lied that they would quit as Pilot"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、不満をこぼした",
+"en": ": I complained to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の愚痴に黙っていた",
+"en": ": I stayed silent during their complaints"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の愚痴に同意した",
+"en": ": I agreed with their complaints"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の愚痴に、疑問を持った",
+"en": ": I doubted their complaints"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、不満を言い続けた",
+"en": ": I kept complaining to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "への不満を黙って聞いていたので、能動者も黙り込んだ",
+"en": ": they quietly heard my gripes so I went silent too"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に不満を強調した",
+"en": ": I stressed my displeasure to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の愚痴に、適当な返事をした",
+"en": ": I gave a half-hearted reply to their complaints"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の愚痴を黙って聞き続けた",
+"en": ": I kept quietly listening to their complaints"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にむしゃくしゃした",
+"en": ": I got worked up at them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "には不満を理解してもらえなかった",
+"en": ": they didn't understand my complaints"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、真実に興味があるか尋ねた",
+"en": ": I asked if they were interested in the truth"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、真実に興味があると答えた",
+"en": ": I said I was interested in the truth"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、真実には興味がないと答えた",
+"en": ": I said I had no interest in the truth"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、本当に真実に近づきたいか尋ねた",
+"en": ": I asked if they really wanted to get near the truth"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "への答えを、冗談で誤魔化した",
+"en": ": I dodged their question with a joke"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、真実への覚悟を打ち明けた",
+"en": ": I confessed my resolve about the truth"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の決意を確認した",
+"en": ": I confirmed their resolve"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、意見書を提出した",
+"en": ": I submitted a written opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から意見書を受け取った",
+"en": ": I received their written opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の意見書を棄却した",
+"en": ": I rejected their written opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から意見書を提出された",
+"en": ": they submitted a written opinion to me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、意見書の処理をお願いした",
+"en": ": I asked them to process the written opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、意見書の受理をお願いした",
+"en": ": I asked them to accept the written opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の意見書を受理した",
+"en": ": I accepted their written opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にしかられて謝罪した",
+"en": ": they scolded me and I apologized"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の謝罪を冷たくあしらった",
+"en": ": I coldly brushed off their apology"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にしかられて、逆ギレした",
+"en": ": they scolded me and I snapped back"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の機嫌を損ねたのでなだめた",
+"en": ": I upset them so I calmed them down"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に逆ギレされたから放っておいた",
+"en": ": they snapped at me so I left them alone"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にしかられて黙り込んだ",
+"en": ": they scolded me and I fell silent"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に黙り込まれたのでなだめた",
+"en": ": they went silent so I calmed them down"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に言い返されて怒った",
+"en": ": they talked back and I got angry"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を無視して離れた",
+"en": ": I ignored them and walked away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からバカと言われて、なんか納得した",
+"en": ": they called me an idiot and somehow I agreed"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からバカと言われて、釈然としなかった",
+"en": ": they called me an idiot and I wasn't convinced"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "意見書を審査した",
+"en": "I reviewed a written opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "のことがウザかったから無視した",
+"en": ": they were annoying so I ignored them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に無視されてヘコんだ",
+"en": ": they ignored me and I felt down"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に仕事の事を尋ねた",
+"en": ": I asked them about work"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に仕事が大変であると答えた",
+"en": ": I said work was tough"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に仕事の邪魔をさせなかった",
+"en": ": I did not let them disturb my work"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "仕事を再開した",
+"en": "I resumed work"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に慰めの言葉をかけた",
+"en": ": I said some comforting words"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の慰めを、冷たくあしらった",
+"en": ": I coldly brushed off their comfort"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に慰められたが、何も言えなかった",
+"en": ": they comforted me but I could say nothing"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をおだてた",
+"en": ": I flattered them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "におだてられて、ちょっといい気になった",
+"en": ": they flattered me and I felt a bit proud"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "におだてられたけど、消極的な反応をした",
+"en": ": they flattered me but I reacted coolly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をおだてたらいい気になったんで、さらにおだてた",
+"en": ": I flattered them, they got cocky, so I flattered more"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をおだてたが、逆効果になった",
+"en": ": I flattered them but it backfired"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "におだてられたが、われにかえった",
+"en": ": they flattered me but I came to my senses"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "におだてられて、だいぶいい気になった",
+"en": ": they flattered me and I got quite full of myself"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をおだてたが、突っ込まれた",
+"en": ": I flattered them but got called out"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をおだてたが、単純なやつでよかった",
+"en": ": I flattered them, glad they are so simple"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、考え込んでいたところへ話し掛けた",
+"en": ": I spoke to them while they were lost in thought"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から話し掛けられたので、質問した",
+"en": ": they spoke to me so I asked a question"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から質問されたので答えた",
+"en": ": they asked me a question and I answered"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から受動者らしからぬ質問を受けた",
+"en": ": they asked me an odd question"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "への質問に答えてもらった",
+"en": ": they answered my question"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の返答に黙っていた",
+"en": ": I stayed silent at their answer"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の返答に疑問を持った",
+"en": ": I doubted their answer"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の返答に、皮肉交じりの笑みを浮かべた",
+"en": ": I smirked sarcastically at their answer"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の、寝ている姿を観察した",
+"en": ": I watched them sleeping"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、寝ている姿を観察された",
+"en": ": they watched me sleeping"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "トイレに入った",
+"en": "I went into the restroom"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "アパートの呼び鈴を押した",
+"en": "I rang the apartment doorbell"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "達に、当初の作戦を実行させた",
+"en": ": I had them carry out the original plan"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "がテレビを見ていたら割り込んできた",
+"en": ": they barged in while I was watching TV"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "テレビを見た",
+"en": "I watched TV"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "冷蔵庫を開けた",
+"en": "I opened the fridge"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "壁を殴った",
+"en": "I punched the wall"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "御飯を食べた",
+"en": "I ate a meal"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と一緒に御飯を食べた",
+"en": ": I ate with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "考え事をした",
+"en": "I thought things over"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "寝た",
+"en": "I slept"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "お風呂に入った",
+"en": "I took a bath"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "勉強をした",
+"en": "I studied"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "あてもなく家を出た",
+"en": "I left home aimlessly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "睡眠をとった",
+"en": "I got some sleep"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の様子を心に留めた",
+"en": ": I took note of how they were"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に対し、さらに居留守を決め込んだ",
+"en": ": I kept pretending to be out"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "マンションの呼び鈴を押した",
+"en": "I rang the condo doorbell"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を家の中に招き入れた",
+"en": ": I invited them into my home"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に対し、居留守を決め込んだ",
+"en": ": I pretended not to be home"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "が来たけど、用事があるといって拒んだ",
+"en": ": came by but I turned them away, saying I was busy"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の部屋へ行ったけど、留守だったので帰った",
+"en": ": I went to their room but they were out so I left"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の部屋のドアを、繰り返し叩いた",
+"en": ": I knocked on their door again and again"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の部屋のドアを、しつこく叩いた",
+"en": ": I kept knocking on their door insistently"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の部屋へ行ったけど、追い帰された",
+"en": ": I went to their room but got sent away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の部屋におじゃました",
+"en": ": I dropped by their room"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を、しぶしぶ部屋の中に入れた",
+"en": ": I reluctantly let them into my room"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の来訪を、強い口調で追い帰した",
+"en": ": I sent them away in a harsh tone"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "はアイテムをつかった",
+"en": ": they used an item"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にアイテムを見せた",
+"en": ": I showed them an item"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、何かアイテムを見せられた",
+"en": ": they showed me some item"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からのプレゼントを断った",
+"en": ": I turned down their present"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にプレゼントを申し出た",
+"en": ": I offered them a present"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にアイテムを見せてみた",
+"en": ": I tried showing them an item"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、速攻でプレゼントを断られた",
+"en": ": they turned down my present right away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、プレゼントの早とちりをされた",
+"en": ": they jumped to conclusions about a present"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、プレゼントをもらった",
+"en": ": they gave me a present"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からのプレゼントに、かまをかけた",
+"en": ": I fished about their present"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "へのプレゼントが成功したから、うれしがった",
+"en": ": my present worked and I was happy"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にプレゼントを断られたが、しつこくプレゼントした",
+"en": ": they refused my present but I gave it anyway"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にかまをかけられたが、とぼけて誤魔化した",
+"en": ": they fished but I played dumb"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にプレゼントの礼を言った",
+"en": ": I thanked them for the present"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からのプレゼントを受け取って、まんざらでもなかった",
+"en": ": I accepted their present and did not mind"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からのプレゼントを受け取って、喜んでみせた",
+"en": ": I accepted their present and acted happy"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からのしつこいプレゼントを断った",
+"en": ": I refused their pushy present"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からのしつこいプレゼントをもらってあげた",
+"en": ": I took their pushy present as a favor"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "へのプレゼントを、どうしても受けとってくれなかった",
+"en": ": they would not take my present no matter what"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "へのプレゼントが成功したので、うれしがった",
+"en": ": my present worked so I was happy"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の思わせぶりな行為に、素っ気無い態度をとった",
+"en": ": I acted cold to their teasing behavior"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、素っ気無い態度をとられた",
+"en": ": they acted cold to me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、能動者へのプレゼントなんて無いと言われた",
+"en": ": they said there was no present for me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "使徒が現れた",
+"en": "An Angel appeared"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "戦闘に出るために、本部へ急いだ",
+"en": "I hurried to HQ for battle"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "使徒との戦いを放棄して、ベッドに潜り込んだ",
+"en": "I ditched the Angel fight and hid in bed"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に何の用なのか尋ねた",
+"en": ": I asked what they wanted"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "司令部から呼び出しがかかった",
+"en": "I was summoned by Command"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "司令部からの呼び出しもなく、ベッドに横たわっていた",
+"en": "I lay in bed with no summons from Command"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "出動を希望した",
+"en": "I asked to sortie"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "出動を要請した",
+"en": "I requested deployment"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "司令部からの呼び出しに、必死に応えた",
+"en": "I desperately answered Command's summons"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "司令部からの呼び出しを無視して、ベッドに横たわった",
+"en": "I ignored Command's summons and lay in bed"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に話し掛けた",
+"en": ": I spoke to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の容体を気遣った",
+"en": ": I asked after their condition"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、状況を尋ねた",
+"en": ": I asked them about the situation"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、レイは新たな個体であることを告げた",
+"en": ": I told them Rei is a new copy"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、状況が芳しくない事を言った",
+"en": ": I said the situation is not good"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、状況は問題無い事を言った",
+"en": ": I said the situation is fine"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、現在の状況は気にしないでいいと告げた",
+"en": ": I told them not to mind the situation"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に感謝され、ほほえんだ",
+"en": ": they thanked me and I smiled"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に無理をしないように声をかけた",
+"en": ": I told them not to push themselves"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に状況を尋ねられて問題は無いと伝えた",
+"en": ": they asked about things and I said no problem"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に状況を尋ねられ、問題があると伝えた",
+"en": ": they asked about things and I said there is trouble"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、意味不明のことを言われた",
+"en": ": they said something I could not understand"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "は、新たなレイに交換されたことを知った",
+"en": ": I learned they were replaced by a new Rei"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、現状のネルフについて話した",
+"en": ": I told them about NERV as it is now"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の話に、黙ってうなずいた",
+"en": ": I nodded silently at what they said"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の話に対し、明るいニュースを伝えた",
+"en": ": I shared good news after what they said"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の現状認識に、何も言えなかった",
+"en": ": I could say nothing about their grasp of things"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に対し、謎めいたことを言った",
+"en": ": I said something cryptic"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の話に黙り込んだ",
+"en": ": I went silent at their story"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の話に驚いた",
+"en": ": I was shocked by their story"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、批判めいたことを言った",
+"en": ": I said something critical"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に挨拶した",
+"en": ": I greeted them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に調子を尋ねた",
+"en": ": I asked how they were doing"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、何を食べるのかを尋ねた",
+"en": ": I asked what they would eat"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、遊びに行く誘いをした",
+"en": ": I invited them to hang out"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、なにを食べるか答えた",
+"en": ": I told them what I would eat"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、なにを食べるのかを尋ねられて、無視した",
+"en": ": they asked what I would eat but I ignored it"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、食事をするかどうか迷っていると答えた",
+"en": ": I said I was unsure whether to eat"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、調子は普通だと答えた",
+"en": ": I said I was doing okay"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、調子を聞かれたとき、下心を疑った",
+"en": ": they asked how I was and I suspected ulterior motives"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の調子は普通だと聞かされた",
+"en": ": they told me they were doing okay"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、なにやら勘ぐられた",
+"en": ": they suspected something of me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、なにやら勘ぐられてヘコんだ",
+"en": ": they suspected me and I felt down"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、食事の味を尋ねた",
+"en": ": I asked how the food tasted"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、食事の味を尋ねられて、うまいと答えた",
+"en": ": they asked about the food and I said it's good"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、食事の味を尋ねられて、おすすめできないと答えた",
+"en": ": they asked about the food and I could not recommend it"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、体重が気になって食事ができないと言った",
+"en": ": I said I couldn't eat, worried about my weight"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、ネルフの食堂にはおいしいメニューが多いと言った",
+"en": ": I said the NERV cafeteria has many tasty dishes"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、ダイエットの件で同意した",
+"en": ": I agreed about dieting"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、ダイエットの話題を振られて沈黙した",
+"en": ": they brought up dieting and I went silent"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と、ネルフの食堂はおいしいと同意した",
+"en": ": I agreed that the NERV cafeteria is good"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の味覚を疑った",
+"en": ": I doubted their taste"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からの遊びのお誘いに同意した",
+"en": ": I agreed to their invitation to hang out"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からの遊びのお誘いを軽くかわした",
+"en": ": I lightly dodged their invitation to hang out"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からの遊びのお誘いを、冷たくあしらった",
+"en": ": I coldly brushed off their invitation"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からの遊びのお誘いを断った",
+"en": ": I turned down their invitation to hang out"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を遊びに誘ったら、冷たくあしらわれて、返答に困った",
+"en": ": I invited them out but got brushed off and had no reply"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を遊びに誘ったら、冷たくあしらわれて、立つ瀬がなかった",
+"en": ": I invited them out, got brushed off and felt out of place"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を遊びに誘ったら断られて、ヘコんだ",
+"en": ": I invited them out, got turned down and felt low"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "エヴァと施設の現状を確認した",
+"en": "I checked the Evas and facilities"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の個室の呼び鈴を押した",
+"en": ": I rang their room doorbell"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を、能動者の部屋に入れてあげた",
+"en": ": I let them into my room"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "テーブルでくつろいだ",
+"en": "I relaxed at the table"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "テーブルから立ち上がった",
+"en": "I got up from the table"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "が出ていった",
+"en": ": they left"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、軽く挨拶をした",
+"en": ": I gave them a light greeting"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に挨拶をされたが、無視した",
+"en": ": they greeted me but I ignored it"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に挨拶をされて、返事をした",
+"en": ": they greeted me and I replied"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にお小遣いを渡した",
+"en": ": I gave them pocket money"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "買い物をした",
+"en": "I went shopping"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "レジの店員に話し掛けた",
+"en": "I talked to the cashier"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "レジで買い物の清算をした",
+"en": "I paid at the register"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "持ち帰った残業を片付けた",
+"en": "I finished overtime work from home"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "始末書を片付けた",
+"en": "I finished a letter of apology"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "エヴァの補修予算を請求する書類を作成した",
+"en": "I drew up papers requesting Eva repair funds"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "街の復興予算を請求する書類を作成した",
+"en": "I drew up papers requesting city rebuilding funds"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ダミープラグに関する研究開発をした",
+"en": "I researched the Dummy Plug"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "エヴァの稼動時間が延長する研究開発をした",
+"en": "I researched extending Eva's operating time"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ＡＴフィールドを攻撃に使えるよう研究開発をした",
+"en": "I researched using the A.T. Field as a weapon"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ＡＴフィールドを増幅させるための研究開発をした",
+"en": "I researched amplifying the A.T. Field"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "オペレータ業務をこなした",
+"en": "I handled operator duties"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "司令としての業務を遂行、処理した",
+"en": "I carried out and processed Commander duties"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "副司令業務を行った",
+"en": "I performed Deputy Commander duties"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "偽造行為を行った",
+"en": "I committed forgery"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "コンピュータへの不正アクセスを試みた",
+"en": "I attempted unauthorized computer access"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "自販機でジュースを買った",
+"en": "I bought juice from a vending machine"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に話し掛けられてふしぎそうにしていた",
+"en": ": looked puzzled when they spoke to me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に話し掛けられたが、無視して離れた",
+"en": ": was spoken to, but ignored them and walked off"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の頭をなでた",
+"en": ": patted their head"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に皮肉めいた愚痴をこぼした",
+"en": ": grumbled sarcastically to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に皮肉を言われたが、首をかしげていた",
+"en": ": was teased, but just tilted my head"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に無視されて、ちょっと寂しかった",
+"en": ": ignored me, and I felt a little lonely"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に無視されたんで、ほっといた",
+"en": ": ignored me, so I left them alone"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に擦り寄ってきた",
+"en": ": came rubbing up against me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にどうしたの、と話し掛けた",
+"en": ": I asked them what was wrong"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に擦り寄って、グエと鳴いた",
+"en": ": rubbed up and went \"Gweh\""
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に擦り寄って、かわいい仕草をした",
+"en": ": rubbed up and acted cute"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にかわいいと言った",
+"en": ": I called them cute"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にかわいいと言われたが、わかってない",
+"en": ": called me cute, but I don't get it"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、伝言を伝えるために、話し掛けた",
+"en": ": I spoke to them to pass on a message"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に伝言があると、話し掛けられた",
+"en": ": spoke to me about a message"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、伝言を伝えた",
+"en": ": I passed on a message"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から伝言を伝えてもらい、礼をいった",
+"en": ": passed on a message and I thanked them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から伝言を伝えてもらったが、素っ気無い返事をした",
+"en": ": passed on a message, but I replied curtly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から伝言を伝えてもらったが、黙り込んだ",
+"en": ": passed on a message, but I fell silent"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、機密資料を提示した",
+"en": ": I showed them classified documents"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から機密資料を受け取り、礼を言った",
+"en": ": gave me classified documents and I thanked them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、機密情報を教授した",
+"en": ": I shared classified information"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から機密情報を教えてもらい、礼を言った",
+"en": ": told me classified information and I thanked them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、話をせびった",
+"en": ": I pestered them for a story"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、昔のことを尋ねられたので、話した",
+"en": ": asked about the past, so I told them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、昔のことを尋ねられたが、話さなかった",
+"en": ": asked about the past, but I did not tell them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、派手な行動は慎むよう、警告した",
+"en": ": I warned them to avoid flashy behavior"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を、怒りの目で睨み付けた",
+"en": ": I glared at them in anger"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に睨まれ、睨み返した",
+"en": ": glared at me and I glared back"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に睨まれ、目をそらした",
+"en": ": glared at me and I looked away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、悪口を言った",
+"en": ": I badmouthed them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に悪口を言われたので、言い返した",
+"en": ": badmouthed me, so I talked back"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に悪口を言われたけど、黙っていた",
+"en": ": badmouthed me, but I kept quiet"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "になでられ、気持ちよさそうにしていた",
+"en": ": petted me and I looked content"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "意見書の書類を作成した",
+"en": "I drew up a written opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "意見書の内容を審査した",
+"en": "I reviewed a written opinion"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "マギへの不正アクセスを試みた",
+"en": "I tried to hack into the MAGI"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "情報技能を訓練した",
+"en": "I trained information skills"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "戦闘技能を訓練した",
+"en": "I trained combat skills"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、仕事の調子を尋ねた",
+"en": ": I asked how work was going"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に仕事の調子を尋ねられたから、順調だと答えた",
+"en": ": asked how work was going, and I said fine"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に仕事の調子を尋ねられて、はかどっていないと答えた",
+"en": ": asked how work was going, and I said slowly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をねぎらった",
+"en": ": I praised them for their work"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から、ねぎらってもらった",
+"en": ": praised me for my work"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の仕事を邪魔してしまった",
+"en": ": I got in the way of their work"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の仕事の状態は芳しくないことを知った",
+"en": ": I learned their work is going poorly"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、仕事の愚痴をこぼした",
+"en": ": I complained to them about work"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、たわいもない話をした",
+"en": ": I made small talk with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に、体の具合は大丈夫か尋ねた",
+"en": ": I asked if they were feeling all right"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "シャワーを浴びた",
+"en": "I took a shower"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "会話に割り込んだ",
+"en": "I cut into a conversation"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "情事に割り込んだ",
+"en": "I cut into an affair"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "気まずい会話に割り込んだ",
+"en": "I cut into an awkward conversation"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "間の悪いタイミングに割り込んだ",
+"en": "I cut in at a bad time"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "業務会話に割り込んだ",
+"en": "I cut into a business talk"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "見ているところに割り込んだ",
+"en": "I cut in while they were watching"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "見られているところに割り込んだ",
+"en": "I cut in while I was being watched"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "トイレで用を足した",
+"en": "I used the restroom"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "眠った",
+"en": "I slept"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "喉を潤した",
+"en": "I wet my throat"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "自問自答した",
+"en": "I talked to myself"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にＥＶＡの構造の情報を聞いた",
+"en": ": I asked about the Eva's structure"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にＥＶＡ初号機の情報を聞いた",
+"en": ": I asked about Eva Unit-01"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にセカンドチルドレンの情報を聞いた",
+"en": ": I asked about the Second Child"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に碇ユイの情報を聞いた",
+"en": ": I asked about Yui Ikari"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にゲンドウの情報を聞いた",
+"en": ": I asked about Gendo"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にネルフの情報を聞いた",
+"en": ": I asked about NERV"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にマルドック機関の情報を聞いた",
+"en": ": I asked about the Marduk Institute"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にゲンドウの野望の情報を聞いた",
+"en": ": I asked about Gendo's ambitions"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にネルフの歴史の情報を聞いた",
+"en": ": I asked about NERV's history"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に人類補完計画の内容の情報を聞いた",
+"en": ": I asked about the Human Instrumentality Project"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にゲヒルンの情報を聞いた",
+"en": ": I asked about GEHIRN"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にゼーレの情報を聞いた",
+"en": ": I asked about SEELE"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にＡＴフィールドの情報を聞いた",
+"en": ": I asked about the A.T. Field"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にＳ２機関の情報を聞いた",
+"en": ": I asked about the S2 Engine"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に使徒の情報を聞いた",
+"en": ": I asked about the Angels"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にアダムの情報を聞いた",
+"en": ": I asked about Adam"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に死海文書の情報を聞いた",
+"en": ": I asked about the Dead Sea Scrolls"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に第１始祖民族の情報を聞いた",
+"en": ": I asked about the First Ancestral Race"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に第２使徒の情報を聞いた",
+"en": ": I asked about the Second Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にセカンドインパクトの情報を聞いた",
+"en": ": I asked about Second Impact"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にサードインパクトの情報を聞いた",
+"en": ": I asked about Third Impact"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にロンギヌスの槍の情報を聞いた",
+"en": ": I asked about the Lance of Longinus"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にダミープラグの情報を聞いた",
+"en": ": I asked about the Dummy Plug"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にジオフロントの情報を聞いた",
+"en": ": I asked about the Geofront"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "黒服に連れ戻された",
+"en": "I was dragged back by men in black"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "生まれた",
+"en": "I was born"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "セカンド・チルドレンに選出された",
+"en": "I was chosen as the Second Child"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "が自殺したのを見た",
+"en": ": I saw them kill themselves"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に会った",
+"en": ": I met them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "優しくしてくれた",
+"en": "They were kind to me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "大学に入学した",
+"en": "I entered university"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に勉強を教えて貰った",
+"en": ": taught me how to study"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "大学を修了した",
+"en": "I finished university"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "とデートした",
+"en": ": I went on a date with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ぼんやりした",
+"en": "I spaced out"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の“スーパーソレノイド理論”を見る",
+"en": ": I saw their \"Super Solenoid Theory\""
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と談笑した",
+"en": ": I chatted and laughed with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と話した",
+"en": ": I talked with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と散歩した",
+"en": ": I took a walk with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と手を握った",
+"en": ": I held hands with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に抱きついた",
+"en": ": I hugged them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "とキスした",
+"en": ": I kissed them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "とＨした",
+"en": ": I did it with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から“冬月”のことを聞いた",
+"en": ": I heard about \"Fuyutsuki\" from them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "酔ってのケンカで逮捕された",
+"en": "I was arrested for a drunken fight"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を身元引受人とした",
+"en": ": I made them my guarantor"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と話をした",
+"en": ": I had a talk with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "南極に行った",
+"en": "I went to Antarctica"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "アダムを発見した",
+"en": "I found Adam"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ロンギヌスの槍を発見した",
+"en": "I found the Lance of Longinus"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "南極から帰国した",
+"en": "I returned from Antarctica"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "セカンド・インパクトが起こった",
+"en": "Second Impact happened"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "東京に新型爆弾が投下された",
+"en": "A new type of bomb was dropped on Tokyo"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "５０万人の人命が失われた",
+"en": "500,000 lives were lost"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を“南極調査員”として推薦した",
+"en": ": I recommended them as an \"Antarctic surveyor\""
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "正式調査の為、南極に行った",
+"en": "I went to Antarctica for the official survey"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に“ユイと結婚し改姓した”と伝える",
+"en": ": I told them \"I married Yui and changed my name\""
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に“子供が生まれた”と伝える",
+"en": ": I told them \"We had a child\""
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をゲヒルンに誘った",
+"en": ": I invited them to GEHIRN"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ゲヒルンに入所した",
+"en": "I joined GEHIRN"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "消失した",
+"en": "I vanished"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を“先生”の所に預けた",
+"en": ": I left them with \"Teacher\""
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ユイの消失を気に病んだ",
+"en": "I worried over Yui's disappearance"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に“人類補完計画”を提唱した",
+"en": ": I proposed the \"Human Instrumentality Project\" to them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をゲヒルンに連れてきた",
+"en": ": I brought them to GEHIRN"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ＭＡＧＩシステムを完成させた",
+"en": "I completed the MAGI system"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に殺された",
+"en": ": was killed by them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "自殺した",
+"en": "I killed myself"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ゲヒルンが解体された",
+"en": "GEHIRN was dissolved"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ネルフが結成された",
+"en": "NERV was founded"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "をＥ計画責任者に任命した",
+"en": ": I appointed them head of Project E"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ユイの墓参りに来た",
+"en": "I came to visit Yui's grave"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "逃げ出した",
+"en": "I ran away"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "零号機起動実験に臨んだ",
+"en": "I took part in the Unit-00 activation test"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "零号機起動実験に失敗した",
+"en": "I failed the Unit-00 activation test"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "のエントリープラグが射出された",
+"en": ": their Entry Plug was ejected"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を助けに走った",
+"en": ": I ran to save them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "手に火傷を負った",
+"en": "I burned my hand"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の無事を確認した",
+"en": ": I confirmed they were safe"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を呼び出した",
+"en": ": I summoned them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "特別非常事態宣言を発令した",
+"en": "I declared a state of special emergency"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から“先生”の所に預けられた",
+"en": ": left me with \"Teacher\""
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "チェロを始めた",
+"en": "I took up the cello"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にチェロを褒められた",
+"en": ": praised my cello playing"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "自分には何も無いと感じた",
+"en": "I felt like I had nothing"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "音楽を聴いた",
+"en": "I listened to music"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "育ててくれた",
+"en": "They raised me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "友達と遊んだ",
+"en": "I played with friends"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "母さんの墓参りに行った",
+"en": "I went to visit Mother's grave"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から逃げ出した",
+"en": ": I ran away from them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "母さんの墓参りに来た",
+"en": "I came to visit Mother's grave"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "運動した",
+"en": "I exercised"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にからかわれた",
+"en": ": teased me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "チェロを褒められた",
+"en": "My cello playing was praised"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から呼び出された",
+"en": ": summoned me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の手紙を読んだ",
+"en": ": I read their letter"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ミサトさんの写真を見た",
+"en": "I looked at Misato's photo"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の写真を見た",
+"en": ": I looked at their photo"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "施設を離れた",
+"en": "I left the facility"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "第３新東京市に着いた",
+"en": "I arrived in Tokyo-3"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にエサを与えた",
+"en": ": I fed them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に無視された",
+"en": ": ignored me"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に南極に連れてこられた",
+"en": ": brought me to Antarctica"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を助けた",
+"en": ": I saved them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "が死んだ",
+"en": ": died"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "４枚の光の羽を見た",
+"en": "I saw four wings of light"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "暗くて狭い救命艇で独り漂った",
+"en": "I drifted alone in a dark, cramped lifeboat"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "漂流中に助けられた",
+"en": "I was rescued while adrift"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "言葉を失った",
+"en": "I lost my words"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "第２東京大学に入学した",
+"en": "I entered Tokyo Second University"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と出会った",
+"en": ": I met them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "加持の家に泊まった",
+"en": "I stayed at Kaji's place"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "免許取った",
+"en": "I got my license"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ドライブした",
+"en": "I went for a drive"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と遊んだ",
+"en": ": I played with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に“父”を感じた",
+"en": ": I sensed a \"father\" in them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と別れた",
+"en": ": I parted ways with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ドイツ勤務となった",
+"en": "I was posted to Germany"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と酒を飲んだ",
+"en": ": I drank with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "三尉に昇進した",
+"en": "I was promoted to Lieutenant Junior Grade"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "二尉に昇進した",
+"en": "I was promoted to Lieutenant"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "一尉に昇進した",
+"en": "I was promoted to Captain"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "帰国した",
+"en": "I returned to Japan"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "飲んだ",
+"en": "I drank"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の話を聞いた",
+"en": ": I listened to their story"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "車で迷った",
+"en": "I got lost driving"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を吸った",
+"en": ": I smoked it"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ＭＡＧＩの基礎理論を完成させた",
+"en": "I completed the basic theory of the MAGI"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "Ｅ計画責任者に抜擢された",
+"en": "I was picked as head of Project E"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の噂を聞いた",
+"en": ": I heard rumors about them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にアダムを見せられた",
+"en": ": showed me Adam"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "研究を進めた",
+"en": "I advanced my research"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にゲヒルンに連れてこられた",
+"en": ": brought me to GEHIRN"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "碇指令と食事した",
+"en": "I had a meal with Commander Ikari"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "中学に転入した",
+"en": "I transferred to middle school"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "を弾いた",
+"en": ": I played it"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ネルフに入所した",
+"en": "I joined NERV"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "京都大学に入学した",
+"en": "I entered Kyoto University"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "京都大学大学院修士課程に進学した",
+"en": "I advanced to Kyoto University's master's program"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "京都大学大学院博士課程に進学した",
+"en": "I advanced to Kyoto University's doctoral program"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "京都大学で教鞭をとることになった",
+"en": "I came to teach at Kyoto University"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の悪い噂を聞いた",
+"en": ": I heard bad rumors about them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の論文を見た",
+"en": ": I saw their paper"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から身元引受人とされた",
+"en": ": made me their guarantor"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "に“ゲンドウと付き合っている”と聞いた",
+"en": ": I heard they are \"seeing Gendo\""
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "愛知県豊橋市跡に来た",
+"en": "I came to the ruins of Toyohashi, Aichi"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "もぐり医師として開業した",
+"en": "I opened an unlicensed clinic"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "ゼーレという組織の悪い噂を聞く",
+"en": "I heard bad rumors about an organization called SEELE"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から南極調査員として推薦された",
+"en": ": recommended me as an Antarctic surveyor"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "惨状を見た",
+"en": "I saw the devastation"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "からユイと結婚し改姓したと教えられた",
+"en": ": told me they married Yui and changed names"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "から子供が生まれたと教えられた",
+"en": ": told me they had a child"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "の“失語症状態”を見た",
+"en": ": I saw their \"aphasic state\""
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "にゲヒルンに誘われた",
+"en": ": invited me to GEHIRN"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "将棋した",
+"en": "I played shogi"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "と議論した",
+"en": ": I debated with them"
+},
+{
+"file": "MW001.DAT",
+"sec": 8,
+"ja": "謎を知った",
+"en": "I learned the secret"
+},
+{
+"file": "MW001.DAT",
+"sec": 9,
+"ja": "んです。",
+"en": "you see."
+},
+{
+"file": "MW001.DAT",
+"sec": 9,
+"ja": "んだ。",
+"en": "you know."
+},
+{
+"file": "MW001.DAT",
+"sec": 9,
+"ja": "んですよ…。",
+"en": "you see..."
+},
+{
+"file": "MW001.DAT",
+"sec": 9,
+"ja": "な…。",
+"en": "y'know..."
+},
+{
+"file": "MW001.DAT",
+"sec": 9,
+"ja": "っけ…。",
+"en": "I think..."
+},
+{
+"file": "MW001.DAT",
+"sec": 9,
+"ja": "のを心にとめた。",
+"en": "I took note."
+},
+{
+"file": "MW001.DAT",
+"sec": 10,
+"ja": "んだっけ。",
+"en": "wasn't it?"
+},
+{
+"file": "MW001.DAT",
+"sec": 10,
+"ja": "んだ…。",
+"en": "I guess..."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、とても感謝したんです。",
+"en": "I was very grateful."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、とても好感を持ちました。",
+"en": "I liked them very much."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "その時、とてもすっきりしました。",
+"en": "I felt really refreshed then."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "その時は、とてもいい感じでした。",
+"en": "It felt very good then."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、とても嬉しかったです。",
+"en": "I was very happy."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "その時は、…ドキドキしました。",
+"en": "My heart was pounding then."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "その時は、…ムラムラしちゃいました。",
+"en": "I got really worked up then."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "それが、とても美味しかったんですよ。",
+"en": "It was really delicious."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、すごく満足しました。",
+"en": "I was totally satisfied."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "それで、すごく楽しかったです。",
+"en": "So it was a lot of fun."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "それで、すごい気持ち良かったです。",
+"en": "So it felt really good."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、すごく恥ずかしかったです…。",
+"en": "I was so embarrassed..."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、とても感心しました。",
+"en": "I was very impressed."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、その時、すごく好きなんだって思いました…。",
+"en": "I realized then how much I like them..."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "だから、とても、愛しているんです…。",
+"en": "So I love them very much..."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "だから僕、とても大切にしたいんです。",
+"en": "So I really want to cherish them."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、すごく安心しました。",
+"en": "I felt greatly relieved."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕は、すごく信用しています。",
+"en": "I trust them completely."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "だから僕、とても尊敬しました。",
+"en": "So I respected them a lot."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "それで、僕、すごい期待したんです。",
+"en": "So I got my hopes up high."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕も、すっごくイイ気分になっちゃって。",
+"en": "I felt really great too."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "まあ、普通ですね。",
+"en": "Well, it was ordinary."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とてもびっくりしました。",
+"en": "I was very surprised."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "正直、とても困りました。",
+"en": "Honestly, I was really stuck."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "ええ、とても迷いました。",
+"en": "Yes, I was very torn."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "すごく、緊張しました。",
+"en": "I was so nervous."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "すごく心配しました…。",
+"en": "I was so worried..."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "すごいいい気味だと思いました。",
+"en": "I thought it served them right."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とても可哀相でした。",
+"en": "I felt very sorry for them."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "だいぶ、ぎこちなかったみたいです。",
+"en": "It seemed pretty awkward."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "もう、本当にどうでもよかったです。",
+"en": "Honestly, I just didn't care."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "一体どうしたんだろうと思いました。",
+"en": "I wondered what on earth was up."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "よく、…わかりませんでした。",
+"en": "I really... didn't get it."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "すごく、怒りましたよ。",
+"en": "I got really angry."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とにかく不快でした。",
+"en": "It was just unpleasant."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "…とにかく、すごく疲れました。",
+"en": "...Anyway, I was exhausted."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とにかく、ムッとしましたよ。",
+"en": "I was just plain annoyed."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とても…、哀しかったです。",
+"en": "I was so... sad."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "すごい、いやらしかったです…。",
+"en": "It was so lewd..."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "いや、もうヘドが出そうでした。",
+"en": "No, it made me want to puke."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とにかくひどく、まずかったです。",
+"en": "It tasted just awful."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とにかく不満に思いました。",
+"en": "I was just plain dissatisfied."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "全然面白くなかったです。",
+"en": "It wasn't fun at all."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "すごく気持ちが悪かったです。",
+"en": "I felt really sick."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "その時は、とても死にたくなりました。",
+"en": "I wanted to die then."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とても呆れました…。",
+"en": "I was totally appalled..."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とにかく嫌いなんです。",
+"en": "I just hate it."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "とても、憎かったです…。",
+"en": "I hated them so much..."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "すぐに、それを捨ててしまいたかったです。",
+"en": "I wanted to throw it away at once."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "その時…、すごく不安を感じました。",
+"en": "Then... I felt very uneasy."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、その事が、全く信じられませんでした。",
+"en": "I just couldn't believe it."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "…とにかく軽蔑しました。",
+"en": "...I just despised them."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "僕、すごくがっかりしました。",
+"en": "I was really disappointed."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "…とても、悔しかったです。",
+"en": "...I was so frustrated."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "もう、最高にスカっとしました。",
+"en": "It felt absolutely great."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "あの時は、すごく…、痛かったです。",
+"en": "It really... hurt then."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "…あの時、ものすごく恐かったです。",
+"en": "...I was terrified then."
+},
+{
+"file": "MW001.DAT",
+"sec": 11,
+"ja": "それで、すっごい、やる気になったんです。",
+"en": "So I got really motivated."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "それで僕、感謝したんです。",
+"en": "So I was grateful."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、好感を持ちました。",
+"en": "I liked them."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、すっきりしました。",
+"en": "I felt refreshed then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、いい感じでしたよ。",
+"en": "It felt good then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、嬉しかったです。",
+"en": "I was happy."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、ドキドキしちゃいました。",
+"en": "My heart pounded then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、ムラムラしました。",
+"en": "I got worked up then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "美味しかったですよ。",
+"en": "It was delicious."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "満足しました。",
+"en": "I was satisfied."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "楽しかったです。",
+"en": "It was fun."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "気持ちが良かったです。",
+"en": "It felt good."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "恥ずかしかったです。",
+"en": "I was embarrassed."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、感心しました。",
+"en": "I was impressed."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "改めて、好きだと思いました。",
+"en": "I realized again that I like them."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "愛してました。",
+"en": "I loved them."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "だから、大切にしたいです。",
+"en": "So I want to cherish them."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "それで僕、安心しました。",
+"en": "So I felt relieved."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕は、信用しました。",
+"en": "I trusted them."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、尊敬しました。",
+"en": "I respected them."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "だから僕、期待したんです。",
+"en": "So I got my hopes up."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "だから僕、いい気分でした。",
+"en": "So I felt good."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、驚きました。",
+"en": "I was surprised."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "…その時は、困りました。",
+"en": "...I was stuck then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、迷いました…。",
+"en": "I was torn then..."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、緊張しました。",
+"en": "I was nervous then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、心配しました。",
+"en": "I was worried then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "いい気味だと思いました。",
+"en": "I thought it served them right."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "可哀相でした…。",
+"en": "I felt sorry for them..."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "何か、ぎこちなかったかな…。",
+"en": "It was kind of awkward..."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "ほんと、どうでもよかったです。",
+"en": "I really didn't care."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "…どうしたんでしょうね。",
+"en": "...What was up with that?"
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "何か、よくわかりませんでした。",
+"en": "I somehow didn't get it."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "それで僕、怒りました。",
+"en": "So I got angry."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、不快でした。",
+"en": "It was unpleasant then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、疲れました…。",
+"en": "I was tired then..."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、ムッとしました。",
+"en": "I was annoyed then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、哀しかったです。",
+"en": "I was sad then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "…いやらしかったです。",
+"en": "...It was lewd."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、気分が悪くなりましたよ。",
+"en": "I started feeling sick."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "まずかったですよ…。",
+"en": "It tasted awful..."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕は、不満でした。",
+"en": "I was dissatisfied."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕は、面白くなかったです。",
+"en": "I didn't find it fun."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "気持ち悪かったです。",
+"en": "It was disgusting."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "死にたい気分になりました。",
+"en": "I felt like dying."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、呆れました。",
+"en": "I was appalled."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、嫌いなんです。",
+"en": "I hate it."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "憎いと思いました。",
+"en": "I hated them."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "捨ててしまいたくなりました。",
+"en": "I wanted to throw it away."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "その時は、不安でした。",
+"en": "I was uneasy then."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕には、信じられませんでした。",
+"en": "I couldn't believe it."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、軽蔑しました。",
+"en": "I despised them."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "…がっかりしました。",
+"en": "...I was disappointed."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "…悔しかったです。",
+"en": "...I was frustrated."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "スカっとしました。",
+"en": "I felt great."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "…痛かったです。",
+"en": "...It hurt."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "僕、恐かったです。",
+"en": "I was scared."
+},
+{
+"file": "MW001.DAT",
+"sec": 12,
+"ja": "それで、やる気になったんだ。",
+"en": "So I got motivated."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "だから、とても感謝したんだよ。",
+"en": "So I was really grateful."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とっても、好感が持てたよ。",
+"en": "I really liked them."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごい、すっきりしたよ。",
+"en": "I felt so refreshed."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "かなりいい感じだったよ。",
+"en": "It felt pretty good."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても嬉しかったよ。",
+"en": "I was really happy."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "ムチャクチャドキドキしたよ。",
+"en": "My heart was pounding like crazy."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "…すごいムラムラしたんだ、あの時…。",
+"en": "...I was so worked up back then..."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごく美味しかったよ。",
+"en": "It was so delicious."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても満足したよ。",
+"en": "I was totally satisfied."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごく楽しかったよ。",
+"en": "It was so much fun."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごい気持ち良かったよ。",
+"en": "It felt so good."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごい恥ずかしかったな…。",
+"en": "I was so embarrassed..."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても感心したんだよ。",
+"en": "I was really impressed."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "やっぱり、すごい好きだと思ったんだ。",
+"en": "I knew it, I like them a lot."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "やっぱり、とても愛しているんだ…。",
+"en": "I knew it, I love them so much..."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても大切にしたいんだ。",
+"en": "I really want to cherish them."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても大切にしたいと思ったよ。。",
+"en": "I thought I wanted to cherish them."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "僕は、すごく信用しているんだ。",
+"en": "I trust them completely."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "僕、とても尊敬しているんだ。",
+"en": "I respect them so much."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "だから、すごく期待したんだ。",
+"en": "So I got my hopes up big."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "それで、だいぶいい気分になったんだ。",
+"en": "So I felt pretty great."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "まあ、普通だよね。",
+"en": "Well, it was ordinary."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とてもびっくりしたよ。",
+"en": "I was really surprised."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "その時は、とても困ったよ。",
+"en": "I was really stuck then."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごい迷ったよ…。",
+"en": "I was so torn..."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "でさ、すごく緊張したよ。",
+"en": "And man, I was so nervous."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても、心配したんだよ。",
+"en": "I was really worried."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とてもいい気味だったよ。",
+"en": "It totally served them right."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても可哀相だったよ。",
+"en": "I felt so sorry for them."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "だいぶ、ぎこちなかったみたい。",
+"en": "It seemed pretty awkward."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "でも、そんなのどうでもよかったよ。",
+"en": "But I didn't care about that."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "一体どうしたんだろうって思ったよ。",
+"en": "I wondered what the heck was up."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "ちっとも、よくわからなかったよ。",
+"en": "I didn't get it at all."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "だから、すごく怒ったんだ。",
+"en": "So I got really mad."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とにかく、不快だったよ。",
+"en": "It was just unpleasant."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごい疲れちゃったよ。",
+"en": "I got so tired."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごく腹が立ったんだ。",
+"en": "I was furious."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても哀しかったよ。",
+"en": "I was so sad."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごい、いやらしかったんだ…。",
+"en": "It was so lewd..."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "もう、すごく吐き気がしたよ。",
+"en": "It made me really nauseous."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごく、まずかった…。",
+"en": "It tasted terrible..."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "その時は、すごく不満だったんだ。",
+"en": "I was really dissatisfied then."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "全然,面白くなかったな。",
+"en": "It wasn't fun at all."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごく気持ちが悪かったよ。",
+"en": "I felt really sick."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "その時は、すごく死んでしまいたかった…。",
+"en": "I wanted to die then..."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "…とにかく呆れたよ。",
+"en": "...I was just appalled."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とにかく嫌いなんだよ。",
+"en": "I just hate it."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても憎かったよ。",
+"en": "I hated them so much."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すぐに捨ててしまいたかったんだ。",
+"en": "I wanted to throw it away at once."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごく不安を感じたよ。",
+"en": "I felt really uneasy."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "僕、その事が、全く信じられなかったんだ。",
+"en": "I just couldn't believe it."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とにかく軽蔑したよ。",
+"en": "I just despised them."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごく、がっかりしたよ。",
+"en": "I was so disappointed."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とても、悔しかったよ。",
+"en": "I was so frustrated."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "とにかく、スカっとしたよ。",
+"en": "It just felt great."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "すごく、痛かったよ。",
+"en": "It hurt so much."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "ものすごく、恐かった…。",
+"en": "I was terrified..."
+},
+{
+"file": "MW001.DAT",
+"sec": 13,
+"ja": "だから、すごいやる気になったんだ。",
+"en": "So I got really motivated."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "だから、感謝したんだ。",
+"en": "So I was grateful."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "その時は、好感を持ったよ。",
+"en": "I liked them then."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "その時は、すっきりしたよ。",
+"en": "I felt refreshed then."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "何か、いい感じだったよ。",
+"en": "It felt kinda good."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "…嬉しかったな。",
+"en": "...I was happy."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "ドキドキしたよ。",
+"en": "My heart pounded."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "その時は、ムラムラしたよ。",
+"en": "I got worked up then."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "美味しかったよ。",
+"en": "It was delicious."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "満足したよ。",
+"en": "I was satisfied."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "楽しかったな…。",
+"en": "It was fun..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "気持ち良かったよ。",
+"en": "It felt good."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "恥ずかしかったよ。",
+"en": "I was embarrassed."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "感心したよ。",
+"en": "I was impressed."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "やっぱり、好きだと思ったよ。",
+"en": "I knew it, I like them."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "やっぱり僕、愛しているんだ…。",
+"en": "I knew it, I love them..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "大切にしたいと思ったよ…。",
+"en": "I want to cherish them..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "安心したよ…。",
+"en": "I felt relieved..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "だから、信じたんだ。",
+"en": "So I believed them."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "尊敬したよ。",
+"en": "I respected them."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "だから、期待したんだ。",
+"en": "So I hoped."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "だから僕、いい気分だったよ。",
+"en": "So I felt good."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "でも、いつもの話だね。",
+"en": "But it's the usual story."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "驚いたよ。",
+"en": "I was surprised."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "…その時は、困ったよ。",
+"en": "...I was stuck then."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "あの時は、迷ったよ。",
+"en": "I was torn then."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "緊張したよ。",
+"en": "I was nervous."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "心配だったよ。",
+"en": "I was worried."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "いい気味だったよ。",
+"en": "Served them right."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "可哀相だったな…。",
+"en": "I felt sorry for them..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "でも、どうでもよかったよ。",
+"en": "But I didn't care."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "…どうしたんだろう？",
+"en": "...What was up?"
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "よくわかんなかったよ。",
+"en": "I didn't get it."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "だから、怒ったよ。",
+"en": "So I got mad."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "不快だったよ。",
+"en": "It was unpleasant."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "疲れたよ…。",
+"en": "I was tired..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "腹が立ったよ。",
+"en": "I was furious."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "哀しかった…。",
+"en": "I was sad..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "いやらしいかったよ。",
+"en": "It was lewd."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "気分が悪くなったよ。",
+"en": "I felt sick."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "…まずかったよ。",
+"en": "...It tasted bad."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "不満だったよ。",
+"en": "I was unhappy."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "つまんなかったな。",
+"en": "It was boring."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "気持ち悪かったよ。",
+"en": "It was gross."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "死にたい気分になったよ。",
+"en": "I felt like dying."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "呆れたよ。",
+"en": "I was appalled."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "僕、嫌いなんだ…。",
+"en": "I hate it..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "憎かった…。",
+"en": "I hated them..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "あんなのいらないよ。",
+"en": "I don't want that."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "不安だったよ。",
+"en": "I was uneasy."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "信じられないよ。",
+"en": "I can't believe it."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "軽蔑したよ。",
+"en": "I despised them."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "がっかりしたよ。",
+"en": "I was let down."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "悔しかったよ。",
+"en": "I was frustrated."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "スカっとしたよ。",
+"en": "I felt great."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "痛かったよ…。",
+"en": "It hurt..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "恐かったよ…。",
+"en": "I was scared..."
+},
+{
+"file": "MW001.DAT",
+"sec": 14,
+"ja": "やる気になったんだ。",
+"en": "I got motivated."
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "僕",
+"en": "myself"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "アスカ",
+"en": "Asuka"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "綾波",
+"en": "Rei"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ミサトさん",
+"en": "Misato"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "父さん",
+"en": "Father"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "冬月さん",
+"en": "Fuyutsuki"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "リツコさん",
+"en": "Ritsuko"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "マヤさん",
+"en": "Maya"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "日向さん",
+"en": "Hyuga"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "青葉さん",
+"en": "Aoba"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "加持さん",
+"en": "Kaji"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "委員長",
+"en": "Class Rep"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "トウジ",
+"en": "Toji"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ケンスケ",
+"en": "Kensuke"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "カヲルくん",
+"en": "Kaworu"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ペンペン",
+"en": "Pen Pen"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "零号機",
+"en": "Unit-00"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "初号機",
+"en": "Unit-01"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "弐号機",
+"en": "Unit-02"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "参号機",
+"en": "Unit-03"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "四号機",
+"en": "Unit-04"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "腕から槍が出る使徒",
+"en": "the Angel with spear arms"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "宇宙人の形をした使徒",
+"en": "the alien-shaped Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "四角い使徒",
+"en": "the square Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "水中の使徒",
+"en": "the water Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "分裂する使徒",
+"en": "the splitting Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "溶岩の中の使徒",
+"en": "the lava Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "クモみたいな使徒",
+"en": "the spider-like Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "巨大な目玉の使徒",
+"en": "the giant eyeball Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ウィルスの使徒",
+"en": "the virus Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "影の使徒",
+"en": "Shadow Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "黒いエヴァ",
+"en": "the black Eva"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ゼルエル",
+"en": "Zeruel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "光る羽みたいな使徒",
+"en": "the Angel with glowing wings"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ひもの使徒",
+"en": "the cord Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "エヴァの量産機",
+"en": "the mass-produced Evas"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "二本足のロボット",
+"en": "the two-legged robot"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ＪＡ２",
+"en": "JA 2"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備2",
+"en": "Angel reserve 2"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備3",
+"en": "Angel reserve 3"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備4",
+"en": "Angel reserve 4"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備5",
+"en": "Angel reserve 5"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備6",
+"en": "Angel reserve 6"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備7",
+"en": "Angel reserve 7"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備8",
+"en": "Angel reserve 8"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備9",
+"en": "Angel reserve 9"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備10",
+"en": "Angel reserve 10"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備11",
+"en": "Angel reserve 11"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備12",
+"en": "Angel reserve 12"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備13",
+"en": "Angel reserve 13"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備14",
+"en": "Angel reserve 14"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備15",
+"en": "Angel reserve 15"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備16",
+"en": "Angel reserve 16"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備17",
+"en": "Angel reserve 17"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備18",
+"en": "Angel reserve 18"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備19",
+"en": "Angel reserve 19"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備20",
+"en": "Angel reserve 20"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ダミーくん",
+"en": "Dummy"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ダミーさん",
+"en": "Ms. Dummy"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "アナ",
+"en": "Ana"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒予備１",
+"en": "Angel reserve 1"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "アノミサエル",
+"en": "Anomisael"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "葛城博士",
+"en": "Dr. Katsuragi"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ユイ",
+"en": "Yui"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ユイ君",
+"en": "Yui"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "軍人",
+"en": "a soldier"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "母さん",
+"en": "Mother"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ゼーレ",
+"en": "SEELE"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ママ",
+"en": "Mama"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "みんな",
+"en": "everyone"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "先生",
+"en": "Sensei"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "リツコのお母さん",
+"en": "Ritsuko's mother"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "赤木ナオコ博士",
+"en": "Dr. Naoko Akagi"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "赤木君",
+"en": "Akagi"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "クラスメイト",
+"en": "a classmate"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "日本政府",
+"en": "Japan govt"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "使徒",
+"en": "Angel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "国連軍",
+"en": "UN forces"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ジオフロント",
+"en": "Geofront"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "ビール",
+"en": "beer"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "妹",
+"en": "sister"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "人類補完委員会",
+"en": "Instrumentality Committee"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "エヴァ",
+"en": "Eva"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "キール議長",
+"en": "Chairman Keel"
+},
+{
+"file": "MW001.DAT",
+"sec": 6,
+"ja": "お父さん",
+"en": "Dad"
+},
+{
+"file": "MW001.DAT",
+"sec": 16,
+"ja": "が",
+"en": "but"
+},
+{
+"file": "MW016.DAT",
+"sec": 1,
+"ja": "グェー。",
+"en": "Wark!"
+},
+{
+"file": "MW016.DAT",
+"sec": 1,
+"ja": "クワァー。",
+"en": "Kwaaa!"
+},
+{
+"file": "MW016.DAT",
+"sec": 1,
+"ja": "エッ",
+"en": "Eh!"
+},
+{
+"file": "MW016.DAT",
+"sec": 1,
+"ja": "ヴァ",
+"en": "Vah!"
+},
+{
+"file": "MW016.DAT",
+"sec": 1,
+"ja": "ク",
+"en": "Kwe"
+},
+{
+"file": "MW016.DAT",
+"sec": 1,
+"ja": "ギェッ",
+"en": "Gyeh!"
+},
+{
+"file": "MW016.DAT",
+"sec": 1,
+"ja": "…",
+"en": "..."
+},
+{
+"file": "MW016.DAT",
+"sec": 1,
+"ja": "－－－－－－－－－－",
+"en": "----------"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "予備（２）",
+"en": "in reserve 2"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "予備（３）",
+"en": "in reserve 3"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "予備（４）",
+"en": "in reserve 4"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "予備（５）",
+"en": "in reserve 5"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "全体マップ",
+"en": "on the whole map"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ネルフ施設マップ",
+"en": "on the NERV facility map"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "自宅",
+"en": "at home"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "自室",
+"en": "in my room"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ベランダ（リビング視点）",
+"en": "on the balcony, living room side"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ベランダ（ミサト部屋視点）",
+"en": "on the balcony, Misato's room side"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ベランダ（アスカ部屋視点）",
+"en": "on the balcony, Asuka's room side"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "マンション外部",
+"en": "outside the apartment"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "待機場所",
+"en": "in the waiting area"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "作戦室",
+"en": "in the operations room"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "第７実験場管制室",
+"en": "in Test Site 7 control room"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "総合分析所",
+"en": "at the analysis center"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "第一発令所破壊",
+"en": "in the wrecked main command center"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "病室",
+"en": "in the hospital room"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "通風孔",
+"en": "in the air duct"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "通路",
+"en": "in the corridor"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ＥＶＡケージ",
+"en": "in the Eva cage"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "通学路",
+"en": "on the way to school"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "中学校講堂",
+"en": "in the middle school hall"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "スイカ畑",
+"en": "in the watermelon field"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "オーバー・ザ・レインボゥ",
+"en": "at Over the Rainbow"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（５）",
+"en": "in game reserve 5"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（１）",
+"en": "in game reserve 1"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（２）",
+"en": "in game reserve 2"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（３）",
+"en": "in game reserve 3"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ゲーム用予備（４）",
+"en": "in game reserve 4"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "居酒屋",
+"en": "in the pub"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "京都大学研究室",
+"en": "in the Kyoto Univ. lab"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "京都府警察署",
+"en": "at Kyoto police HQ"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "京都山道",
+"en": "on a Kyoto mountain road"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "南極",
+"en": "in Antarctica"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "東京",
+"en": "in Tokyo"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "愛知県豊橋市跡",
+"en": "at old Toyohashi, Aichi"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "軍の食糧庫",
+"en": "in the army food depot"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "アジト",
+"en": "at the hideout"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ゲヒルン",
+"en": "at Gehirn"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "第２東京大学学食",
+"en": "in the Tokyo-2 Univ. cafeteria"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "第２東京大学",
+"en": "at Tokyo-2 University"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "合コン",
+"en": "at a mixer"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "加持の家",
+"en": "at Kaji's house"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ドイツ第３支部",
+"en": "at German Branch 3"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "NERV",
+"en": "at NERV"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ドイツ",
+"en": "in Germany"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "第３新東京市",
+"en": "in Tokyo-3"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "中央作戦指令室",
+"en": "in Central Command"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ネルフ本部",
+"en": "at NERV HQ"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "エレベータ",
+"en": "in the elevator"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ケイジ",
+"en": "in the Cage"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ケイジ管制塔",
+"en": "in the Cage control tower"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "エントリープラグ",
+"en": "in the Entry Plug"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ミサト宅・風呂",
+"en": "in the bath at Misato's"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ミサト宅",
+"en": "at Misato's place"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ミサト宅・風呂場",
+"en": "in the bathroom at Misato's"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "病院・病室",
+"en": "in the hospital room"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "病院・廊下",
+"en": "in the hospital hallway"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "病院・待合ロビー",
+"en": "in the hospital lobby"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "病院・エレベータ",
+"en": "in the hospital elevator"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "病院",
+"en": "at the hospital"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "天井ビル",
+"en": "on the ceiling building"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ミサトの家",
+"en": "at Misato's house"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "風呂場",
+"en": "in the bathroom"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ネルフ本部・第２実験場",
+"en": "in NERV HQ Test Site 2"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "シンジの部屋",
+"en": "in Shinji's room"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "映画館",
+"en": "at the movie theater"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "山",
+"en": "in the mountains"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ワシの家",
+"en": "at my house"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "トウジの家",
+"en": "at Toji's house"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "艦内食堂",
+"en": "in the ship's mess hall"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "プール",
+"en": "at the pool"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "近江屋",
+"en": "at Omiya"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "病室で",
+"en": "in the hospital room"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "京都",
+"en": "in Kyoto"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "墓地",
+"en": "at the cemetery"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "遊園地",
+"en": "at the amusement park"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "お風呂場",
+"en": "in the bathroom"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ヒカリの部屋",
+"en": "in Hikari's room"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "カカカッ",
+"en": "Kakaka!"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "山道",
+"en": "on a mountain road"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ネルフ",
+"en": "at NERV"
+},
+{
+"file": "MW016.DAT",
+"sec": 4,
+"ja": "ワシんち",
+"en": "at my place"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "-",
+"en": "-"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "－",
+"en": "-"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "生まれた",
+"en": "I was born"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "セカンド・チルドレンに選出された",
+"en": "I was chosen as the Second Child"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "が自殺したのを見た",
+"en": ": I saw them kill themselves"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に会った",
+"en": ": I met them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "優しくしてくれた",
+"en": "They were kind to me"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "大学に入学した",
+"en": "I entered university"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に勉強を教えて貰った",
+"en": ": taught me how to study"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "大学を修了した",
+"en": "I finished university"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "とデートした",
+"en": ": I went on a date with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ぼんやりした",
+"en": "I spaced out"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "の“スーパーソレノイド理論”を見る",
+"en": ": I saw their \"Super Solenoid Theory\""
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と談笑した",
+"en": ": I chatted and laughed with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と話した",
+"en": ": I talked with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と散歩した",
+"en": ": I took a walk with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と手を握った",
+"en": ": I held hands with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に抱きついた",
+"en": ": I hugged them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "とキスした",
+"en": ": I kissed them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "とＨした",
+"en": ": I did it with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "から“冬月”のことを聞いた",
+"en": ": I heard about \"Fuyutsuki\" from them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "酔ってのケンカで逮捕された",
+"en": "I was arrested for a drunken fight"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を身元引受人とした",
+"en": ": I made them my guarantor"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と話をした",
+"en": ": I had a talk with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "南極に行った",
+"en": "I went to Antarctica"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "アダムを発見した",
+"en": "I found Adam"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ロンギヌスの槍を発見した",
+"en": "I found the Lance of Longinus"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "南極から帰国した",
+"en": "I returned from Antarctica"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "セカンド・インパクトが起こった",
+"en": "Second Impact happened"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "東京に新型爆弾が投下された",
+"en": "A new type of bomb was dropped on Tokyo"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "５０万人の人命が失われた",
+"en": "500,000 lives were lost"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を“南極調査員”として推薦した",
+"en": ": I recommended them as an \"Antarctic surveyor\""
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "正式調査の為、南極に行った",
+"en": "I went to Antarctica for the official survey"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に“ユイと結婚し改姓した”と伝える",
+"en": ": I told them \"I married Yui and changed my name\""
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に“子供が生まれた”と伝える",
+"en": ": I told them \"We had a child\""
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "をゲヒルンに誘った",
+"en": ": I invited them to GEHIRN"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ゲヒルンに入所した",
+"en": "I joined GEHIRN"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "消失した",
+"en": "I vanished"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を“先生”の所に預けた",
+"en": ": I left them with \"Teacher\""
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ユイの消失を気に病んだ",
+"en": "I worried over Yui's disappearance"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に“人類補完計画”を提唱した",
+"en": ": I proposed the \"Human Instrumentality Project\" to them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "をゲヒルンに連れてきた",
+"en": ": I brought them to GEHIRN"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ＭＡＧＩシステムを完成させた",
+"en": "I completed the MAGI system"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に殺された",
+"en": ": was killed by them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "自殺した",
+"en": "I killed myself"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ゲヒルンが解体された",
+"en": "GEHIRN was dissolved"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ネルフが結成された",
+"en": "NERV was founded"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "をＥ計画責任者に任命した",
+"en": ": I appointed them head of Project E"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ユイの墓参りに来た",
+"en": "I came to visit Yui's grave"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "逃げ出した",
+"en": "I ran away"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "零号機起動実験に臨んだ",
+"en": "I took part in the Unit-00 activation test"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "零号機起動実験に失敗した",
+"en": "I failed the Unit-00 activation test"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "のエントリープラグが射出された",
+"en": ": their Entry Plug was ejected"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を助けに走った",
+"en": ": I ran to save them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "手に火傷を負った",
+"en": "I burned my hand"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "の無事を確認した",
+"en": ": I confirmed they were safe"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を呼び出した",
+"en": ": I summoned them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "特別非常事態宣言を発令した",
+"en": "I declared a state of special emergency"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "から“先生”の所に預けられた",
+"en": ": left me with \"Teacher\""
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "チェロを始めた",
+"en": "I took up the cello"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "にチェロを褒められた",
+"en": ": praised my cello playing"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "自分には何も無いと感じた",
+"en": "I felt like I had nothing"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "音楽を聴いた",
+"en": "I listened to music"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "育ててくれた",
+"en": "They raised me"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "友達と遊んだ",
+"en": "I played with friends"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "母さんの墓参りに行った",
+"en": "I went to visit Mother's grave"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "から逃げ出した",
+"en": ": I ran away from them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "母さんの墓参りに来た",
+"en": "I came to visit Mother's grave"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を見た",
+"en": ": looked at them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "運動した",
+"en": "I exercised"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "にからかわれた",
+"en": ": teased me"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "チェロを褒められた",
+"en": "My cello playing was praised"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を食べた",
+"en": ": ate it"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "から呼び出された",
+"en": ": summoned me"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "の手紙を読んだ",
+"en": ": I read their letter"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ミサトさんの写真を見た",
+"en": "I looked at Misato's photo"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "の写真を見た",
+"en": ": I looked at their photo"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "施設を離れた",
+"en": "I left the facility"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "第３新東京市に着いた",
+"en": "I arrived in Tokyo-3"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を飲んだ",
+"en": ": drank it"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "お風呂に入った",
+"en": "I took a bath"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "にエサを与えた",
+"en": ": I fed them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に無視された",
+"en": ": ignored me"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に南極に連れてこられた",
+"en": ": brought me to Antarctica"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を助けた",
+"en": ": I saved them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "が死んだ",
+"en": ": died"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "４枚の光の羽を見た",
+"en": "I saw four wings of light"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "暗くて狭い救命艇で独り漂った",
+"en": "I drifted alone in a dark, cramped lifeboat"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "漂流中に助けられた",
+"en": "I was rescued while adrift"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "言葉を失った",
+"en": "I lost my words"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "第２東京大学に入学した",
+"en": "I entered Tokyo Second University"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と出会った",
+"en": ": I met them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "加持の家に泊まった",
+"en": "I stayed at Kaji's place"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "免許取った",
+"en": "I got my license"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ドライブした",
+"en": "I went for a drive"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と遊んだ",
+"en": ": I played with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に“父”を感じた",
+"en": ": I sensed a \"father\" in them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と別れた",
+"en": ": I parted ways with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ドイツ勤務となった",
+"en": "I was posted to Germany"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と酒を飲んだ",
+"en": ": I drank with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "三尉に昇進した",
+"en": "I was promoted to Lieutenant Junior Grade"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "二尉に昇進した",
+"en": "I was promoted to Lieutenant"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "一尉に昇進した",
+"en": "I was promoted to Captain"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "帰国した",
+"en": "I returned to Japan"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "飲んだ",
+"en": "I drank"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "の話を聞いた",
+"en": ": I listened to their story"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "車で迷った",
+"en": "I got lost driving"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を吸った",
+"en": ": I smoked it"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ＭＡＧＩの基礎理論を完成させた",
+"en": "I completed the basic theory of the MAGI"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "Ｅ計画責任者に抜擢された",
+"en": "I was picked as head of Project E"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "の噂を聞いた",
+"en": ": I heard rumors about them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "にアダムを見せられた",
+"en": ": showed me Adam"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "研究を進めた",
+"en": "I advanced my research"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "にゲヒルンに連れてこられた",
+"en": ": brought me to GEHIRN"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "碇指令と食事した",
+"en": "I had a meal with Commander Ikari"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "中学に転入した",
+"en": "I transferred to middle school"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "を弾いた",
+"en": ": I played it"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ネルフに入所した",
+"en": "I joined NERV"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "京都大学に入学した",
+"en": "I entered Kyoto University"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "京都大学大学院修士課程に進学した",
+"en": "I advanced to Kyoto University's master's program"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "京都大学大学院博士課程に進学した",
+"en": "I advanced to Kyoto University's doctoral program"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "京都大学で教鞭をとることになった",
+"en": "I came to teach at Kyoto University"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "の悪い噂を聞いた",
+"en": ": I heard bad rumors about them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "の論文を見た",
+"en": ": I saw their paper"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "から身元引受人とされた",
+"en": ": made me their guarantor"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "に“ゲンドウと付き合っている”と聞いた",
+"en": ": I heard they are \"seeing Gendo\""
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "愛知県豊橋市跡に来た",
+"en": "I came to the ruins of Toyohashi, Aichi"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "もぐり医師として開業した",
+"en": "I opened an unlicensed clinic"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "ゼーレという組織の悪い噂を聞く",
+"en": "I heard bad rumors about an organization called SEELE"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "から南極調査員として推薦された",
+"en": ": recommended me as an Antarctic surveyor"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "惨状を見た",
+"en": "I saw the devastation"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "からユイと結婚し改姓したと教えられた",
+"en": ": told me they married Yui and changed names"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "から子供が生まれたと教えられた",
+"en": ": told me they had a child"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "の“失語症状態”を見た",
+"en": ": I saw their \"aphasic state\""
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "にゲヒルンに誘われた",
+"en": ": invited me to GEHIRN"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "将棋した",
+"en": "I played shogi"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "と議論した",
+"en": ": I debated with them"
+},
+{
+"file": "MW016.DAT",
+"sec": 8,
+"ja": "謎を知った",
+"en": "I learned the secret"
+},
+{
+"file": "MW016.DAT",
+"sec": 9,
+"ja": "ギェッ。",
+"en": "Gyeh!"
+},
+{
+"file": "MW016.DAT",
+"sec": 9,
+"ja": "…。",
+"en": "..."
+},
+{
+"file": "MW016.DAT",
+"sec": 9,
+"ja": "のを心にとめた。",
+"en": "I took note."
+},
+{
+"file": "MW016.DAT",
+"sec": 10,
+"ja": "ク。",
+"en": "Kwe."
+},
+{
+"file": "MW016.DAT",
+"sec": 10,
+"ja": "エッ。",
+"en": "Eh!"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "ＪＡ２",
+"en": "JA 2"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備2",
+"en": "Angel reserve 2"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備3",
+"en": "Angel reserve 3"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備4",
+"en": "Angel reserve 4"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備5",
+"en": "Angel reserve 5"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備6",
+"en": "Angel reserve 6"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備7",
+"en": "Angel reserve 7"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備8",
+"en": "Angel reserve 8"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備9",
+"en": "Angel reserve 9"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備10",
+"en": "Angel reserve 10"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備11",
+"en": "Angel reserve 11"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備12",
+"en": "Angel reserve 12"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備13",
+"en": "Angel reserve 13"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備14",
+"en": "Angel reserve 14"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備15",
+"en": "Angel reserve 15"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備16",
+"en": "Angel reserve 16"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備17",
+"en": "Angel reserve 17"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備18",
+"en": "Angel reserve 18"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備19",
+"en": "Angel reserve 19"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備20",
+"en": "Angel reserve 20"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "ダミーくん",
+"en": "Dummy"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "ダミーさん",
+"en": "Ms. Dummy"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "アナ",
+"en": "Ana"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒予備１",
+"en": "Angel reserve 1"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "アノミサエル",
+"en": "Anomisael"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "父さん",
+"en": "Father"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "葛城博士",
+"en": "Dr. Katsuragi"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "ユイ",
+"en": "Yui"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "ユイ君",
+"en": "Yui"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "軍人",
+"en": "a soldier"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "母さん",
+"en": "Mother"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "ゼーレ",
+"en": "SEELE"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "ママ",
+"en": "Mama"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "みんな",
+"en": "everyone"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "先生",
+"en": "Sensei"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "リツコのお母さん",
+"en": "Ritsuko's mother"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "赤木ナオコ博士",
+"en": "Dr. Naoko Akagi"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "赤木君",
+"en": "Akagi"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "クラスメイト",
+"en": "a classmate"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "日本政府",
+"en": "Japan govt"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "使徒",
+"en": "Angel"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "国連軍",
+"en": "UN forces"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "ジオフロント",
+"en": "Geofront"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "ビール",
+"en": "beer"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "妹",
+"en": "sister"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "人類補完委員会",
+"en": "Instrumentality Committee"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "エヴァ",
+"en": "Eva"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "キール議長",
+"en": "Chairman Keel"
+},
+{
+"file": "MW016.DAT",
+"sec": 6,
+"ja": "お父さん",
+"en": "Dad"
+}
+]
+}
