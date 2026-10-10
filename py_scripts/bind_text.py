@@ -7,6 +7,7 @@ bind_text.py - read, translate and rebuild the BIND/TEXT files (GAME/IMTEXT.BIN,
   python bind_text.py stats     <file.BIN>
   python bind_text.py fit       <in.json> <out.json> [--width 30] [--lines 3]
 
+A file that starts directly with 'TEXT' (FREE/F2INFO.BIN) is a single section without the BIND wrapper.
 BIND layout (found by analysis):
   'BIND' u16 version u16 count | u32 alignment | u32 data_start | size table at 0x10
   size table: count entries, u16 each (version 2) or u32 each (version 4)
@@ -20,7 +21,9 @@ import sys, struct, json, re, collections
 def load(path):
     b = open(path, 'rb').read()
     magic, ver, n = struct.unpack_from('<4sHH', b, 0)
-    if magic != b'BIND': raise SystemExit('not a BIND file')
+    if magic == b'TEXT':                 # a bare TEXT section with no BIND wrapper (e.g. FREE/F2INFO.BIN)
+        return b, 0, 1, 1, 0, [len(b)]
+    if magic != b'BIND': raise SystemExit('not a BIND or TEXT file')
     align, start = struct.unpack_from('<II', b, 8)
     fmt, w = ('<%dH', 2) if ver == 2 else ('<%dI', 4)
     sizes = list(struct.unpack_from(fmt % n, b, 0x10))
@@ -81,8 +84,9 @@ def rebuild(b, ver, n, align, start, sizes, edits):
                 chunk = chunk + tail
         newsizes.append(len(chunk))
         out += chunk + b'\0' * (-len(chunk) % align)
-    fmt = '<%dH' if ver == 2 else '<%dI'
-    struct.pack_into(fmt % n, out, 0x10, *newsizes)
+    if ver != 0:
+        fmt = '<%dH' if ver == 2 else '<%dI'
+        struct.pack_into(fmt % n, out, 0x10, *newsizes)
     return bytes(out)
 
 def cells(s):
