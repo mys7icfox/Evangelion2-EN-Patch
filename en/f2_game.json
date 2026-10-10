@@ -1,0 +1,968 @@
+{
+ "notes": [
+  "Fill in \"en\". \"$n\" and other $ codes must be kept. Leave \"en\" empty to keep Japanese."
+ ],
+ "messages": [
+  {
+   "key": "0:792",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x1"
+   ],
+   "ja": "ＥＶＡの構造：広報公開情報\n情報コード：ＬＮ７ＷＫＵ４Ｉ\n\n　ネルフが開発した、対使徒戦用の汎用人型\n決戦兵器。\n　有線の電力供給で稼動。内部電源のみでは\n５分しかもたない。",
+   "en": "EVA Structure: Public Info\nInfo Code: LN7WKU4I\n\nA general-purpose humanoid decisive\nweapon developed by NERV for fighting\nAngels. It runs on power supplied by\ncable. On its internal battery alone, it\nlasts only 5 minutes."
+  },
+  {
+   "key": "0:972",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x101"
+   ],
+   "ja": "ＥＶＡの構造：一般情報\n情報コード：ＭＩ５３Ｆ８２Ｂ\n\n　２０００年、南極で発見された第一使徒を\nもとにクローン再生したものである。\n　その意味で使徒と同じような共通機構を\n持つ。その一例が、物理域にまで影響を\n及ぼすΑΤフィールドである。\n　エヴァと使徒との違いといえば、Σ機関\nと魂がなかったことである。",
+   "en": "EVA Structure: General Info\nInfo Code: MI53F82B\n\nIt was cloned from the First Angel\ndiscovered in Antarctica in 2000. In\nthat sense, it shares common mechanisms\nwith the Angels. One example is the A.T.\nField, which affects even the physical\nrealm. The only differences between the\nEvas and the Angels were that the Evas\nhad no Sigma Unit and no soul."
+  },
+  {
+   "key": "0:1280",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x201"
+   ],
+   "ja": "ＥＶＡの構造：非公開情報\n情報コード：０ＲＮＲＵ４５７\n\n　エヴァとは人の形を捨てた魂の入れ物で\nあり、自我の拡大＝大きな人間として具現化\nしたものである。\n　エヴァを操作するにあたって、魂の入って\nいないエヴァに、魂を入れる必要があった。\nこれをパイロットという。\n　だが、パイロットだけではエヴァは動か\nない。あるいはきちんとした性能を発揮する\n事が出来ないのである。",
+   "en": "EVA Structure: Classified Info\nInfo Code: 0RNRU457\n\nAn Eva is a vessel for a soul that has\ncast off the human form, the expansion\nof the self made manifest as a giant\nhuman. To operate an Eva, a soul had to\nbe put into the soulless Eva. That is\nwhat a Pilot is. But a Pilot alone\ncannot move an Eva. Or at least, it\ncannot perform properly."
+  },
+  {
+   "key": "0:1652",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x301"
+   ],
+   "ja": "ＥＶＡの構造：最深度情報\n情報コード：ＢＫＫ３ＪＫＧＪ\n\n　エヴァ＝神の肉体と魂たる人間の間に格差\nをなくすため、コアというユニットが使われ\nた。\n　コアにはパイロットの母の魂が入れられて\nおり、これを介在して操縦が出来るのである。$n\nＥＶＡの構造：最深度情報\n情報コード：ＢＫＫ３ＪＫＧＪ\n\n　零号機が性能的に劣っていたり、開発に難\n儀していたのはコアのシステムがうまく作ら\nれておらず、また零号機パイロット、レイに\n母がいなかったためである。",
+   "en": "EVA Structure: Top Secret Info\nInfo Code: BKK3JKGJ\n\nTo close the gap between the Eva, the\nbody of a god, and the human soul, a\nunit called the Core was used. The soul\nof the Pilot's mother is placed in the\nCore, and the Pilot controls the Eva\nthrough it.$n\nEVA Structure: Top Secret Info\nInfo Code: BKK3JKGJ\n\nUnit-00 was inferior in performance and\ndifficult to develop because its Core\nsystem was poorly made, and because Rei,\nthe Unit-00 Pilot, had no mother."
+  },
+  {
+   "key": "0:2096",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x2"
+   ],
+   "ja": "ＥＶＡ初号機：広報公開情報\n情報コード：ＸＦ６ＯＹＶＤＰ\n\n　パイロットはサード・チルドレン、\n碇シンジ。\nテストタイプのエヴァンゲリオンである。",
+   "en": "EVA Unit-01: Public Info\nInfo Code: XF6OYVDP\n\nThe Pilot is the Third Child, Shinji\nIkari. It is a test type Evangelion."
+  },
+  {
+   "key": "0:2248",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x102"
+   ],
+   "ja": "ＥＶＡ初号機：一般情報\n情報コード：ＷＩＴＵＤ１ＲＳ\n\n　初号機の開発過程において、接触実験の\n被験者となったのは、シンジの母である\n碇ユイであった。\n　尚、被験者の碇ユイは、２００４年、\n自ら希望して初号機との接触実験を行い、\n命を落としている。",
+   "en": "EVA Unit-01: General Info\nInfo Code: WITUD1RS\n\nThe subject of Unit-01's contact\nexperiment during its development was\nYui Ikari, Shinji's mother. In 2004, Yui\nvolunteered for the contact experiment\nwith Unit-01 and lost her life."
+  },
+  {
+   "key": "0:2500",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x202"
+   ],
+   "ja": "ＥＶＡ初号機：非公開情報\n情報コード：Ｍ８Ｕ２ＹＶＹＮ\n\n　通常、エヴァのコアにはパイロットとの\nリンクのために、パイロットの母の魂が\n入っている。\n　初号機の場合、ユイの魂である。",
+   "en": "EVA Unit-01: Classified Info\nInfo Code: M8U2YVYN\n\nNormally, an Eva's Core holds the soul\nof the Pilot's mother in order to link\nwith the Pilot. In Unit-01's case, it is\nYui's soul."
+  },
+  {
+   "key": "0:2688",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x302"
+   ],
+   "ja": "ＥＶＡ初号機：最深度情報\n情報コード：Ｍ０Ｚ４ＩＮＦ９\n\n　ゼーレにとっては、かねてから裏切りの\n気配があるゲンドウの息子が初号機のパイ\nロットという事を危険視している。\n　神の魂になる存在は、思い通りになる\n存在がいいとゼーレは考えていたのである。\n　一方、ゲンドウは初号機を自分の思い\n通りになる神にしようと企てている。",
+   "en": "EVA Unit-01: Top Secret Info\nInfo Code: M0Z4INF9\n\nSEELE views it as dangerous that the\nPilot of Unit-01 is the son of Gendo,\nwho has long shown signs of betrayal.\nSEELE believed that the being to become\nthe soul of a god should be one that\ndoes as it is told. Gendo, meanwhile,\nplots to make Unit-01 a god that obeys\nhim alone."
+  },
+  {
+   "key": "0:3012",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x3"
+   ],
+   "ja": "セカンド・チルドレン：広報公開情報\n情報コード：９ＥＦ０ＣＺ８Ｂ\n\n　惣流・アスカ・ラングレー、エヴァ\n弐号機パイロットである。\n　国籍はアメリカだが、ドイツと日本の\n血が流れるクォーターである。\n　１４歳でドイツの大学を卒業。",
+   "en": "Second Child: Public Info\nInfo Code: 9EF0CZ8B\n\nAsuka Langley Soryu, Pilot of Eva\nUnit-02. Her nationality is American,\nbut she is a quarter German and a\nquarter Japanese by blood. She graduated\nfrom a German university at age 14."
+  },
+  {
+   "key": "0:3244",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x103"
+   ],
+   "ja": "セカンド・チルドレン：一般情報\n情報コード：Ｙ１Ｋ０８８ＰＴ\n\n　アスカの母、惣流・キョウコ・ツェッペ\nリンがエヴァとの接触実験を行っている。\n　その結果、自分の娘を認識出来ないほど\nの重度の精神障害に陥った。",
+   "en": "Second Child: General Info\nInfo Code: Y1K088PT\n\nAsuka's mother, Kyoko Zeppelin Soryu,\ncarried out a contact experiment with an\nEva. As a result, she fell into severe\nmental illness and could no longer\nrecognize her own daughter."
+  },
+  {
+   "key": "0:3460",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x203"
+   ],
+   "ja": "セカンド・チルドレン：非公開情報\n情報コード：ＣＸＵＩ８ＯＢ３\n\n　母親のエヴァとの接触実験後、ほどなく\nマルドゥック機関より、アスカは弐号機\nパイロットとして選出される。",
+   "en": "Second Child: Classified Info\nInfo Code: CXUI8OB3\n\nSoon after her mother's contact\nexperiment with the Eva, the Marduk\nInstitute selected Asuka as the Pilot of\nUnit-02."
+  },
+  {
+   "key": "0:3636",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x303"
+   ],
+   "ja": "セカンド・チルドレン：最深度情報\n情報コード：５ＷＣＢＶ６ＦＵ\n\n　アスカの母はＥＶＡのコア実験の際に\n魂の一部、その中でも娘を愛する母性の\n部分だけがエヴァ弐号機に残った。\n　母が娘を娘と認識できなくなったのは\nそのせいである。",
+   "en": "Second Child: Top Secret Info\nInfo Code: 5WCBV6FU\n\nDuring the Eva Core experiment, only a\npart of Asuka's mother's soul remained\nin Eva Unit-02, the maternal part that\nloved her daughter. That is why her\nmother could no longer recognize her\ndaughter as her own."
+  },
+  {
+   "key": "0:3868",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x4"
+   ],
+   "ja": "碇ユイ：広報公開情報\n情報コード：ＤＨＤ５ＫＫＨＹ\n\n　碇シンジの母であり、ゲンドウの妻。\n２００４年に死亡、享年２７歳。",
+   "en": "Yui Ikari: Public Info\nInfo Code: DHD5KKHY\n\nMother of Shinji Ikari and wife of\nGendo. She died in 2004 at the age of\n27."
+  },
+  {
+   "key": "0:3996",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x104"
+   ],
+   "ja": "碇ユイ：一般情報\n情報コード：ＲＯＭＱＢ９ＧＬ\n\n　碇ユイは、優秀な遺伝子工学の権威で\nもあった。\n　２００４年、開発中の初号機に接触\n実験を行い、その実験中に死亡したと\nされる。",
+   "en": "Yui Ikari: General Info\nInfo Code: ROMQB9GL\n\nYui Ikari was also a leading authority\nin genetic engineering. In 2004, she\ncarried out a contact experiment with\nUnit-01, then in development, and is\nsaid to have died during the experiment."
+  },
+  {
+   "key": "0:4180",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x204"
+   ],
+   "ja": "碇ユイ：非公開情報\n情報コード：ＶＫＵＦＨＲ７Ｋ\n\n　ユイは、接触実験の被験者となった事で\n初号機にその魂を宿らせる事になった。\n　シンジが初号機パイロットになったのも、\nユイの魂が宿っているからである。",
+   "en": "Yui Ikari: Classified Info\nInfo Code: VKUFHR7K\n\nBy becoming the subject of the contact\nexperiment, Yui's soul came to dwell in\nUnit-01. That is also why Shinji became\nthe Pilot of Unit-01, because Yui's soul\nresides in it."
+  },
+  {
+   "key": "0:4388",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x304"
+   ],
+   "ja": "碇ユイ：最深度情報\n情報コード：６ＶＤＧＣ５Ｇ５\n\n　ユイは、ゼーレの有力者の子女の一人で\nあり、ゼーレの計画すら、それなりに理解\n出来る立場にあった。\n　ゲンドウはそれを知っており、ユイに\n近づいた。",
+   "en": "Yui Ikari: Top Secret Info\nInfo Code: 6VDGC5G5\n\nYui was a daughter of one of SEELE's\ninfluential figures, and was in a\nposition to understand even SEELE's\nplans to a fair degree. Gendo knew this,\nand approached Yui."
+  },
+  {
+   "key": "0:4592",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x5"
+   ],
+   "ja": "碇ゲンドウ：広報公開情報\n情報コード：ＢＧＺＧＵＪＴ２\n\n　ネルフの最高司令官であり、碇シンジの\n父である。\n　目的のためには手段を選ばない冷徹な\n性格の持ち主であり、部下からは少々苦手と\nされている。",
+   "en": "Gendo Ikari: Public Info\nInfo Code: BGZGUJT2\n\nSupreme Commander of NERV and father of\nShinji Ikari. He is a cold man who will\ndo whatever it takes to reach his goal,\nand his subordinates find him somewhat\nhard to deal with."
+  },
+  {
+   "key": "0:4796",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x105"
+   ],
+   "ja": "碇ゲンドウ：一般情報\n情報コード：ＤＡ１Ｒ８ＡＳＰ\n\n　かつて存在したゲヒルン、人工進化研究所\nの所長を務めていた。\n　情報操作、隠蔽工作を得意とし、ネルフの\n運営資金を得るために活動する。",
+   "en": "Gendo Ikari: General Info\nInfo Code: DA1R8ASP\n\nHe once served as director of Gehirn,\nthe Artificial Evolution Laboratory that\nused to exist. He excels at information\nmanipulation and cover-ups, and works to\nsecure NERV's operating funds."
+  },
+  {
+   "key": "0:4992",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x205"
+   ],
+   "ja": "碇ゲンドウ：非公開情報\n情報コード：Ｎ５Ｋ０Ｏ５６３\n\n　ゼーレと繋がりがある碇ユイと結婚し、\n自らもゼーレの一員となってＥ計画、人類\n補完計画、ネルフの実行責任者などの要職を\n歴任している。\n　ゼーレの構成員になったばかりの頃、\n南極へ向かった葛城調査隊の監査役をして\nいた。",
+   "en": "Gendo Ikari: Classified Info\nInfo Code: N5K0O563\n\nHe married Yui Ikari, who had ties to\nSEELE, and became a member of SEELE\nhimself. He has held key posts such as\nexecutive head of Project E, the Human\nInstrumentality Project, and NERV. When\nhe first joined SEELE, he served as\nauditor to the Katsuragi Expedition that\nwent to Antarctica."
+  },
+  {
+   "key": "0:5272",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x305"
+   ],
+   "ja": "碇ゲンドウ：最深度情報\n情報コード：Ｋ０５ＣＭＸＭＡ\n\n　ゲンドウは、ゼーレと同じく使徒の殲滅\nおよび、人類補完計画を目的としていたが、\nその実体は死んだユイと再会する事を目的と\nしている。\n　ゲンドウは反逆の意志を悟られないよう\n動きつづけ、ゼーレはこれを厳しく監視し、\n場合によっては脅しをかけている。",
+   "en": "Gendo Ikari: Top Secret Info\nInfo Code: K05CMXMA\n\nLike SEELE, Gendo aims at the\nannihilation of the Angels and the Human\nInstrumentality Project, but his true\naim is to be reunited with the late Yui.\nHe keeps moving so that his intent to\nrebel is not discovered, while SEELE\nwatches him closely and, when necessary,\nthreatens him."
+  },
+  {
+   "key": "0:5580",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x6"
+   ],
+   "ja": "特務機関ネルフ：広報公開情報\n情報コード：４８ＢＧＶ１ＬＴ\n\n　使徒の調査、研究およびその殲滅を目的と\nする国連直属の特務機関である。\n　本部は第３新東京市、アメリカに第１支部、\n第２支部、ドイツに第３支部がある。",
+   "en": "Special Agency NERV: Public Info\nInfo Code: 48BGV1LT\n\nA special agency under the direct\ncontrol of the UN, whose purpose is the\ninvestigation and study of the Angels\nand their annihilation. Its headquarters\nis in Tokyo-3, with Branch 1 and Branch\n2 in America and Branch 3 in Germany."
+  },
+  {
+   "key": "0:5800",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x106"
+   ],
+   "ja": "特務機関ネルフ：一般情報\n情報コード：０ＫＧＶ２８ＤＨ\n\n　政府とネルフとの関係はあまりいいもので\nはなく、使徒が来るのはネルフのせいだと\n考えている。\n　ネルフの予算承認権は国連の小組織である\n人類補完委員会が持っている。",
+   "en": "Special Agency NERV: General Info\nInfo Code: 0KGV28DH\n\nThe relationship between the government\nand NERV is not a good one, and the\ngovernment believes the Angels come\nbecause of NERV. Authority to approve\nNERV's budget lies with the Human\nInstrumentality Committee, a small UN\norganization."
+  },
+  {
+   "key": "0:6028",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x206"
+   ],
+   "ja": "特務機関ネルフ：非公開情報\n情報コード：１Ｗ９８Ｚ０ＱＰ\n\n　ネルフは、使途を殲滅するという目的の\n一方で、人類の進化＝神への道をも目指して\nいる。\n　両方の目的達成は、一つのキーの存在に\nよって行われる。\n　それが、エヴァである。",
+   "en": "Special Agency NERV: Classified Info\nInfo Code: 1W98Z0QP\n\nAlongside its goal of annihilating the\nAngels, NERV also aims for the evolution\nof mankind, the path to godhood. Both\ngoals are achieved through a single key.\nThat key is the Eva."
+  },
+  {
+   "key": "0:6264",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x306"
+   ],
+   "ja": "特務機関ネルフ：最深度情報\n情報コード：ＧＬ５７ＱＮ３Ｚ\n\n　ネルフ本部は、リリスを入れた黒い月の\n中に作られている。\n　使徒がネルフ本部を目指してやって来る\nのは、ターミナルドグマにある白い巨人、\nリリスに接触するためである。\n　使徒は、アダムではなく初めからリリスを\n目指していたのである。",
+   "en": "Special Agency NERV: Top Secret Info\nInfo Code: GL57QN3Z\n\nNERV Headquarters is built inside the\nBlack Moon, which holds Lilith. The\nAngels come toward NERV Headquarters in\norder to make contact with Lilith, the\nwhite giant in Terminal Dogma. The\nAngels were never after Adam. They were\nheading for Lilith from the start."
+  },
+  {
+   "key": "0:6560",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x7"
+   ],
+   "ja": "マルドゥック機関：広報公開情報\n情報コード：ＬＡ７ＺＣ５Ｕ２\n\n該当データなし。",
+   "en": "Marduk Institute: Public Info\nInfo Code: LA7ZC5U2\n\nNo data available."
+  },
+  {
+   "key": "0:6648",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x107"
+   ],
+   "ja": "マルドゥック機関：一般情報\n情報コード：ＭＬ５ＢＢＫＸＩ\n\n　エヴァのパイロット選出のために、設けら\nれた人類補完委員会直属の諮問機関である。\n　非公開に活動している事もあり、組織の\n実態は不透明である。",
+   "en": "Marduk Institute: General Info\nInfo Code: ML5BBKXI\n\nAn advisory body under the direct\ncontrol of the Human Instrumentality\nCommittee, established to select Eva\nPilots. It operates in secret, so the\ntrue nature of the organization remains\nunclear."
+  },
+  {
+   "key": "0:6856",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x207"
+   ],
+   "ja": "マルドゥック機関：非公開情報\n情報コード：５ＵＪＱＯ１ＭＡ\n\n　マルドゥック機関を構成する、１０８の\n関連企業はすべてダミーであり、本来その\nような組織は存在しない。\n　マルドゥック機関からネルフに提出されて\nいた報告書は、実はネルフ内で作成されて\nいたものである。",
+   "en": "Marduk Institute: Classified Info\nInfo Code: 5UJQO1MA\n\nThe 108 affiliated companies that\nsupposedly make up the Marduk Institute\nare all dummies. No such organization\nactually exists. The reports the Marduk\nInstitute submitted to NERV were in fact\nwritten inside NERV."
+  },
+  {
+   "key": "0:7124",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x307"
+   ],
+   "ja": "マルドゥック機関：最深度情報\n情報コード：ＥＭＯ０ＧＯ１Ｚ\n\n　マルドゥック機関による適格者選抜の\n偽装が必要な理由は、適格者をゲンドウが\n任意に選ぶ際、表向きにそれを出さない\nためにある。",
+   "en": "Marduk Institute: Top Secret Info\nInfo Code: EMO0GO1Z\n\nThe selection of Candidates by the\nMarduk Institute has to be faked because\nGendo chooses the Candidates at will,\nand he cannot let that show on the\nsurface."
+  },
+  {
+   "key": "0:7320",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x8"
+   ],
+   "ja": "ゲンドウの野望：広報公開情報\n情報コード：０Ｅ９Ｖ４ＹＪＴ\n\n　特務機関ネルフの最高司令官として、\nサードインパクトを未然に防ぐため、\n使徒殲滅を目的とする。",
+   "en": "Gendo's Ambition: Public Info\nInfo Code: 0E9V4YJT\n\nAs supreme commander of the special\nagency NERV, his goal is to annihilate\nthe Angels in order to prevent Third\nImpact."
+  },
+  {
+   "key": "0:7484",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x108"
+   ],
+   "ja": "ゲンドウの野望：一般情報\n情報コード：２ＦＬ０ＢＦＴＬ\n\n　使徒の殲滅および、人類補完計画を遂行\nする事を目的としている。",
+   "en": "Gendo's Ambition: General Info\nInfo Code: 2FL0BFTL\n\nHis goal is to annihilate the Angels and\nto carry out the Human Instrumentality\nProject."
+  },
+  {
+   "key": "0:7612",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x208"
+   ],
+   "ja": "ゲンドウの野望：非公開情報\n情報コード：６ＮＡＤＰＳＡ３\n\n　ゲンドウは神への道（人類補完計画）を\n目指すふりをしながら、その実体は死んだ\nユイと再会することを目的としている。\n　ゲンドウが初号機にこだわり、初号機に\nおいて神への道を開こうとしていたのは、\nその一点を問題にしていたからであった。",
+   "en": "Gendo's Ambition: Classified Info\nInfo Code: 6NADPSA3\n\nGendo pretends to pursue the path to\ngodhood, the Human Instrumentality\nProject, but his real aim is to be\nreunited with the dead Yui. That single\npoint is why Gendo clung to Unit-01 and\ntried to open the path to godhood\nthrough it."
+  },
+  {
+   "key": "0:7912",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x308"
+   ],
+   "ja": "ゲンドウの野望：最深度情報\n情報コード：Ｂ３８ＬＯ７０Ｙ\n\n　ゼーレがゼーレの意のままに扱える神を\n用意しようとしていたのに対して、ゲンドウ\nはゲンドウで、自分の思い通りに動く神を作\nろうと、裏では己の目的のために計画を進め\nていた。\n　ゲンドウは、復元中のアダムの欠片と融合\nし、レイ＝リリスとの融合を経て初号機との\n融合（ユイとの再会）を果たそうと思ってい\nる。",
+   "en": "Gendo's Ambition: Top Secret Info\nInfo Code: B38LO70Y\n\nWhile SEELE was preparing a god it could\ncontrol as it pleased, Gendo was\nsecretly advancing his own plan to\ncreate a god that moves as he wants.\nGendo intends to merge with a fragment\nof Adam that is being restored, then\nmerge with Unit-01 by way of Rei's\nfusion with Lilith, and so be reunited\nwith Yui."
+  },
+  {
+   "key": "0:8276",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x9"
+   ],
+   "ja": "ネルフの歴史：広報公開情報\n情報コード：２５ＥＵＰＱＷＺ\n\n　使徒と呼ばれる物体に対する調査、研究\nおよび、殲滅を目的として国連直属の特務\n機関として２０１０年に結成された。",
+   "en": "NERV History: Public Info\nInfo Code: 25EUPQWZ\n\nFormed in 2010 as a special agency\ndirectly under the United Nations, for\nthe investigation, research and\nannihilation of the objects known as\nAngels."
+  },
+  {
+   "key": "0:8456",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x109"
+   ],
+   "ja": "ネルフの歴史：一般情報\n情報コード：８ＫＸＺＧ５９Ｏ\n\n　ネルフはゼーレの目的を体現する実行組織\nであり、最も重要な組織となる、ゲヒルン\n時代とは違い、半ば公然とした組織である。\n　セカンドインパクトにより、ゼーレは\nむしろ先鋭化し、強力に計画を推進し始めた。$n\nネルフの歴史：一般情報\n情報コード：８ＫＸＺＧ５９Ｏ\n\n　ともかくも神の奇跡は本当に実在し、神に\n限りなく近い存在であるアダムも実在したの\nである。",
+   "en": "NERV History: General Info\nInfo Code: 8KXZG59O\n\nNERV is the executive organization that\nembodies SEELE's aims and has become its\nmost important body. Unlike the Gehirn\ndays, it is a semi-public organization.\nBecause of Second Impact, SEELE actually\ngrew more radical and began pushing its\nplan with force.$n\nNERV History: General Info\nInfo Code: 8KXZG59O\n\nIn any case, the miracle of God was\nreal, and so was Adam, a being as close\nto God as can be."
+  },
+  {
+   "key": "0:8864",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x209"
+   ],
+   "ja": "ネルフの歴史：非公開情報\n情報コード：ＢＴＢＴＺＩＵ９\n\n　アダムの発見は、確信となって、ゼーレの\n背中を押した。\n　黒い月、即ち箱根の発掘とリリスの発見、\n人工進化研究所の設立とそれに続くゲヒルン\nの構築、人類限界説の流布、人類補完委員会\nの設立、使徒との戦闘をにらんだ国連主導の\n世界構築。\n　これらは、セカンドインパクトに前後して\n一斉に行われた。$n\nネルフの歴史：非公開情報\n情報コード：ＢＴΑΤＺＩＵ９\n\n　そして、アダムの復活計画＝Ｅ計画。\n　聖書で言うアダムの肋骨から創ったという\nそれは、ＥＶＡと呼ばれた。\nこれらは順次行われ、そして今に続くことに\nなる。",
+   "en": "NERV History: Classified Info\nInfo Code: BTBTZIU9\n\nThe discovery of Adam turned into\nconviction and pushed SEELE onward. The\nexcavation of the Black Moon, that is\nHakone, and the discovery of Lilith. The\nfounding of the Artificial Evolution\nLaboratory and the building of Gehirn\nthat followed. The spread of the theory\nof human limits. The founding of the\nHuman Instrumentality Committee.$n\nNERV History: Classified Info\nInfo Code: BTBTZIU9\n\nThe building of a UN-led world order\nwith the battle against the Angels in\nmind. All of these were carried out at\nonce, around the time of Second Impact.$n\nNERV History: Classified Info\nInfo Code: BTATZIU9\n\nThen came the plan to resurrect Adam,\nthe E Project. The thing said to be made\nfrom Adam's rib, as in the Bible, was\ncalled EVA. These steps were taken one\nafter another, and they continue to this\nday."
+  },
+  {
+   "key": "0:9428",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x309"
+   ],
+   "ja": "ネルフの歴史：最深度情報\n情報コード：１ＥＧＣＹＫ５３\n\n　人類補完委員会。\n本来は国連の小委員会でしかないそこは、\n実質上世界を手玉にとるゼーレの下部組織で\nある。\n　この委員会は人類限界説を根拠とし、\nその対処を検討する存在として設立され、\n自前の研究機関を持つことになった。\nこれを人工進化研究所という。$n\nネルフの歴史：最深度情報\n情報コード：１ＥＧＣＹＫ５３\n\n　人工進化研究所はアダムの破片を手に入れ\nたことで、ゼーレのより強い介入を受け、\n組織体系を強化、実質上の直轄下部組織、\n秘密組織ゲヒルンとなった。\n　ゲヒルンは準備組織であり、次なる組織\nであるネルフの下地となった。\nそうして、ネルフが作られた。",
+   "en": "NERV History: Top Secret Info\nInfo Code: 1EGCYK53\n\nThe Human Instrumentality Committee.\nOriginally just a UN subcommittee, it is\nin effect a subordinate body of SEELE\nthat has the world in its hands. The\ncommittee was founded on the theory of\nhuman limits, to study how to deal with\nit, and came to have its own research\ninstitute. That is the Artificial\nEvolution Laboratory.$n\nNERV History: Top Secret Info\nInfo Code: 1EGCYK53\n\nAfter obtaining a fragment of Adam, the\nArtificial Evolution Laboratory came\nunder stronger SEELE intervention and\nreinforced its structure, becoming the\nsecret organization Gehirn, in effect a\ndirectly controlled subordinate. Gehirn\nwas a preparatory organization and\nbecame the groundwork for its successor,\nNERV. And so NERV was created."
+  },
+  {
+   "key": "0:10040",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x0",
+    "0xa"
+   ],
+   "ja": "人類補完計画の内容：広報公開情報\n情報コード：Ｉ２Ｖ６６ＭＦＯ\n\n　該当データなし。",
+   "en": "Instrumentality Project: Public Info\nInfo Code: I2V66MFO\n\nNo data available."
+  },
+  {
+   "key": "0:10132",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x10a"
+   ],
+   "ja": "人類補完計画の内容：一般情報\n情報コード：ＣＤＹＥ７ＰＦ２\n\n　Ｅ計画、アダム計画と並ぶネルフの三大\n計画の一つで、ゼーレがもっとも重要視する\nものである。",
+   "en": "Instrumentality Project: General Info\nInfo Code: CDYE7PF2\n\nOne of NERV's three great projects,\nalongside the E Project and the Adam\nProject, and the one SEELE considers\nmost important."
+  },
+  {
+   "key": "0:10292",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x20a"
+   ],
+   "ja": "人類補完計画の内容：非公開情報\n情報コード：ＣＥＶＥＧＱＳＮ\n\n　人類補完計画とは、不死を目指す計画で\nある。\n　エヴァはゼーレにとって重要な存在で、\n神への道を開く一つの鍵だった。\n　なぜならそれが、神にもっとも近い\nアダムのコピーだったからである。$n\n人類補完計画の内容：非公開情報\n情報コード：ＣＥＶＥＧＱＳＮ\n\n　まだ足りないものこそいくつかあるが、\nその部分さえどうにかすれば、人は神か、\nあるいはそれに限りなく近い存在を手に\n入れることが出来ると思われた。\n　それは人の足りない部分を補完する事で\n神への道が開かれるというゼーレの教義でも\nある。\n　人は神を拾ったら、何をするか。\n自分も神になろうと思ったのである。",
+   "en": "Instrumentality Project: Classified Info\nInfo Code: CEVEGQSN\n\nThe Human Instrumentality Project is a\nplan to attain immortality. To SEELE,\nthe Evas were vital, a key to opening\nthe path to godhood. This is because\nthey were copies of Adam, the being\nclosest to God.$n\nInstrumentality Project: Classified Info\nInfo Code: CEVEGQSN\n\nSome things were still lacking, but if\nthat part could be solved, humanity was\nthought able to obtain a god, or\nsomething very close to one. It is also\nSEELE's doctrine that the path to\ngodhood opens by completing what humans\nlack. When humans pick up a god, what do\nthey do? They decide to become gods\nthemselves."
+  },
+  {
+   "key": "0:10912",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x30a"
+   ],
+   "ja": "人類補完計画の内容：最深度情報\n情報コード：ＨＨＱ１ＯＰＮＦ\n\n　使徒との戦いが行われる一方、人が神へ\n至る道も、計画化されて進んでいた。\n　それは一つにΣ機関の搭載による魂の座\nである神の肉体＝ＥＶＡの完成である。\n　次に魂の混入の後、最後に天敵であり、\n保安装置であるロンギヌスの槍を消滅させる\n事で、誰によっても滅する事の出来ない神に\n近いものが完成する。\nあるいは神そのものが。$n\n人類補完計画の内容：最深度情報\n情報コード：ＨＨＱ１ＯＰＮＦ\n\n　ゼーレはこの人の作りし神によって、\n優良な者（自分達）を神に近いところへ\n導くつもりであった。",
+   "en": "Instrumentality Project: Top Secret Info\nInfo Code: HHQ1OPNF\n\nWhile the war with the Angels went on,\nthe path for humans to reach godhood was\nalso being planned and carried out.\nFirst, a divine body, the seat of the\nsoul, was to be completed as an Eva\nfitted with a Sigma Unit. Next, after\nthe soul is introduced, the Lance of\nLonginus, its natural enemy and\nsafeguard, is to be destroyed.$n\nInstrumentality Project: Top Secret Info\nInfo Code: HHQ1OPNF\n\nThis completes something close to a god\nthat no one can destroy. Or perhaps a\ngod itself.$n\nInstrumentality Project: Top Secret Info\nInfo Code: HHQ1OPNF\n\nWith this god made by human hands, SEELE\nintended to lead the superior ones,\nmeaning themselves, to a place close to\ngodhood."
+  },
+  {
+   "key": "0:11456",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0xb"
+   ],
+   "ja": "ゲヒルン：広報公開情報\n情報コード：Ｉ６ＸＷＮＥ５Ｓ\n\n該当データなし。",
+   "en": "Gehirn: Public Info\nInfo Code: I6XWNE5S\n\nNo data available."
+  },
+  {
+   "key": "0:11536",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x10b"
+   ],
+   "ja": "ゲヒルン：一般情報\n情報コード：ＪＭ７ＥＰＨ４Ｑ\n\n　ネルフの前身ともいえる調査組織。\n　２０１０年、赤城ナオコがマギシステム\nを完成させると同時に解体。\n　赤城ナオコを除き、構成員は全計画の\n遂行組織としてネルフに移行した。",
+   "en": "Gehirn: General Info\nInfo Code: JM7EPH4Q\n\nAn investigative organization that can\nbe called NERV's predecessor. It was\ndissolved in 2010 as Naoko Akagi\ncompleted the MAGI system. Except for\nNaoko Akagi, its members moved to NERV\nas the body carrying out all of the\nplans."
+  },
+  {
+   "key": "0:11764",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x20b"
+   ],
+   "ja": "ゲヒルン：非公開情報\n情報コード：ＴＵＤＳＫ９３Ｗ\n\n　ゲヒルンとは、人工進化研究所のゼーレの\n裏向きの機関の名称。\n　人工進化研究所は国連に認められた株組織\nで、人工進化の研究を表向きの目的として\n行っていた。",
+   "en": "Gehirn: Classified Info\nInfo Code: TUDSK93W\n\nGehirn is the name of the Artificial\nEvolution Laboratory's covert arm for\nSEELE. The Artificial Evolution\nLaboratory was a corporate body\nrecognized by the UN, and its stated\npurpose was research into artificial\nevolution."
+  },
+  {
+   "key": "0:11980",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x30b"
+   ],
+   "ja": "ゲヒルン：最深度情報\n情報コード：３ＦＤ９ＮＮＤＲ\n\n　ゲヒルンの目的は、アダム再生計画\n（Ｅ計画）。\n実際はコピーを作る事＝ＥＶＡを作る\n事であった。\n　そして、より実行に近づき拡大した\nスタイルとしてネルフを結成した。",
+   "en": "Gehirn: Top Secret Info\nInfo Code: 3FD9NNDR\n\nGehirn's purpose was the Adam\nRestoration Project, the E Project. In\nreality it meant making copies, that is,\nbuilding the Evas. Later, an expanded\nform closer to actual execution was\nformed as NERV."
+  },
+  {
+   "key": "0:12204",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0xc"
+   ],
+   "ja": "ゼーレ：広報公開情報\n情報コード：ＸＲＹＮＩ４Ｆ６\n\n該当データなし。",
+   "en": "SEELE: Public Info\nInfo Code: XRYNI4F6\n\nNo data available."
+  },
+  {
+   "key": "0:12280",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x10c"
+   ],
+   "ja": "ゼーレ：一般情報\n情報コード：１ＡＧ８ＷＸ４Ｚ\n\n　人類補完計画を遂行するためにネルフを\n背後から操る秘密結社。\n　ネルフの資金のほとんどはここから出て\nいる。",
+   "en": "SEELE: General Info\nInfo Code: 1AG8WX4Z\n\nA secret society that pulls NERV's\nstrings from behind in order to carry\nout the Human Instrumentality Project.\nAlmost all of NERV's funds come from\nhere."
+  },
+  {
+   "key": "0:12444",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x20c"
+   ],
+   "ja": "ゼーレ：非公開情報\n情報コード：ＬＫ５ＸＣＧＳＰ\n\n　中世暗黒期に誕生した、秘教秘密結社。\n元は、宗教教団であった。\n　ゼーレはゆるやかに確実に勢力を伸ばし、\nついに１９００年代中頃には最後の抵抗勢力\nを叩き潰して人類世界を裏から支配する隠然\nたる勢力となった。\n　これは２０１５年現在も続いている。",
+   "en": "SEELE: Classified Info\nInfo Code: LK5XCGSP\n\nAn esoteric secret society born in the\nmedieval Dark Ages. It was originally a\nreligious order. SEELE slowly and surely\nexpanded its power, and by the mid-1900s\nit had crushed the last of its\nopposition and become a hidden force\nruling the human world from behind. This\ncontinues even now in 2015."
+  },
+  {
+   "key": "0:12744",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x30c"
+   ],
+   "ja": "ゼーレ：最深度情報\n情報コード：ＶＱ３Ｇ８ＶＣＢ\n\n　裏死海文書を手に入れたゼーレは、\nそれまで先祖の世迷い話程度にしか思って\nいなかった教義にもう一度目を向ける事に\nなった。\n　神の奇跡を、預言という形で目の当たり\nにしたことで、信心に立ち返ったといって\nいい。$n\nゼーレ：最深度情報\n情報コード：ＶＱ３Ｇ８ＶＣＢ\n\n　教義とはアダム・カダモンへの道、\nすなわち不老不死の神に近づく事である。",
+   "en": "SEELE: Top Secret Info\nInfo Code: VQ3G8VCB\n\nAfter obtaining the Secret Dead Sea\nScrolls, SEELE took another look at a\ndoctrine it had thought no more than the\nravings of its ancestors. Seeing the\nmiracle of God before its eyes in the\nform of prophecy, it returned to faith,\none might say.$n\nSEELE: Top Secret Info\nInfo Code: VQ3G8VCB\n\nThe doctrine is the path to Adam Kadmon,\nthat is, drawing near to a god of\neternal youth and immortality."
+  },
+  {
+   "key": "0:13136",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0xd"
+   ],
+   "ja": "ΑΤフィールド：広報公開情報\n情報コード：ＢＷＹＧＭ１３Ｋ\n\n　使徒とエヴァだけが発生させる事が出来る\n絶対的な物理防壁。\n　使徒のΑΤフィールドの前には、地球上の\nあらゆる通常兵器は歯が立たない。\n　使徒との戦闘においては、エヴァがΑΤ\nフィールドを中和する。",
+   "en": "A.T. Field: Public Info\nInfo Code: BWYGM13K\n\nAn absolute physical barrier that only\nAngels and Evas can generate. In the\nface of an Angel's A.T. Field, every\nconventional weapon on Earth is useless.\nIn battle with an Angel, the Eva\nneutralizes the A.T. Field."
+  },
+  {
+   "key": "0:13400",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x10d"
+   ],
+   "ja": "ΑΤフィールド：一般情報\n情報コード：ＲＰＨ８ＧＭＤＧ\n\n　人間にもΑΤフィールドはあるが、使徒\nほどの強力な力を持たないと、物理力に影響\nを与えられない。",
+   "en": "A.T. Field: General Info\nInfo Code: RPH8GMDG\n\nHumans have A.T. Fields too, but unless\nthey are as powerful as an Angel's, they\ncannot affect physical force."
+  },
+  {
+   "key": "0:13560",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x20d"
+   ],
+   "ja": "ΑΤフィールド：非公開情報\n情報コード：６３ＩＩ２ＴＬＺ\n\n　魂の座が肉体で、それを決定するのが\nΑΤフィールド＝自我（他者と隔てる心\nの壁）である。\n　人が人たりえるのは、人がそう思って\nいるからである。",
+   "en": "A.T. Field: Classified Info\nInfo Code: 63II2TLZ\n\nThe body is the seat of the soul, and\nwhat defines it is the A.T. Field,\nmeaning the ego, the wall of the heart\nthat separates one from others. A person\ncan be a person because they believe\nthey are."
+  },
+  {
+   "key": "0:13768",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x30d"
+   ],
+   "ja": "ΑΤフィールド：最深度情報\n情報コード：ＢＢＬＭＺＹＪＬ\n\n　ΑΤフィールドの拡大、それの極限は\n無制限の自我＝神であり、その前で人は\n自我を崩壊してＬＣＬに戻る。",
+   "en": "A.T. Field: Top Secret Info\nInfo Code: BBLMZYJL\n\nThe ultimate expansion of the A.T. Field\nis unlimited ego, which is God. Faced\nwith it, humans lose their egos and\nreturn to LCL."
+  },
+  {
+   "key": "0:13936",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0xe"
+   ],
+   "ja": "Σ機関：広報公開情報\n情報コード：１ＷＷ１０Ｔ６Ｚ\n\n　該当データなし。",
+   "en": "Sigma Unit: Public Info\nInfo Code: 1WW10T6Z\n\nNo data available."
+  },
+  {
+   "key": "0:14016",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x10e"
+   ],
+   "ja": "Σ機関：一般情報\n情報コード：４ＰＡＳＮＷＧＦ\n\n　スーパーソレノイド機関という、使徒の\n永久動力機関である。\n　自己修復機能、変形などの生物の常識を\n超えた使徒の能力はこれによるものと思わ\nれる。",
+   "en": "Sigma Unit: General Info\nInfo Code: 4PASNWGF\n\nThe Super Solenoid Engine, a perpetual\npower source of the Angels. It is\nthought to be the source of abilities\nbeyond the common sense of living\nthings, such as self-repair and\ntransformation."
+  },
+  {
+   "key": "0:14216",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x20e"
+   ],
+   "ja": "Σ機関：非公開情報\n情報コード：Ｐ７ＹＮＯ２ＹＦ\n\n　Σ機関の理論は葛城博士によって提唱\nされた。\n　世界は螺旋で出来ており、ＤＮＡと同じ\nその形からエネルギーを得ている。\n　ここから螺旋のエネルギー＝無尽蔵の\nエネルギーを得ようとするエンジンとして\nΣ機関の存在が構想されていた。",
+   "en": "Sigma Unit: Classified Info\nInfo Code: P7YNO2YF\n\nThe theory of the Sigma Unit was\nproposed by Dr. Katsuragi. The world is\nbuilt on spirals, and draws energy from\nthat form, just like DNA. The Sigma Unit\nwas conceived as an engine to draw on\nthis spiral energy, an inexhaustible\nsource of power."
+  },
+  {
+   "key": "0:14500",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x30e"
+   ],
+   "ja": "Σ機関：最深度情報\n情報コード：ＦＲ０ＳＤ２６１\n\n　生命の実。\n　エヴァがアダムと同等の存在になるために\n足りない物の一つである。",
+   "en": "Sigma Unit: Top Secret Info\nInfo Code: FR0SD261\n\nThe fruit of life. It is one of the\nthings Evas lack in order to become\nequal to Adam."
+  },
+  {
+   "key": "0:14636",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0xf"
+   ],
+   "ja": "使徒：広報公開情報\n情報コード：５７２Ｃ７ＱＪＵ\n\n該当データなし。",
+   "en": "Angel: Public Info\nInfo Code: 572C7QJU\n\nNo data available."
+  },
+  {
+   "key": "0:14712",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x10f"
+   ],
+   "ja": "使徒：一般情報\n情報コード：Ｋ１９４ＱＧ５Ｆ\n\n　生物／非生物の概念を越えた、正体不明の\n人類の敵。\n　通常兵器による攻撃では、まったく歯が\n立たず圧倒的な攻撃力を持つ。\n　第３新東京市地下、ジオフロントにある\nネルフ本部を目指して侵攻して来る。",
+   "en": "Angel: General Info\nInfo Code: K194QG5F\n\nThe enemy of humanity, whose true nature\nis unknown and beyond the concepts of\nliving and nonliving. Conventional\nweapons are completely useless against\nthem, and their attack power is\noverwhelming. They advance toward NERV\nHeadquarters in the Geofront beneath\nTokyo-3."
+  },
+  {
+   "key": "0:14960",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x20f"
+   ],
+   "ja": "使徒：非公開情報\n情報コード：ＥＸＤＤＷＦＥＤ\n\n　アダムから生まれた生命こそが使徒で\nある。\n　一方、リリスから誕生したのは人類で\nある。\n　リリスから誕生した生物に比べて、\n巨大で単一という性質を有する生物であ\nる。\n　アダムベースの生命は、本来地球で芽\n吹き、そこで繁栄するはずの生命だった。",
+   "en": "Angel: Classified Info\nInfo Code: EXDDWFED\n\nAngels are the life born from Adam.\nHumanity, on the other hand, was born\nfrom Lilith. Compared with life born\nfrom Lilith, they are giant and singular\nin nature. Adam-based life was\noriginally meant to sprout and flourish\non Earth."
+  },
+  {
+   "key": "0:15256",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x30f"
+   ],
+   "ja": "使徒：最深度情報\n情報コード：ＯＷ３Ｔ４２ＸＴ\n\n　一つの星に二つの生命の種はいらない、\nだから、片方は排除する。\n　裏死海文書に記された内容通りに、\nアダムベースの生命は己の生存をかけた\n生存競争を挑んできた。\n　あるものは、リリスにアクセスすること\nで全生命にリセットをかけようと、あるも\nのは何も考えず、あるものは始祖アダムを\n取り返すために。$n\n使徒：最深度情報\n情報コード：ＯＷ３Ｔ４２ＸＴ\n\n　それぞれの生存繁栄戦略の元、アダム\nベースの生命、使徒は動き出すことに\nなった。",
+   "en": "Angel: Top Secret Info\nInfo Code: OW3T42XT\n\nOne planet has no need for two seeds of\nlife, so one must be eliminated. Just as\nthe Hidden Dead Sea Scrolls describe,\nAdam-based life challenged us to a\nstruggle for survival. Some seek to\nreset all life by accessing Lilith, some\nthink of nothing at all, and some come\nto take back the progenitor Adam.$n\nAngel: Top Secret Info\nInfo Code: OW3T42XT\n\nEach following its own strategy for\nsurvival and prosperity, the Adam-based\nlife, the Angels, began to move."
+  },
+  {
+   "key": "0:15736",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x10"
+   ],
+   "ja": "アダム：広報公開情報\n情報コード：Ｖ０Ｒ９ＣＭＭ４\n\n該当データなし。",
+   "en": "Adam: Public Info\nInfo Code: V0R9CMM4\n\nNo data available."
+  },
+  {
+   "key": "0:15812",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x110"
+   ],
+   "ja": "アダム：一般情報\n情報コード：Ｙ５９Ｆ０ＮＮＵ\n\n　第一使徒。\n　ターミナルドグマで磔にされている白い\n巨人。",
+   "en": "Adam: General Info\nInfo Code: Y59F0NNU\n\nThe First Angel. A white giant crucified\nin Terminal Dogma."
+  },
+  {
+   "key": "0:15928",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x210"
+   ],
+   "ja": "アダム：非公開情報\n情報コード：Ａ２ＬＱ２Ｓ５Ｂ\n\n　第一始祖民族によって地球に着床した、\n生命の始源たる存在。\n　葛城調査隊により南極で発見されたが、\n調査中、Σ機関の人為的暴走により\nばらばらの肉片となって退化した。",
+   "en": "Adam: Classified Info\nInfo Code: A2LQ2S5B\n\nThe origin of life, implanted on Earth\nby the First Ancestral Race. It was\ndiscovered in Antarctica by the\nKatsuragi Expedition, but during the\ninvestigation the Sigma Unit was\ndeliberately sent out of control, and it\nregressed into scattered pieces of\nflesh."
+  },
+  {
+   "key": "0:16152",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x310"
+   ],
+   "ja": "アダム：最深度情報\n情報コード：ＳＮ０ＸＴ２５Ｄ\n\n　アダムには魂がなかった。セカンドイン\nパクトの時、肉体がばらばらになり、魂は\nどこかに飛んでいたのである。\n　魂は後にゼーレによって回収、受肉され、\nこれは渚カヲルという形になる。\n　カヲルにしてみればエヴァは自分の身体の\n一部だから、自由に扱える。ただし、中には\n入れない。なぜならその身体には、魂\n（パイロットの母の）があるからである。",
+   "en": "Adam: Top Secret Info\nInfo Code: SN0XT25D\n\nAdam had no soul. At the time of Second\nImpact, the body was torn apart and the\nsoul flew off somewhere. The soul was\nlater recovered by SEELE and given\nflesh, taking the form of Kaworu Nagisa.\nTo Kaworu, the Evas are part of his own\nbody, so he can handle them freely.$n\nAdam: Top Secret Info\nInfo Code: SN0XT25D\n\nHowever, he cannot enter them, because\nthose bodies hold a soul, the pilot's\nmother."
+  },
+  {
+   "key": "0:16544",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x11"
+   ],
+   "ja": "死海文書：広報公開情報\n情報コード：ＸＯＸＣＯＱ７Ｉ\n\n　該当データなし。",
+   "en": "Dead Sea Scrolls: Public Info\nInfo Code: XOXCOQ7I\n\nNo data available."
+  },
+  {
+   "key": "0:16624",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x111"
+   ],
+   "ja": "死海文書：一般情報\n情報コード：８１ＬＭＲＡＢ２\n\n　使徒の出現時期が記されていた預言書、\n未来記である。",
+   "en": "Dead Sea Scrolls: General Info\nInfo Code: 81LMRAB2\n\nA book of prophecy, a record of the\nfuture, that describes when the Angels\nwould appear."
+  },
+  {
+   "key": "0:16736",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x211"
+   ],
+   "ja": "死海文書：非公開情報\n情報コード：ＧＲ０Ｃ３Ｓ６Ｐ\n\n　ゼーレは、巨額の富を持つがゆえに芸術\nや学術のパトロン集団という側面も持って\nいた。\n　人工進化研究所、ゲヒルンなどは、全て\nゼーレの出資によるものである。\n　元が宗教教団であったためか、ゼーレは\n己の宗教の遺構調査の資金援助等も良くこな\nした。$n\n死海文書：非公開情報\n情報コード：ＧＲ０Ｃ３Ｓ６Ｐ\n\n　この中でゼーレにとっても、人類にとっ\nても重要な転機となるものが発掘される。\n　裏死海文書である。",
+   "en": "Dead Sea Scrolls: Classified Info\nInfo Code: GR0C3S6P\n\nBecause of its vast wealth, SEELE also\nserved as a patron of the arts and\nsciences. The Artificial Evolution\nLaboratory, Gehirn and others were all\nfunded by SEELE. Perhaps because it\nbegan as a religious order, SEELE also\ngenerously funded surveys of ruins tied\nto its own religion.$n\nDead Sea Scrolls: Classified Info\nInfo Code: GR0C3S6P\n\nAmong these, something of great\nturning-point importance to both SEELE\nand humanity was unearthed. The Hidden\nDead Sea Scrolls."
+  },
+  {
+   "key": "0:17192",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x311"
+   ],
+   "ja": "死海文書：最深度情報\n情報コード：ＸＨＴＺ１ＳＵＢ\n\n　裏死海文書は、第一始祖民族が生命の種\n（始源の存在）と、保安装置であるロンギヌ\nスの槍の使い方を記したマニュアル、あるい\nは運用時の計画書を、宗教集団が己の教義に\nあてはめつつ写本したものである。\n　過去の計画書で今も動きつづける点では、\n預言書である。$n\n死海文書：最深度情報\n情報コード：ＸＨＴＺ１ＳＵＢ\n\n　それまでゼーレ自身は断片的にその内容、\n存在を知っていたが、まさか実際に存在し、\n意味ある預言が存在し、完全に近い形で出て\nくるとは、思ってもいなかったのである。$n\n死海文書：最深度情報\n情報コード：ＸＨＴＺ１ＳＵＢ\n\n　それはすぐさま本部に送られ、そして、\n事実自体はすぐに情報操作されて隠蔽される\nことになった。\n　後に公表された重要でないものを死海文書、\nゼーレが持ち去ったものを、裏死海文書と\nいう。",
+   "en": "Dead Sea Scrolls: Top Secret Info\nInfo Code: XHTZ1SUB\n\nThe Hidden Dead Sea Scrolls are a copy\nmade by a religious group, fitted to its\nown doctrine, of a manual or operating\nplan left by the First Ancestral Race.\nIt describes the seed of life, the\nsource being, and how to use the Lance\nof Longinus, the safety device. As a\nplan from the past that still moves on\ntoday, it is a book of prophecy.$n\nDead Sea Scrolls: Top Secret Info\nInfo Code: XHTZ1SUB\n\nUntil then SEELE itself knew of its\ncontents and existence only in\nfragments. They never imagined that it\nreally existed, held meaningful\nprophecy, and would turn up in nearly\ncomplete form.$n\nDead Sea Scrolls: Top Secret Info\nInfo Code: XHTZ1SUB\n\nIt was sent to Headquarters at once, and\nthe facts were quickly buried through\ninformation control. The unimportant\nparts released later are called the Dead\nSea Scrolls, and what SEELE carried off\nis called the Hidden Dead Sea Scrolls."
+  },
+  {
+   "key": "0:17956",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x12"
+   ],
+   "ja": "第一始祖民族：広報公開情報\n情報コード：Ｃ９Ｍ２ＮＺ７Ｗ\n\n該当データ無し。",
+   "en": "First Ancestral Race: Public Info\nInfo Code: C9M2NZ7W\n\nNo data available."
+  },
+  {
+   "key": "0:18040",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x112"
+   ],
+   "ja": "第一始祖民族：一般情報\n情報コード：ＨＢ５Ｗ６ＪＭＧ\n\n　使徒を創ったとされる存在。\nその目的の詳細は不明である。",
+   "en": "First Ancestral Race: General Info\nInfo Code: HB5W6JMG\n\nThe beings said to have created the\nAngels. The details of their purpose are\nunknown."
+  },
+  {
+   "key": "0:18160",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x212"
+   ],
+   "ja": "第一始祖民族：非公開情報\n情報コード：Ｅ８Ｙ２ＩＥ１Ｚ\n\n　最初に宇宙人がいた。\n　第一始祖民族とも言われるその人型種族は、\n銀河系の各地に生命の種をばら蒔き始めた。\n　その理由がなんだったのか、何を目指して\nいたのか今となっては、分からない。\n　はっきりしている事は複数の種がばら蒔か\nれた事である。$n\n第一始祖民族：非公開情報\n情報コード：Ｅ８Ｙ２ＩＥ１Ｚ\n\n　運の悪い事に、そのうち二つが、たま\nたま同じ星に落ちた。\n　白い月のアダム、そして黒い月のリリスで\nある。",
+   "en": "First Ancestral Race: Classified Info\nInfo Code: E8Y2IE1Z\n\nIn the beginning, there were aliens.\nThis humanoid race, also called the\nFirst Ancestral Race, began scattering\nseeds of life across the galaxy. What\ntheir reason was, or what they were\naiming for, can no longer be known. What\nis clear is that multiple seeds were\nscattered.$n\nFirst Ancestral Race: Classified Info\nInfo Code: E8Y2IE1Z\n\nUnluckily, two of them happened to fall\non the same planet. They were Adam of\nthe White Moon and Lilith of the Black\nMoon."
+  },
+  {
+   "key": "0:18628",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x312"
+   ],
+   "ja": "第一始祖民族：最深度情報\n情報コード：ＶＥＯＫＣＱ３Ｑ\n\n　第一始祖民族は月というキャリア（運び\n屋）の中に完全なる空洞（これも月）を\n作り、そこに始源の存在という種を入れて\n宇宙に送り出した。\n　それこそが、彼らのテクノロジーであり\nまた、使徒や人類からすれば、彼らは神とも\n言える。",
+   "en": "First Ancestral Race: Top Secret Info\nInfo Code: VEOKCQ3Q\n\nThe First Ancestral Race built a\nperfectly hollow space, which was also a\nmoon, inside a moon acting as a carrier,\nput the seed of the source being inside\nit, and sent it out into space. That was\ntheir technology. To the Angels and to\nhumanity, they could be called gods."
+  },
+  {
+   "key": "0:18916",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x13"
+   ],
+   "ja": "第二使徒：広報公開情報\n情報コード：ＦＸＹ１１９Ｇ８\n\n該当データなし。",
+   "en": "Second Angel: Public Info\nInfo Code: FXY119G8\n\nNo data available."
+  },
+  {
+   "key": "0:18996",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x113"
+   ],
+   "ja": "第二使徒：一般情報\n情報コード：Ｉ２Ｔ６０ＣＬＴ\n\n　第二使徒はリリスという。\n　黒い月を運ぶ、月（地球の衛星となった）\nから来た。\n　月と地球の接触による、ジャイアント\nインパクト＝ファーストインパクトを引き\n起こした。",
+   "en": "Second Angel: General Info\nInfo Code: I2T60CLT\n\nThe Second Angel is called Lilith. It\ncame from the Moon, which became Earth's\nsatellite, carrying the Black Moon. The\ncontact between the Moon and Earth\ncaused the Giant Impact, the First\nImpact."
+  },
+  {
+   "key": "0:19220",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x213"
+   ],
+   "ja": "第二使徒：非公開情報\n情報コード：ＱＷＪ２５ＮＲＤ\n\n　ターミナルドグマに磔にされている白い\n巨人であり、猿やイルカ、最終形態として\nリリン、すなわち人類を生み出した。\n　なお、ＬＣＬ液体は、リリスの体液で\nある。",
+   "en": "Second Angel: Classified Info\nInfo Code: QWJ25NRD\n\nA white giant crucified in Terminal\nDogma. It gave birth to apes, dolphins,\nand in its final form the Lilin, that\nis, humanity. Incidentally, LCL fluid is\nLilith's bodily fluid."
+  },
+  {
+   "key": "0:19436",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x313"
+   ],
+   "ja": "第二使徒：最深度情報\n情報コード：３５ＧＷＮＬ０５\n\n　リリスには魂がなかった。そして、その\n魂は、レイに宿っていた。\n　レイの肉体のコピーはいくらでも作れたが、\nレイそのものが常に一体しか存在しえなかっ\nたのはこのためである。\n　レイはユイの肉体のコピーではあっても、\n魂はそうでなかったのである。",
+   "en": "Second Angel: Top Secret Info\nInfo Code: 35GWNL05\n\nLilith had no soul. That soul resided in\nRei. Copies of Rei's body could be made\nwithout limit, but only one Rei herself\ncould ever exist, and this is why. Rei\nwas a copy of Yui's body, but her soul\nwas not."
+  },
+  {
+   "key": "0:19736",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x14"
+   ],
+   "ja": "セカンドインパクト：広報公開情報\n情報コード：ＷＫＱ２Ｑ０ＹＺ\n\n　２０００年９月１３日、南極に巨大隕石が\n落下した。\n　これによる大爆発で発生した大津波と溶け\n出した氷により、海抜は数十メートル上昇。\n南半球諸島あわせて２０億以上の人々が\n死亡。$n\nセカンドインパクト：広報公開情報\n情報コード：ＷＫＱ２Ｑ０ＹＺ\n\n　爆発のエネルギーで地軸は曲がり、地球\n規模で気象は変化し日本は常夏の国になって\nしまった。\n　このセカンドインパクトにより、世界各地\nで干ばつ、洪水、噴火や異常気象が発生。\n　各国に経済恐慌と内戦が起きた。",
+   "en": "Second Impact: Public Info\nInfo Code: WKQ2Q0YZ\n\nOn September 13, 2000, a giant meteorite\nfell on Antarctica. The massive\nexplosion caused huge tsunamis and\nmelted ice, raising sea levels by tens\nof meters. Over 2 billion people died\nacross the southern hemisphere islands.$n\nSecond Impact: Public Info\nInfo Code: WKQ2Q0YZ\n\nThe energy of the blast bent the Earth's\naxis, changed the weather worldwide, and\nturned Japan into a land of eternal\nsummer. The Second Impact caused\ndroughts, floods, eruptions, and\nabnormal weather around the world.\nNations suffered economic panic and\ncivil war."
+  },
+  {
+   "key": "0:20256",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x114"
+   ],
+   "ja": "セカンドインパクト：一般情報\n情報コード：ＢＫＳＲＹ９ＮＯ\n\n　２０００年、人類は最初の使徒と呼称する\n人型の生命体を南極で発見。\nその調査中に原因不明の大爆発が発生した\nものである。\n　一般に知られている隕石衝突による説は、\n情報操作されたものである。",
+   "en": "Second Impact: General Info\nInfo Code: BKSRY9NO\n\nIn 2000, humanity discovered a humanoid\nlife form in Antarctica, designated the\nFirst Angel. During its investigation, a\nmassive explosion of unknown cause\noccurred. The commonly known meteorite\ntheory was the result of information\ncontrol."
+  },
+  {
+   "key": "0:20512",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x214"
+   ],
+   "ja": "セカンドインパクト：非公開情報\n情報コード：ＸＸＣ９Ｑ１ＪＮ\n\n　セカンドインパクトの原因となった、\n第一使徒アダムは、南極で葛城調査隊に\nより発見された。\n　ゼーレによる出資で葛城調査隊はアダムと\nロンギヌスの槍が入った白い月を発見する事\nになる。",
+   "en": "Second Impact: Classified Info\nInfo Code: XXC9Q1JN\n\nThe First Angel Adam, the cause of the\nSecond Impact, was found in Antarctica\nby the Katsuragi Expedition. Funded by\nSEELE, the Katsuragi Expedition\ndiscovered the White Moon containing\nAdam and the Lance of Longinus."
+  },
+  {
+   "key": "0:20764",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x314"
+   ],
+   "ja": "セカンドインパクト：最深度情報\n情報コード：ＥＰＳ３５１Ｄ３\n\n　人間は、もう一つの生命の種であるアダム\nを目覚めさせてしまった。\n　葛城調査隊はロンギヌスの槍を使い必死に\n再封印しようとするが、失敗。$n\nセカンドインパクト：最深度情報\n情報コード：ＥＰＳ３５１Ｄ３\n\n　最終的にはΣ機関の人為的暴走と思わ\nれる（詳細は、調査隊が全滅しているために\n不明）現象で、完全な破局＝ΑΤフィールド\n消失による全生命のリセットとアダムベース\nの生態系構築だけは阻止される形になった。\n　これを、セカンドインパクトという。\n　この事件でアダムは、ばらばらの肉片と\nなってしまった。",
+   "en": "Second Impact: Top Secret Info\nInfo Code: EPS351D3\n\nHumanity awakened Adam, the other seed\nof life. The Katsuragi Expedition\ndesperately tried to reseal it with the\nLance of Longinus, but failed.$n\nSecond Impact: Top Secret Info\nInfo Code: EPS351D3\n\nIn the end, a phenomenon thought to be\nan artificial runaway of the Sigma Unit,\nwith details unknown since the\nexpedition was wiped out, prevented a\ntotal catastrophe: the loss of the A.T.\nField, the reset of all life, and the\nbuilding of an Adam-based ecosystem.\nThis is the Second Impact.$n\nSecond Impact: Top Secret Info\nInfo Code: EPS351D3\n\nIn the incident, Adam was reduced to\nscattered pieces of flesh."
+  },
+  {
+   "key": "0:21328",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x15"
+   ],
+   "ja": "サードインパクト：広報公開情報\n情報コード：５ＲＷＭＫＯ７１\n\n該当データなし。",
+   "en": "Third Impact: Public Info\nInfo Code: 5RWMKO71\n\nNo data available."
+  },
+  {
+   "key": "0:21416",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x115"
+   ],
+   "ja": "サードインパクト：一般情報\n情報コード：ＫＰＮＱＯＲＯＣ\n\n　ネルフ職員には使徒がターミナルドグマの\n白い巨人、アダムと接触するとセカンドイン\nパクト同等の爆発が起こると説明されている。\n　実際には人類補完計画の発動となる。",
+   "en": "Third Impact: General Info\nInfo Code: KPNQOROC\n\nNERV staff are told that if an Angel\nmakes contact with Adam, the white giant\nin Terminal Dogma, an explosion equal to\nthe Second Impact will occur. In\nreality, it would trigger the Human\nInstrumentality Project."
+  },
+  {
+   "key": "0:21644",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x215"
+   ],
+   "ja": "サードインパクト：非公開情報\n情報コード：ＬＱ４Ｎ６ＰＣ２\n\n　ターミナルドグマのリリス、またはアダム\nのどちらかでも使徒が接触すると、サード\nインパクトが発生するとされる。",
+   "en": "Third Impact: Classified Info\nInfo Code: LQ4N6PC2\n\nIf an Angel makes contact with either\nLilith or Adam in Terminal Dogma, the\nThird Impact is said to occur."
+  },
+  {
+   "key": "0:21824",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x315"
+   ],
+   "ja": "サードインパクト：最深度情報\n情報コード：ＺＢＮＰＱＵ９０\n\nサードインパクトの正体は、人が人の境界\nを失い、人が融けることを言う。\n　生命は終末を迎え（終末の内容は不明）、\nΑΤフィールドを失う（人間の形も維持\n出来なくなる）。",
+   "en": "Third Impact: Top Secret Info\nInfo Code: ZBNPQU90\n\nThe truth of the Third Impact is that\npeople lose the boundaries between\nthemselves and melt together. Life meets\nits end, with the nature of that end\nunknown, and loses its A.T. Field, so\neven the human form can no longer be\nmaintained."
+  },
+  {
+   "key": "0:22056",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x16"
+   ],
+   "ja": "ロンギヌスの槍：広報公開情報\n情報コード：２６ＪＺＨＩＴ７\n\n該当データなし。",
+   "en": "Lance of Longinus: Public Info\nInfo Code: 26JZHIT7\n\nNo data available."
+  },
+  {
+   "key": "0:22140",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x116"
+   ],
+   "ja": "ロンギヌスの槍：一般情報\n情報コード：８ＹＷ０ＲＱＷＮ\n\n　南極で、白い月からアダムと共に発見\nされた。\n　ロンギヌスの槍は本来生命の種とセットに\nなった保安装置である。",
+   "en": "Lance of Longinus: General Info\nInfo Code: 8YW0RQWN\n\nFound in Antarctica together with Adam,\ninside the White Moon. The Lance of\nLonginus was originally a safety device\npaired with a seed of life."
+  },
+  {
+   "key": "0:22316",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x216"
+   ],
+   "ja": "ロンギヌスの槍：非公開情報\n情報コード：Ｘ４ＵＮ６ＵＢＵ\n\n　意志を持った槍であり、自力で移動する\n能力も持つ一種の生命体である。\n　これは神に近い＝不死の力を持った生命の\n種（始源の存在）の動きを停止させる事が\n出来るアイテムであり、生命の種（始源の\n存在）が神に及ばない、その理由でもある。\n　第一始祖民族は生命の種（始源の存在）が\n自分達の目的に沿わないときの対策として\nこれを用意していた。$n\nロンギヌスの槍：非公開情報\n情報コード：Ｘ４ＵＮ６ＵＢＵ\n\n　リリスと対になっているロンギヌスの槍は\nおそらくファーストインパクトの時の衝撃で\nリリスから抜けて離れ離れになったと思われ\nる。\n　この槍は今も見つかっていない。ひょっと\nすれば破壊されたのかもしれない。",
+   "en": "Lance of Longinus: Classified Info\nInfo Code: X4UN6UBU\n\nA lance with a will of its own, a kind\nof life form able to move on its own. It\ncan halt the movement of a seed of life,\na primordial being with near-divine,\nimmortal power, and this is why such\nseeds fall short of God. The First\nAncestral Race prepared it as a\ncountermeasure in case a seed of life\ndid not follow their purposes.$n\nLance of Longinus: Classified Info\nInfo Code: X4UN6UBU\n\nThe Lance of Longinus, paired with\nLilith, probably came loose from Lilith\nin the impact of the First Impact and\nthe two were separated. The lance has\nnever been found. It may even have been\ndestroyed."
+  },
+  {
+   "key": "0:22976",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x316"
+   ],
+   "ja": "ロンギヌスの槍：最深度情報\n情報コード：６ＣＹＢＢＧＱＨ\n\n　ゲンドウやゼーレが、神への道を開く\nためにそれまでやってきたリリスの増殖を\n最終段階まで一時的に止めるために、ネルフ\nはアダムとセットになっていたロンギヌスの\n槍を、輸送する事になる。",
+   "en": "Lance of Longinus: Top Secret Info\nInfo Code: 6CYBBGQH\n\nTo temporarily halt the propagation of\nLilith, which Gendo and SEELE had\ncarried out to open the path to God,\nuntil its final stage, NERV was to\ntransport the Lance of Longinus that had\nbeen paired with Adam."
+  },
+  {
+   "key": "0:23224",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x17"
+   ],
+   "ja": "ダミープラグ：広報公開情報\n情報コード：Ｊ０ＢＺＡＱ５Ｖ\n\n該当データ無し。",
+   "en": "Dummy Plug: Public Info\nInfo Code: J0BZAQ5V\n\nNo data available."
+  },
+  {
+   "key": "0:23308",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x117"
+   ],
+   "ja": "ダミープラグ：一般情報\n情報コード：ＤＪＪＢＺ３ＴＧ\n\n　ダミーシステム用に開発された、エント\nリープラグ。パイロットがいなくても、\nエヴァをパイロットがそこにいるかのように\n思わせる事で起動させる事が出来る。",
+   "en": "Dummy Plug: General Info\nInfo Code: DJJBZ3TG\n\nAn Entry Plug developed for the Dummy\nSystem. By making an Eva believe a Pilot\nis there, it can be activated even with\nno Pilot aboard."
+  },
+  {
+   "key": "0:23524",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x217"
+   ],
+   "ja": "ダミープラグ：非公開情報\n情報コード：ＦＷＦＥＲＨＯＭ\n\n　ダミープラグには、人格のコピーがされて\nいるが、魂はコピー出来ない。\n　なぜ出来ないのか、どうやればいいのか。\nそれはゼーレやネルフの技術部門にとって\n神への道を探るために重要な研究テーマで\nあり、長年にわたって対処が研究されていた。\nその失敗例がユイやアスカの母である。$n\nダミープラグ：非公開情報\n情報コード：ＦＷＦＥＲＨＯＭ\n\n　ダミープラグとはその途中で生まれて\nきたものである。",
+   "en": "Dummy Plug: Classified Info\nInfo Code: FWFERHOM\n\nThe Dummy Plug holds a copy of a\npersonality, but a soul cannot be\ncopied. Why it cannot, and how it could\nbe done, were important research themes\nfor SEELE and NERV's technical divisions\nin seeking the path to God, studied for\nmany years. Yui and Asuka's mother were\nexamples of failure.$n\nDummy Plug: Classified Info\nInfo Code: FWFERHOM\n\nThe Dummy Plug was born along the way."
+  },
+  {
+   "key": "0:23968",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x317"
+   ],
+   "ja": "ダミープラグ：最深度情報\n情報コード：ＡＫ４ＺＱ３２６\n\n　ダミーシステムとは、研究の末開発された\n人工的な魂である。\n　ただ機能的には大幅に劣り、エヴァを動か\nすという程度の機能しか持たせられなかった。",
+   "en": "Dummy Plug: Top Secret Info\nInfo Code: AK4ZQ326\n\nThe Dummy System is an artificial soul\ndeveloped after that research. However,\nits functions were greatly inferior, and\nit could only be given enough to move an\nEva."
+  },
+  {
+   "key": "0:24176",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x18"
+   ],
+   "ja": "ジオフロント：広報公開情報\n情報コード：ＫＺＷＯＵＶＴＡ\n\n　第３新東京市の地下に存在し、ネルフ本部\n施設が建築された謎の巨大な地下空間。\n　直径６キロ、高さ０．９キロの半球型の\n空間だが、現在はその８９％が埋没している。\n　地上の集光ブロックから光ファイバーに\nより太陽光が送り込まれ、地上と同様の明る\nさを保つ。$n\nジオフロント：広報公開情報\n情報コード：ＫＺＷＯＵＶＴＡ\n\n　建築されているのは、ネルフの施設が\nほとんどだが、民間人の避難シェルターも\n存在する。",
+   "en": "Geofront: Public Info\nInfo Code: KZWOUVTA\n\nA mysterious giant underground space\nbeneath Tokyo-3, where the NERV HQ\nfacilities were built. It is a\nhemispherical space 6 km in diameter and\n0.9 km high, but 89 percent of it is now\nburied. Sunlight is sent in by optical\nfiber from the light-gathering blocks on\nthe surface, keeping it as bright as\nabove ground.$n\nGeofront: Public Info\nInfo Code: KZWOUVTA\n\nMost of the buildings are NERV\nfacilities, but there are also shelters\nfor civilians."
+  },
+  {
+   "key": "0:24640",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x118"
+   ],
+   "ja": "ジオフロント：一般情報\n情報コード：ＱＥＭＸＱＵＬＡ\n\n　ネルフ本部があるジオフロントとは別に、\n南極にもジオフロントは存在した。\n　そして、その中にはアダムと称される\n第一使徒が発見された。",
+   "en": "Geofront: General Info\nInfo Code: QEMXQULA\n\nApart from the Geofront housing NERV HQ,\na Geofront also existed in Antarctica.\nWithin it, the First Angel, called Adam,\nwas discovered."
+  },
+  {
+   "key": "0:24836",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x218"
+   ],
+   "ja": "ジオフロント：非公開情報\n情報コード：Ｈ８Ｔ８ＵＨＺＶ\n\n　ジオフロントの正体は、ネルフ本部が\nあるものを「黒い月」、南極のものを\n「白い月」という。\n　黒い月にはリリス、白い月にはアダムが\n入っている。",
+   "en": "Geofront: Classified Info\nInfo Code: H8T8UHZV\n\nThe truth of the Geofronts is that the\none housing NERV HQ is called the Black\nMoon, and the Antarctic one the White\nMoon. Lilith is inside the Black Moon\nand Adam inside the White Moon."
+  },
+  {
+   "key": "0:25044",
+   "voice": 0,
+   "style": 0,
+   "ids": [
+    "0x318"
+   ],
+   "ja": "ジオフロント：最深度情報\n情報コード：ＯＮＫＫＣＯＺ５\n\n　まず、アダムを入れた白い月が地球に\n落ち、本来別の星系に行くはずだった黒い\n月が地球重力に囚われて、地面に激突して\nバウンドした後、地球の周囲を巡る衛星に\nなった。\n　リリスを入れた黒い月は、残骸だけを\n残して天に残り、中の種たるリリスは、\n地球に着床した。$n\nジオフロント：最深度情報\n情報コード：ＯＮＫＫＣＯＺ５\n\n　リリスが落ちたのは今で言う南極付近\nだったと思われるが、そのあとのプレート\n移動によって、最終的には日本の箱根付近\nにまで移動することになる。\n　箱根の大空洞はそれであり、後のネルフ\n本部は、ここに作られることになった。",
+   "en": "Geofront: Top Secret Info\nInfo Code: ONKKCOZ5\n\nFirst, the White Moon containing Adam\nfell to Earth. The Black Moon, which was\nmeant to go to another star system, was\ncaught by Earth's gravity, struck the\nground, bounced, and became a satellite\norbiting Earth. The Black Moon holding\nLilith remained in the sky, leaving only\nwreckage behind, and Lilith, the seed\nwithin, took root on Earth.$n\nGeofront: Top Secret Info\nInfo Code: ONKKCOZ5\n\nLilith probably landed in what is now\nAntarctica, but later plate movement\ncarried it all the way to the Hakone\narea of Japan. The Hakone cavern is that\nplace, and NERV HQ was later built\nthere."
+  }
+ ]
+}
