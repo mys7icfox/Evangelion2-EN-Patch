@@ -1,4 +1,4 @@
-# 🤖 Neon Genesis Evangelion 2 - English Translation Patch
+# 🤖 Shinseiki Evangelion 2 - Evangelions - English Translation Patch
 Welcome to the English fan translation project for *Neon Genesis Evangelion 2* (Shinseiki Evangelion 2: Evangelions, PS2, SLPS-25299)! This project aims to bring the full, immersive Evangelion simulation and story experience to English-speaking fans.
 
 ## 📊 Current Status
